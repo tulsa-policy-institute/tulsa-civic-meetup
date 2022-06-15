@@ -1,0 +1,13 @@
+{
+  "name": "tulsa-civic-meetup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "pull:data": "node scripts/pull"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "puppeteer": "^14.4.0"
+  }
+}
