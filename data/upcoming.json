@@ -8,7 +8,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 24517,
@@ -19,7 +21,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
   },
   {
     "Agenda_ID": 24516,
@@ -30,7 +34,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 24516,
@@ -41,7 +47,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
   },
   {
     "Agenda_ID": 24515,
@@ -52,7 +60,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 24515,
@@ -63,7 +73,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
   },
   {
     "Agenda_ID": 24514,
@@ -74,7 +86,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 24514,
@@ -85,7 +99,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
   },
   {
     "Agenda_ID": 25039,
@@ -96,7 +112,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 24513,
@@ -107,7 +125,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 24513,
@@ -118,7 +138,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
   },
   {
     "Agenda_ID": 24512,
@@ -129,7 +151,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 24512,
@@ -140,7 +164,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
   },
   {
     "Agenda_ID": 25235,
@@ -151,7 +177,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Board of Appeals",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 859,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25217,
@@ -162,7 +190,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Disability Review Committee",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 950,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25238,
@@ -173,7 +203,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Disability Review Committee",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 950,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25137,
@@ -184,7 +216,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Tulsa Preservation Commission",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25159,
@@ -195,7 +229,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "City Of Tulsa/Rogers County Port Authority (COTRCPA)",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25186,
@@ -206,7 +242,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25205,
@@ -217,7 +255,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25205,
@@ -228,7 +268,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 327
   },
   {
     "Agenda_ID": 24486,
@@ -239,7 +281,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Country Club GP, LLC",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 24486,
@@ -250,7 +294,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Housing Authority of the City of Tulsa (THA) - Country Club GP, LLC",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 312
   },
   {
     "Agenda_ID": 25233,
@@ -261,7 +307,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "River Parks Authority (RPA)",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 879,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25234,
@@ -272,7 +320,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "River Parks Authority (RPA)",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 879,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25239,
@@ -283,7 +333,9 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Standards Specifications & Awards Committee (SSA)",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25178,
@@ -294,6 +346,8 @@
     "Meeting_Type": "Regular",
     "Board_Name": "Tulsa City/County Library Commission (TCCLC)",
     "Return_Code": 0,
-    "Return_Message": ""
+    "Return_Message": "",
+    "boardID": 887,
+    "subCommitteeID": 0
   }
 ]

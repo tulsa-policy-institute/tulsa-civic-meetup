@@ -24,6 +24,14 @@ async function scrape() {
       subCommitteeID,
     });
 
+    if (data) {
+      return data.map(d => ({
+        ...d,
+        boardID,
+        subCommitteeID,
+      }))
+    }
+
     return data;
   }));
 
