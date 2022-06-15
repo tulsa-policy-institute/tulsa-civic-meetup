@@ -4,7 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "pull:data": "node scripts/pull"
+    "pull:data": "node ./scripts/pull.js"
   },
   "dependencies": {
     "axios": "^0.27.2",

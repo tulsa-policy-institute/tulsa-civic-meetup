@@ -44,6 +44,7 @@ async function scrape() {
     .filter(meeting => new Date(meeting.Meeting_Date) > new Date());
 
   fs.writeFileSync(path.resolve(pathToUpcoming), JSON.stringify(upcoming, null, 2));
+  console.log('done');
 }
 
 scrape();
