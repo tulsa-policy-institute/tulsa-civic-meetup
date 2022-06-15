@@ -23,7 +23,7 @@ function App() {
       <h1>Upcoming:</h1>
       <ul>
         {data.map((d, i) => <li key={i}>
-            {d.Board_Name}: {d.Meeting_Date} &nbsp;
+            {d.Board_Name}: {d.Meeting_Date} @ {d.Meeting_Time} &nbsp;
             <a
             href={`${DOC_URL}${d.Agenda_ID}`}
             target='_blank'
