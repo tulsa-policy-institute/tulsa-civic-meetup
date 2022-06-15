@@ -1,6 +1,12 @@
 const puppeteer = require('puppeteer');
 const axios = require('axios');
 const fs = require('fs');
+const path = require('path');
+
+const dataFolder = '../data';
+const now = new Date();
+const pathToData = path.join(__dirname, dataFolder, fileString(now)) + '.json';
+const pathToUpcoming = path.join(__dirname, dataFolder, 'upcoming') + '.json';
 
 async function scrape() {
   console.log('pulling');
@@ -23,7 +29,25 @@ async function scrape() {
 
   const flattened = meetings.reduce((acc, curr) => [...acc, ...curr], []);
 
-  fs.writeFileSync('data/meetings.json', JSON.stringify(flattened));
+  fs.writeFileSync(path.resolve(pathToData), JSON.stringify(flattened, null, 2));
+
+  const upcoming = flattened
+    .sort((a, b)  => new Date(b.Meeting_Date) - new Date(a.Meeting_Date))
+    .filter(meeting => new Date(meeting.Meeting_Date) > new Date());
+
+  fs.writeFileSync(path.resolve(pathToUpcoming), JSON.stringify(upcoming, null, 2));
 }
 
 scrape();
+
+function fileString(ts) {
+  const year = ts.getUTCFullYear();
+  const month = (ts.getUTCMonth() + 1).toString().padStart(2, '0');
+  const day = ts
+    .getUTCDate()
+    .toString()
+    .toString()
+    .padStart(2, '0');
+  const name = `${year}-${month}-${day}`;
+  return name;
+}
