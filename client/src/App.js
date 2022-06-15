@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { google, outlook, office365, yahoo, ics } from "calendar-link";
+import moment from 'moment';
 import './App.css';
 
 const DOC_URL = 'https://www.cityoftulsa.org/apps/COTDisplayDocument/?DocumentType=Agenda&DocumentIdentifiers=';
@@ -14,10 +15,11 @@ function App() {
       )).json();
 
       const formatted = result.map(r => {
+        const start = moment(`${r.Meeting_Date} ${r.Meeting_Time}`, 'MM-DD-YYYY h:mA').format();
         const event = {
           title: r.Board_Name,
           description: `${DOC_URL}${r.Agenda_ID}`,
-          start: `${r.Meeting_Date} ${r.Meeting_Time}`,
+          start: start,
           duration: [1, "hour"],
         };
 
@@ -53,7 +55,7 @@ function App() {
           >
             (View Agenda)
           </a>
-          Add to Calendar: {d.calendars.map((d, i) => <span><a key={i} href={d[1]}>{d[0]}</a> </span>)}
+          Add to Calendar: {d.calendars.map((d, i) => <span key={i}><a href={d[1]}>{d[0]}</a> </span>)}
         </li>)}
       </ul>
     </div>
