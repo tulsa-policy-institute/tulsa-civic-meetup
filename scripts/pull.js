@@ -3,7 +3,7 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-const dataFolder = '/../data';
+const dataFolder = '../data';
 const now = new Date();
 const pathToData = path.join(__dirname, dataFolder, fileString(now)) + '.json';
 const pathToUpcoming = path.join(__dirname, dataFolder, 'upcoming') + '.json';
