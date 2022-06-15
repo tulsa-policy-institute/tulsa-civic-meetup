@@ -1,0 +1,17 @@
+on:
+  schedule:
+    - cron:  '0 1 * * *' # Every day. Ref https://crontab.guru/examples.html
+name: Scrape Data
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Build
+      run: yarn install
+    - name: Scrape
+      run: yarn run pull:data 
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # GitHub sets this for you
