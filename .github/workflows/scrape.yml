@@ -1,6 +1,12 @@
 on:
   schedule:
     - cron:  '0 1 * * *' # Every day. Ref https://crontab.guru/examples.html
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'     
+        required: true
+        default: 'warning'
 name: Scrape Data
 jobs:
   build:
