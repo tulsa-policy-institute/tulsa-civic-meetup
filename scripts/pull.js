@@ -39,9 +39,12 @@ async function scrape() {
 
   fs.writeFileSync(path.resolve(pathToData), JSON.stringify(flattened, null, 2));
 
+  const now = new Date();
+  console.log(`Filtering for meetings after ${now}`);
+
   const upcoming = flattened
     .sort((a, b)  => new Date(b.Meeting_Date) - new Date(a.Meeting_Date))
-    .filter(meeting => new Date(meeting.Meeting_Date) > new Date());
+    .filter(meeting => new Date(meeting.Meeting_Date) >= now);
 
   fs.writeFileSync(path.resolve(pathToUpcoming), JSON.stringify(upcoming, null, 2));
   console.log('done');
