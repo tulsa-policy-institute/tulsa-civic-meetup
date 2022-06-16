@@ -208,6 +208,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25242,
+    "Meeting_Event_ID": 41419,
+    "File_Nme": "06292022 Change of Date of Reg Meeting Notice_2022-06-15_14-34-04",
+    "Meeting_Date": "06/29/2022",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Reschedule",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25137,
     "Meeting_Event_ID": 41330,
     "File_Nme": "FINAL - Website and City Clerk Notification - Tracy Park Historic Preservation Overlay 2022-05-19_2022-05-20_09-25-02",
@@ -247,9 +260,48 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25241,
+    "Meeting_Event_ID": 41418,
+    "File_Nme": "Agenda-Historic Preservation Permit Subcommittee-2022-06-21_2022-06-15_12-31-04",
+    "Meeting_Date": "06/21/2022",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25241,
+    "Meeting_Event_ID": 41418,
+    "File_Nme": "Agenda-Historic Preservation Permit Subcommittee-2022-06-21_2022-06-15_12-31-04",
+    "Meeting_Date": "06/21/2022",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
     "Agenda_ID": 25205,
     "Meeting_Event_ID": 41388,
     "File_Nme": "TARE Focus Committee Regular Meeting notice and agenda 6-21-2022_2022-06-06_16-08-03",
+    "Meeting_Date": "06/21/2022",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25240,
+    "Meeting_Event_ID": 41417,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 6-21-2022_2022-06-15_08-44-04",
     "Meeting_Date": "06/21/2022",
     "Meeting_Time": "2:30PM",
     "Meeting_Type": "Regular",
@@ -273,81 +325,16 @@
     "subCommitteeID": 327
   },
   {
-    "Agenda_ID": 24486,
-    "Meeting_Event_ID": 40801,
-    "File_Nme": "MELISSA COOVER_2021-12-13_16-01-01",
-    "Meeting_Date": "06/16/2022",
-    "Meeting_Time": "12:00PM",
+    "Agenda_ID": 25240,
+    "Meeting_Event_ID": 41417,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 6-21-2022_2022-06-15_08-44-04",
+    "Meeting_Date": "06/21/2022",
+    "Meeting_Time": "2:30PM",
     "Meeting_Type": "Regular",
-    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Country Club GP, LLC",
+    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 869,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 24486,
-    "Meeting_Event_ID": 40801,
-    "File_Nme": "MELISSA COOVER_2021-12-13_16-01-01",
-    "Meeting_Date": "06/16/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Country Club GP, LLC",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 869,
-    "subCommitteeID": 312
-  },
-  {
-    "Agenda_ID": 25233,
-    "Meeting_Event_ID": 41412,
-    "File_Nme": "NOTICE_0622_2022-06-13_15-55-04",
-    "Meeting_Date": "06/16/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "River Parks Authority (RPA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 879,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25234,
-    "Meeting_Event_ID": 41412,
-    "File_Nme": "AGENDA_0622_2022-06-13_15-55-04",
-    "Meeting_Date": "06/16/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "River Parks Authority (RPA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 879,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25239,
-    "Meeting_Event_ID": 41416,
-    "File_Nme": "SSA Agenda 06-16-2022_2022-06-14_16-04-02",
-    "Meeting_Date": "06/16/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25178,
-    "Meeting_Event_ID": 41364,
-    "File_Nme": "Notice of a Regular Meeting TCCL June_2022-06-01_14-30-01",
-    "Meeting_Date": "06/16/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City/County Library Commission (TCCLC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 887,
-    "subCommitteeID": 0
+    "boardID": 885,
+    "subCommitteeID": 327
   }
 ]
