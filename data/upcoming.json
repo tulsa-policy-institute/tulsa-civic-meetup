@@ -208,6 +208,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25244,
+    "Meeting_Event_ID": 41421,
+    "File_Nme": "July 1, 2022 CTAG Notice to Cancel Meeting_2022-06-16_15-58-07",
+    "Meeting_Date": "07/01/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Coalition Of Tulsa Area Governments (CTAG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 947,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25242,
     "Meeting_Event_ID": 41419,
     "File_Nme": "06292022 Change of Date of Reg Meeting Notice_2022-06-15_14-34-04",
@@ -312,6 +325,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25243,
+    "Meeting_Event_ID": 41420,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 6-21-2022_2022-06-16_09-52-06",
+    "Meeting_Date": "06/21/2022",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25205,
     "Meeting_Event_ID": 41388,
     "File_Nme": "TARE Focus Committee Regular Meeting notice and agenda 6-21-2022_2022-06-06_16-08-03",
@@ -328,6 +354,19 @@
     "Agenda_ID": 25240,
     "Meeting_Event_ID": 41417,
     "File_Nme": "TARE Focus Committee Meeting notice and agenda 6-21-2022_2022-06-15_08-44-04",
+    "Meeting_Date": "06/21/2022",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 327
+  },
+  {
+    "Agenda_ID": 25243,
+    "Meeting_Event_ID": 41420,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 6-21-2022_2022-06-16_09-52-06",
     "Meeting_Date": "06/21/2022",
     "Meeting_Time": "2:30PM",
     "Meeting_Type": "Regular",
