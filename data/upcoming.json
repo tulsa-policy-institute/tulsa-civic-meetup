@@ -312,6 +312,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25274,
+    "Meeting_Event_ID": 41446,
+    "File_Nme": "Full Board Regular Meeting Notice and Agenda 06-28-2022_2022-06-24_12-17-03",
+    "Meeting_Date": "06/28/2022",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25137,
     "Meeting_Event_ID": 41330,
     "File_Nme": "FINAL - Website and City Clerk Notification - Tracy Park Historic Preservation Overlay 2022-05-19_2022-05-20_09-25-02",
