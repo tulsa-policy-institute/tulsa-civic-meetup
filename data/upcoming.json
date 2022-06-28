@@ -221,6 +221,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25277,
+    "Meeting_Event_ID": 41449,
+    "File_Nme": "2022 06 28 Specification Mtg Agenda Special Meeting_2022-06-27_12-08-02",
+    "Meeting_Date": "06/29/2022",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Specification Review Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1002,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25242,
     "Meeting_Event_ID": 41419,
     "File_Nme": "06292022 Change of Date of Reg Meeting Notice_2022-06-15_14-34-04",
@@ -257,84 +270,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 886,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25270,
-    "Meeting_Event_ID": 41442,
-    "File_Nme": "2022-06-28-BOA-TGOV-Agenda_2022-06-22_10-31-02",
-    "Meeting_Date": "06/28/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25273,
-    "Meeting_Event_ID": 41445,
-    "File_Nme": "2022.6.28 MTTA Board Agenda_2022-06-23_16-44-03",
-    "Meeting_Date": "06/28/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25273,
-    "Meeting_Event_ID": 41445,
-    "File_Nme": "2022.6.28 MTTA Board Agenda_2022-06-23_16-44-03",
-    "Meeting_Date": "06/28/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 25272,
-    "Meeting_Event_ID": 41444,
-    "File_Nme": "Agenda 06-28-22_2022-06-23_10-05-03",
-    "Meeting_Date": "06/28/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Sales Tax Overview Committee (STOC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 880,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25274,
-    "Meeting_Event_ID": 41446,
-    "File_Nme": "Full Board Regular Meeting Notice and Agenda 06-28-2022_2022-06-24_12-17-03",
-    "Meeting_Date": "06/28/2022",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25137,
-    "Meeting_Event_ID": 41330,
-    "File_Nme": "FINAL - Website and City Clerk Notification - Tracy Park Historic Preservation Overlay 2022-05-19_2022-05-20_09-25-02",
-    "Meeting_Date": "06/28/2022",
-    "Meeting_Time": "4:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 928,
     "subCommitteeID": 0
   }
 ]
