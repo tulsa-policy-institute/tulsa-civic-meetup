@@ -169,6 +169,19 @@
     "subCommitteeID": 308
   },
   {
+    "Agenda_ID": 25280,
+    "Meeting_Event_ID": 41452,
+    "File_Nme": "July 8, 2022 CTAG Special Meeting Notice and Agenda_2022-06-28_14-15-05",
+    "Meeting_Date": "07/08/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Coalition Of Tulsa Area Governments (CTAG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 947,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25235,
     "Meeting_Event_ID": 41413,
     "File_Nme": "BOA 7-7-2022_2022-06-13_16-40-04",
@@ -221,55 +234,16 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 25277,
-    "Meeting_Event_ID": 41449,
-    "File_Nme": "2022 06 28 Specification Mtg Agenda Special Meeting_2022-06-27_12-08-02",
-    "Meeting_Date": "06/29/2022",
-    "Meeting_Time": "2:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Specification Review Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1002,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25242,
-    "Meeting_Event_ID": 41419,
-    "File_Nme": "06292022 Change of Date of Reg Meeting Notice_2022-06-15_14-34-04",
-    "Meeting_Date": "06/29/2022",
-    "Meeting_Time": "6:00PM",
-    "Meeting_Type": "Reschedule",
-    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 886,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25251,
-    "Meeting_Event_ID": 41428,
-    "File_Nme": "06292022 Reg Meeting Notice_2022-06-17_11-31-02",
-    "Meeting_Date": "06/29/2022",
-    "Meeting_Time": "6:00PM",
+    "Agenda_ID": 25281,
+    "Meeting_Event_ID": 41453,
+    "File_Nme": "SSA Agenda 06-30-2022_2022-06-28_15-53-05",
+    "Meeting_Date": "06/30/2022",
+    "Meeting_Time": "8:30AM",
     "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 886,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25252,
-    "Meeting_Event_ID": 41428,
-    "File_Nme": "BOH Meeting Agenda June 29 2022 (002)_2022-06-17_11-31-03",
-    "Meeting_Date": "06/29/2022",
-    "Meeting_Time": "6:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 886,
+    "boardID": 1003,
     "subCommitteeID": 0
   }
 ]
