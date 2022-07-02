@@ -143,6 +143,45 @@
     "subCommitteeID": 308
   },
   {
+    "Agenda_ID": 25293,
+    "Meeting_Event_ID": 41464,
+    "File_Nme": "NOTICE of a REGULAR MEETING July_2022-07-01_13-25-05",
+    "Meeting_Date": "07/21/2022",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City/County Library Commission (TCCLC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 887,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25292,
+    "Meeting_Event_ID": 41463,
+    "File_Nme": "Notice of Change of Meeting Date TPACT 07.11.22 to 07.18.22_2022-07-01_12-01-06",
+    "Meeting_Date": "07/18/2022",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Reschedule",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25292,
+    "Meeting_Event_ID": 41463,
+    "File_Nme": "Notice of Change of Meeting Date TPACT 07.11.22 to 07.18.22_2022-07-01_12-01-06",
+    "Meeting_Date": "07/18/2022",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Reschedule",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 274
+  },
+  {
     "Agenda_ID": 24512,
     "Meeting_Event_ID": 40820,
     "File_Nme": "7.14.22 Notice_2021-12-21_15-46-37",
@@ -167,6 +206,32 @@
     "Return_Message": "",
     "boardID": 869,
     "subCommitteeID": 308
+  },
+  {
+    "Agenda_ID": 25291,
+    "Meeting_Event_ID": 41462,
+    "File_Nme": "NOTICE OF CANCELATION Finance Committee 07.11.22_2022-07-01_12-01-05",
+    "Meeting_Date": "07/11/2022",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25291,
+    "Meeting_Event_ID": 41462,
+    "File_Nme": "NOTICE OF CANCELATION Finance Committee 07.11.22_2022-07-01_12-01-05",
+    "Meeting_Date": "07/11/2022",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 274
   },
   {
     "Agenda_ID": 25280,
@@ -218,6 +283,45 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25295,
+    "Meeting_Event_ID": 41466,
+    "File_Nme": "Agenda-HPPS-2022-07-07_2022-07-01_15-13-04",
+    "Meeting_Date": "07/07/2022",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25295,
+    "Meeting_Event_ID": 41466,
+    "File_Nme": "Agenda-HPPS-2022-07-07_2022-07-01_15-13-04",
+    "Meeting_Date": "07/07/2022",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 279
+  },
+  {
+    "Agenda_ID": 25294,
+    "Meeting_Event_ID": 41465,
+    "File_Nme": "7-6-22 Agenda_2022-07-01_14-01-04",
+    "Meeting_Date": "07/06/2022",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Contractors Prequalification Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 948,
     "subCommitteeID": 0
   },
   {
