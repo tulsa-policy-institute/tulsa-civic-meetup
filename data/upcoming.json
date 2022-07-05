@@ -336,31 +336,5 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25289,
-    "Meeting_Event_ID": 41461,
-    "File_Nme": "7-5-22 MERP Board Meeting Agenda_2022-06-30_15-32-04",
-    "Meeting_Date": "07/05/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25289,
-    "Meeting_Event_ID": 41461,
-    "File_Nme": "7-5-22 MERP Board Meeting Agenda_2022-06-30_15-32-04",
-    "Meeting_Date": "07/05/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
   }
 ]
