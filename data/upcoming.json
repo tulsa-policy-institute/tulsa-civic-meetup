@@ -182,6 +182,19 @@
     "subCommitteeID": 274
   },
   {
+    "Agenda_ID": 25297,
+    "Meeting_Event_ID": 41468,
+    "File_Nme": "Cancelation Notice 07142022 CSC Meeting_2022-07-05_12-16-02",
+    "Meeting_Date": "07/14/2022",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 24512,
     "Meeting_Event_ID": 40820,
     "File_Nme": "7.14.22 Notice_2021-12-21_15-46-37",
@@ -286,6 +299,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25298,
+    "Meeting_Event_ID": 41469,
+    "File_Nme": "SSA Agenda 07-07-2022_2022-07-05_16-15-02",
+    "Meeting_Date": "07/07/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25295,
     "Meeting_Event_ID": 41466,
     "File_Nme": "Agenda-HPPS-2022-07-07_2022-07-01_15-13-04",
@@ -310,31 +336,5 @@
     "Return_Message": "",
     "boardID": 928,
     "subCommitteeID": 279
-  },
-  {
-    "Agenda_ID": 25294,
-    "Meeting_Event_ID": 41465,
-    "File_Nme": "7-6-22 Agenda_2022-07-01_14-01-04",
-    "Meeting_Date": "07/06/2022",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Contractors Prequalification Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 948,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25288,
-    "Meeting_Event_ID": 41460,
-    "File_Nme": "July 6, 2022 TMAPC Meeting Agenda_2022-06-30_15-12-05",
-    "Meeting_Date": "07/06/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 892,
-    "subCommitteeID": 0
   }
 ]
