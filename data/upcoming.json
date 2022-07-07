@@ -221,6 +221,19 @@
     "subCommitteeID": 308
   },
   {
+    "Agenda_ID": 25300,
+    "Meeting_Event_ID": 41471,
+    "File_Nme": "2022-07-12-BOA TGOV-Agenda_2022-07-06_12-59-05",
+    "Meeting_Date": "07/12/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Board of Adjustment (BOA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25291,
     "Meeting_Event_ID": 41462,
     "File_Nme": "NOTICE OF CANCELATION Finance Committee 07.11.22_2022-07-01_12-01-05",
@@ -258,83 +271,5 @@
     "Return_Message": "",
     "boardID": 947,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25235,
-    "Meeting_Event_ID": 41413,
-    "File_Nme": "BOA 7-7-2022_2022-06-13_16-40-04",
-    "Meeting_Date": "07/07/2022",
-    "Meeting_Time": "3:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Appeals",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 859,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25217,
-    "Meeting_Event_ID": 41397,
-    "File_Nme": "July 2022 DRC Agenda_2022-06-03_11-30-03_2022-06-08_10-56-02",
-    "Meeting_Date": "07/07/2022",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Disability Review Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 950,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25238,
-    "Meeting_Event_ID": 41415,
-    "File_Nme": "July 2022 DRC Agenda-revised_2022-06-14_10-07-02",
-    "Meeting_Date": "07/07/2022",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Disability Review Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 950,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25298,
-    "Meeting_Event_ID": 41469,
-    "File_Nme": "SSA Agenda 07-07-2022_2022-07-05_16-15-02",
-    "Meeting_Date": "07/07/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25295,
-    "Meeting_Event_ID": 41466,
-    "File_Nme": "Agenda-HPPS-2022-07-07_2022-07-01_15-13-04",
-    "Meeting_Date": "07/07/2022",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 928,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25295,
-    "Meeting_Event_ID": 41466,
-    "File_Nme": "Agenda-HPPS-2022-07-07_2022-07-01_15-13-04",
-    "Meeting_Date": "07/07/2022",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 928,
-    "subCommitteeID": 279
   }
 ]
