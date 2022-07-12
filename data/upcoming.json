@@ -208,6 +208,32 @@
     "subCommitteeID": 308
   },
   {
+    "Agenda_ID": 25329,
+    "Meeting_Event_ID": 41499,
+    "File_Nme": "August 2022 DRC Agenda_2022-07-11_08-05-01",
+    "Meeting_Date": "08/04/2022",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Disability Review Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25336,
+    "Meeting_Event_ID": 41505,
+    "File_Nme": "APL Agenda July 27-2022_2022-07-11_15-33-01",
+    "Meeting_Date": "07/27/2022",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City of Tulsa Traffic Operations Product Review Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 945,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25293,
     "Meeting_Event_ID": 41464,
     "File_Nme": "NOTICE of a REGULAR MEETING July_2022-07-01_13-25-05",
@@ -273,6 +299,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25335,
+    "Meeting_Event_ID": 41504,
+    "File_Nme": "7.14.22 THA Agenda Red_2022-07-11_15-32-01",
+    "Meeting_Date": "07/14/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 24512,
     "Meeting_Event_ID": 40820,
     "File_Nme": "7.14.22 Notice_2021-12-21_15-46-37",
@@ -284,6 +323,32 @@
     "Return_Message": "",
     "boardID": 869,
     "subCommitteeID": 308
+  },
+  {
+    "Agenda_ID": 25335,
+    "Meeting_Event_ID": 41504,
+    "File_Nme": "7.14.22 THA Agenda Red_2022-07-11_15-32-01",
+    "Meeting_Date": "07/14/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
+  },
+  {
+    "Agenda_ID": 25331,
+    "Meeting_Event_ID": 41501,
+    "File_Nme": "7-14-22 Agenda Final_2022-07-11_09-12-01",
+    "Meeting_Date": "07/14/2022",
+    "Meeting_Time": "5:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "HUD Community Development Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 868,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25302,
@@ -325,6 +390,32 @@
     "subCommitteeID": 244
   },
   {
+    "Agenda_ID": 25337,
+    "Meeting_Event_ID": 41506,
+    "File_Nme": "2022-07-14_TAIT-TAA Agenda_Final_07-11-2022_2022-07-11_15-36-01",
+    "Meeting_Date": "07/14/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25338,
+    "Meeting_Event_ID": 41507,
+    "File_Nme": "2022-07-14_TAA Agenda_Final_07-11-2022_2022-07-11_15-36-01",
+    "Meeting_Date": "07/14/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25316,
     "Meeting_Event_ID": 41487,
     "File_Nme": "Agenda-TPC-2022-07-14_2022-07-08_12-37-04",
@@ -335,6 +426,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 928,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25333,
+    "Meeting_Event_ID": 41503,
+    "File_Nme": "01 FMSC Agenda 07-13-22_2022-07-11_10-09-01",
+    "Meeting_Date": "07/13/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Fleet Management Steering Committee of The City of Tulsa",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 958,
     "subCommitteeID": 0
   },
   {
@@ -374,6 +478,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 979,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25332,
+    "Meeting_Event_ID": 41502,
+    "File_Nme": "911 Board Regular Meeting Notice and Agenda JULY, 2022_2022-07-11_10-05-01",
+    "Meeting_Date": "07/13/2022",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Regional Enhanced 911 Board",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 994,
     "subCommitteeID": 0
   },
   {
@@ -556,110 +673,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 930,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25300,
-    "Meeting_Event_ID": 41471,
-    "File_Nme": "2022-07-12-BOA TGOV-Agenda_2022-07-06_12-59-05",
-    "Meeting_Date": "07/12/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25301,
-    "Meeting_Event_ID": 41472,
-    "File_Nme": "Meeting Cancellation Notice July 12 2022_2022-07-07_10-23-04",
-    "Meeting_Date": "07/12/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Gilcrease Museum Board Of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 960,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25308,
-    "Meeting_Event_ID": 41479,
-    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, July 12, 2023_2022-07-08_08-03-04",
-    "Meeting_Date": "07/12/2022",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25308,
-    "Meeting_Event_ID": 41479,
-    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, July 12, 2023_2022-07-08_08-03-04",
-    "Meeting_Date": "07/12/2022",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 311
-  },
-  {
-    "Agenda_ID": 25317,
-    "Meeting_Event_ID": 41488,
-    "File_Nme": "Cancellation Notice (07-12-2022)_2022-07-08_13-03-04",
-    "Meeting_Date": "07/12/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Park And Recreation Board (PRB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 877,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25305,
-    "Meeting_Event_ID": 41476,
-    "File_Nme": "Executive Committee CANCELED MTG 7.12.2022_2022-07-07_12-54-04",
-    "Meeting_Date": "07/12/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tri-County Council on Aging - Executive Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1009,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25305,
-    "Meeting_Event_ID": 41476,
-    "File_Nme": "Executive Committee CANCELED MTG 7.12.2022_2022-07-07_12-54-04",
-    "Meeting_Date": "07/12/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tri-County Council on Aging - Executive Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1009,
-    "subCommitteeID": 250
-  },
-  {
-    "Agenda_ID": 25315,
-    "Meeting_Event_ID": 41486,
-    "File_Nme": "7-12-22 Agenda_2022-07-08_11-48-04",
-    "Meeting_Date": "07/12/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Route 66 Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1080,
     "subCommitteeID": 0
   }
 ]
