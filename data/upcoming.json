@@ -247,6 +247,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25347,
+    "Meeting_Event_ID": 41516,
+    "File_Nme": "NOTICE OF MEETING CANCELLATION - JULY 2022_2022-07-14_13-44-01",
+    "Meeting_Date": "07/21/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "City Of Tulsa/Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25348,
+    "Meeting_Event_ID": 41517,
+    "File_Nme": "NOTICE OF CANCELLATION_0722_2022-07-14_14-48-01",
+    "Meeting_Date": "07/21/2022",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "River Parks Authority (RPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 879,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25293,
     "Meeting_Event_ID": 41464,
     "File_Nme": "NOTICE of a REGULAR MEETING July_2022-07-01_13-25-05",
@@ -257,6 +283,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 887,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25346,
+    "Meeting_Event_ID": 41515,
+    "File_Nme": "07.20.2022  July Tri-County Council on Aging Regular Meeting_2022-07-14_13-30-01",
+    "Meeting_Date": "07/20/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tri-County Council on Aging",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25349,
+    "Meeting_Event_ID": 41518,
+    "File_Nme": "Regular TMAPC Meeting Agenda 2022-07-20_2022-07-14_16-07-01",
+    "Meeting_Date": "07/20/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
     "subCommitteeID": 0
   },
   {
