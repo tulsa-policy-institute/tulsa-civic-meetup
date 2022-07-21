@@ -271,57 +271,5 @@
     "Return_Message": "",
     "boardID": 945,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25347,
-    "Meeting_Event_ID": 41516,
-    "File_Nme": "NOTICE OF MEETING CANCELLATION - JULY 2022_2022-07-14_13-44-01",
-    "Meeting_Date": "07/21/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "City Of Tulsa/Rogers County Port Authority (COTRCPA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 860,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25348,
-    "Meeting_Event_ID": 41517,
-    "File_Nme": "NOTICE OF CANCELLATION_0722_2022-07-14_14-48-01",
-    "Meeting_Date": "07/21/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "River Parks Authority (RPA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 879,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25364,
-    "Meeting_Event_ID": 41533,
-    "File_Nme": "SSA Agenda 07-21-2022_2022-07-19_14-40-01",
-    "Meeting_Date": "07/21/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25293,
-    "Meeting_Event_ID": 41464,
-    "File_Nme": "NOTICE of a REGULAR MEETING July_2022-07-01_13-25-05",
-    "Meeting_Date": "07/21/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City/County Library Commission (TCCLC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 887,
-    "subCommitteeID": 0
   }
 ]
