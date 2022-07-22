@@ -271,5 +271,44 @@
     "Return_Message": "",
     "boardID": 945,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25367,
+    "Meeting_Event_ID": 41536,
+    "File_Nme": "Agenda 07-26-22_2022-07-21_16-22-01",
+    "Meeting_Date": "07/26/2022",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Sales Tax Overview Committee (STOC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 880,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25366,
+    "Meeting_Event_ID": 41535,
+    "File_Nme": "Full Board Regular Meeting Notice and Agenda 07-26-2022_2022-07-21_14-54-01",
+    "Meeting_Date": "07/26/2022",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25365,
+    "Meeting_Event_ID": 41534,
+    "File_Nme": "Agenda-TPC-2022-07-26_2022-07-21_08-29-01",
+    "Meeting_Date": "07/26/2022",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 0
   }
 ]
