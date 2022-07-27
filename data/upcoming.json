@@ -208,6 +208,19 @@
     "subCommitteeID": 308
   },
   {
+    "Agenda_ID": 25384,
+    "Meeting_Event_ID": 41550,
+    "File_Nme": "August 5, 2022 CTAG Notice to Cancel Meeting_2022-07-26_13-51-02",
+    "Meeting_Date": "08/05/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Coalition Of Tulsa Area Governments (CTAG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 947,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25329,
     "Meeting_Event_ID": 41499,
     "File_Nme": "August 2022 DRC Agenda_2022-07-11_08-05-01",
@@ -257,6 +270,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 879,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25385,
+    "Meeting_Event_ID": 41551,
+    "File_Nme": "SSA Agenda 07-28-2022_2022-07-26_14-39-02",
+    "Meeting_Date": "07/28/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
     "subCommitteeID": 0
   },
   {
@@ -322,97 +348,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 1076,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25336,
-    "Meeting_Event_ID": 41505,
-    "File_Nme": "APL Agenda July 27-2022_2022-07-11_15-33-01",
-    "Meeting_Date": "07/27/2022",
-    "Meeting_Time": "2:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "City of Tulsa Traffic Operations Product Review Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 945,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25342,
-    "Meeting_Event_ID": 41511,
-    "File_Nme": "APL Agenda July 27-2022_2022-07-12_14-29-01",
-    "Meeting_Date": "07/27/2022",
-    "Meeting_Time": "2:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "City of Tulsa Traffic Operations Product Review Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 945,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25371,
-    "Meeting_Event_ID": 41539,
-    "File_Nme": "07272022 FR Agenda_2022-07-22_09-10-01",
-    "Meeting_Date": "07/27/2022",
-    "Meeting_Time": "9:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 893,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25372,
-    "Meeting_Event_ID": 41540,
-    "File_Nme": "07272022 TMUA Agenda _2022-07-22_09-15-01",
-    "Meeting_Date": "07/27/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 893,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25371,
-    "Meeting_Event_ID": 41539,
-    "File_Nme": "07272022 FR Agenda_2022-07-22_09-10-01",
-    "Meeting_Date": "07/27/2022",
-    "Meeting_Time": "9:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 893,
-    "subCommitteeID": 271
-  },
-  {
-    "Agenda_ID": 25373,
-    "Meeting_Event_ID": 41541,
-    "File_Nme": "07272022 TUB Agenda_2022-07-22_09-15-02",
-    "Meeting_Date": "07/27/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Utility Board",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 930,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25375,
-    "Meeting_Event_ID": 41543,
-    "File_Nme": "7-27-22 Hearing Cancellation Letter_2022-07-22_14-39-01",
-    "Meeting_Date": "07/27/2022",
-    "Meeting_Time": "12:30PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Working In Neighborhoods (WIN)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 934,
     "subCommitteeID": 0
   }
 ]
