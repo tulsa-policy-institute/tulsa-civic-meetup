@@ -169,6 +169,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25398,
+    "Meeting_Event_ID": 41563,
+    "File_Nme": "NOTICE of a REGULAR MEETING August_2022-08-01_09-44-01",
+    "Meeting_Date": "08/18/2022",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City/County Library Commission (TCCLC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 887,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25039,
     "Meeting_Event_ID": 41245,
     "File_Nme": "081722 Notice of Changed Meeting_2022-04-28_10-35-23",
@@ -299,6 +312,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25397,
+    "Meeting_Event_ID": 41562,
+    "File_Nme": "8-3-22Cancellation_2022-08-01_08-14-01",
+    "Meeting_Date": "08/03/2022",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Contractors Prequalification Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 948,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25399,
+    "Meeting_Event_ID": 41564,
+    "File_Nme": "08 03 22 PCSSC Agenda_2022-08-01_16-01-01",
+    "Meeting_Date": "08/03/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25395,
     "Meeting_Event_ID": 41560,
     "File_Nme": "2022-08-03 UED_2022-07-29_14-43-02",
@@ -414,31 +453,5 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25388,
-    "Meeting_Event_ID": 41553,
-    "File_Nme": "8-2-22 MERP Board Meeting Agenda_2022-07-29_08-10-01",
-    "Meeting_Date": "08/02/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25388,
-    "Meeting_Event_ID": 41553,
-    "File_Nme": "8-2-22 MERP Board Meeting Agenda_2022-07-29_08-10-01",
-    "Meeting_Date": "08/02/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
   }
 ]
