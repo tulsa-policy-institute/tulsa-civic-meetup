@@ -234,6 +234,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25451,
+    "Meeting_Event_ID": 41609,
+    "File_Nme": "2022-08-17 Work Session_2022-08-11_14-36-01",
+    "Meeting_Date": "08/17/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC) - Work Session",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25452,
+    "Meeting_Event_ID": 41610,
+    "File_Nme": "2022-08-17_2022-08-11_14-36-02",
+    "Meeting_Date": "08/17/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25451,
+    "Meeting_Event_ID": 41609,
+    "File_Nme": "2022-08-17 Work Session_2022-08-11_14-36-01",
+    "Meeting_Date": "08/17/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC) - Work Session",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 269
+  },
+  {
     "Agenda_ID": 25449,
     "Meeting_Event_ID": 41607,
     "File_Nme": "August 16 2022 Regular Meeting Agenda_2022-08-09_15-44-01",
@@ -297,5 +336,44 @@
     "Return_Message": "",
     "boardID": 869,
     "subCommitteeID": 308
+  },
+  {
+    "Agenda_ID": 25453,
+    "Meeting_Event_ID": 41611,
+    "File_Nme": "Agenda-HPPS-2022-08-16_2022-08-11_15-29-01",
+    "Meeting_Date": "08/16/2022",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25453,
+    "Meeting_Event_ID": 41611,
+    "File_Nme": "Agenda-HPPS-2022-08-16_2022-08-11_15-29-01",
+    "Meeting_Date": "08/16/2022",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 279
+  },
+  {
+    "Agenda_ID": 25450,
+    "Meeting_Event_ID": 41608,
+    "File_Nme": "08152022 HRC Agenda_2022-08-11_13-18-01",
+    "Meeting_Date": "08/15/2022",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Human Rights Commission (HRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 870,
+    "subCommitteeID": 0
   }
 ]
