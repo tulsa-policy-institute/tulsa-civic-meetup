@@ -427,18 +427,5 @@
     "Return_Message": "",
     "boardID": 928,
     "subCommitteeID": 279
-  },
-  {
-    "Agenda_ID": 25450,
-    "Meeting_Event_ID": 41608,
-    "File_Nme": "08152022 HRC Agenda_2022-08-11_13-18-01",
-    "Meeting_Date": "08/15/2022",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Human Rights Commission (HRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 870,
-    "subCommitteeID": 0
   }
 ]
