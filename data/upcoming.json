@@ -117,6 +117,19 @@
     "subCommitteeID": 308
   },
   {
+    "Agenda_ID": 25490,
+    "Meeting_Event_ID": 41645,
+    "File_Nme": "CITY PA NOTICE MTG DATE RESCHEDULED SEPT 2022_2022-08-22_11-03-04",
+    "Meeting_Date": "09/22/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City Of Tulsa/Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25319,
     "Meeting_Event_ID": 41490,
     "File_Nme": "BOA Agenda - September 15, 2022_2022-07-08_14-37-05",
@@ -127,6 +140,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25489,
+    "Meeting_Event_ID": 41644,
+    "File_Nme": "CITY PA NOTICE MTG DATE AMENDED- SEPT 2022_2022-08-22_11-03-03",
+    "Meeting_Date": "09/15/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "City Of Tulsa/Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
     "subCommitteeID": 0
   },
   {
@@ -192,6 +218,71 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25486,
+    "Meeting_Event_ID": 41641,
+    "File_Nme": "2022-08-26 Notice TPFA Special Meeting_2022-08-22_08-57-04",
+    "Meeting_Date": "08/26/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Public Facilities Authority (TPFA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 896,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25488,
+    "Meeting_Event_ID": 41643,
+    "File_Nme": "Audit Committee Agenda 08-25-22_2022-08-22_09-05-03",
+    "Meeting_Date": "08/25/2022",
+    "Meeting_Time": "11:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City of Tulsa Audit Committee (AUDIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 873,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25491,
+    "Meeting_Event_ID": 41646,
+    "File_Nme": "TAEO_Notice of Annual Meeting 08.25.22_2022-08-22_11-43-03",
+    "Meeting_Date": "08/25/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 891,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25492,
+    "Meeting_Event_ID": 41647,
+    "File_Nme": "TDA_Draft Agenda 08.25.22_2022-08-22_13-05-03",
+    "Meeting_Date": "08/25/2022",
+    "Meeting_Time": "9:15AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Development Authority (TDA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 889,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25485,
+    "Meeting_Event_ID": 41640,
+    "File_Nme": "2022-08-25 Cancellation Notice TPFA Regular Meeting_2022-08-22_08-57-03",
+    "Meeting_Date": "08/25/2022",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Public Facilities Authority (TPFA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 896,
     "subCommitteeID": 0
   },
   {
@@ -299,6 +390,19 @@
     "subCommitteeID": 265
   },
   {
+    "Agenda_ID": 25487,
+    "Meeting_Event_ID": 41642,
+    "File_Nme": "08242022 TMUA Agenda_2022-08-19_08-55-05_2022-08-22_08-58-03",
+    "Meeting_Date": "08/24/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25475,
     "Meeting_Event_ID": 41630,
     "File_Nme": "08242022 FR Agenda_2022-08-19_08-55-04",
@@ -348,97 +452,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 930,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25472,
-    "Meeting_Event_ID": 41627,
-    "File_Nme": "2022-08-23 BOA TGOV-Agenda_2022-08-17_16-14-02",
-    "Meeting_Date": "08/23/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25478,
-    "Meeting_Event_ID": 41633,
-    "File_Nme": "2022.8.23 MTTA Board Agenda _2022-08-19_09-55-04",
-    "Meeting_Date": "08/23/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25478,
-    "Meeting_Event_ID": 41633,
-    "File_Nme": "2022.8.23 MTTA Board Agenda _2022-08-19_09-55-04",
-    "Meeting_Date": "08/23/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 25474,
-    "Meeting_Event_ID": 41629,
-    "File_Nme": "Agenda 08-23-22_2022-08-19_07-59-04",
-    "Meeting_Date": "08/23/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Sales Tax Overview Committee (STOC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 880,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25479,
-    "Meeting_Event_ID": 41634,
-    "File_Nme": "TARE Focus Committee Regular Meeting notice and agenda 8-23-2022_2022-08-19_11-17-04",
-    "Meeting_Date": "08/23/2022",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25479,
-    "Meeting_Event_ID": 41634,
-    "File_Nme": "TARE Focus Committee Regular Meeting notice and agenda 8-23-2022_2022-08-19_11-17-04",
-    "Meeting_Date": "08/23/2022",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 327
-  },
-  {
-    "Agenda_ID": 25473,
-    "Meeting_Event_ID": 41628,
-    "File_Nme": "Agenda-TPC-2022-08-23_2022-08-18_14-46-02",
-    "Meeting_Date": "08/23/2022",
-    "Meeting_Time": "4:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 928,
     "subCommitteeID": 0
   }
 ]
