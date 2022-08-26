@@ -258,31 +258,5 @@
     "Return_Message": "",
     "boardID": 871,
     "subCommitteeID": 240
-  },
-  {
-    "Agenda_ID": 25486,
-    "Meeting_Event_ID": 41641,
-    "File_Nme": "2022-08-26 Notice TPFA Special Meeting_2022-08-22_08-57-04",
-    "Meeting_Date": "08/26/2022",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Public Facilities Authority (TPFA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 896,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25498,
-    "Meeting_Event_ID": 41653,
-    "File_Nme": "2022-08-26 Agenda-TPFA Special Meeting_2022-08-24_13-12-04",
-    "Meeting_Date": "08/26/2022",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Public Facilities Authority (TPFA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 896,
-    "subCommitteeID": 0
   }
 ]
