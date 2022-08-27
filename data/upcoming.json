@@ -1,5 +1,18 @@
 [
   {
+    "Agenda_ID": 25500,
+    "Meeting_Event_ID": 41655,
+    "File_Nme": "BOA 2023 Annual Meeting Schedule_2022-08-26_10-26-05",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Board of Appeals",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25324,
     "Meeting_Event_ID": 41494,
     "File_Nme": "BOA Agenda - December 15, 2022_2022-07-08_14-50-04",
@@ -234,6 +247,123 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25499,
+    "Meeting_Event_ID": 41654,
+    "File_Nme": "2022-31-08 TPC Agenda_2022-08-26_09-44-05",
+    "Meeting_Date": "08/31/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Transportation Policy Committee (TPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1007,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25501,
+    "Meeting_Event_ID": 41656,
+    "File_Nme": "2022-08-31 4PM_2022-08-26_16-20-05",
+    "Meeting_Date": "08/31/2022",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25502,
+    "Meeting_Event_ID": 41657,
+    "File_Nme": "2022-08-31 5PM_2022-08-26_16-20-06",
+    "Meeting_Date": "08/31/2022",
+    "Meeting_Time": "5:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25503,
+    "Meeting_Event_ID": 41658,
+    "File_Nme": "2022-08-31 UED_2022-08-26_16-20-06",
+    "Meeting_Date": "08/31/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Urban And Economic Development Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25504,
+    "Meeting_Event_ID": 41659,
+    "File_Nme": "2022-08-31 BUD SP_2022-08-26_16-20-06",
+    "Meeting_Date": "08/31/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa City Council - Budget and Special Projects Committee Meeting",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25505,
+    "Meeting_Event_ID": 41660,
+    "File_Nme": "2022-08-31 PW_2022-08-26_16-20-06",
+    "Meeting_Date": "08/31/2022",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Public Works Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25504,
+    "Meeting_Event_ID": 41659,
+    "File_Nme": "2022-08-31 BUD SP_2022-08-26_16-20-06",
+    "Meeting_Date": "08/31/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa City Council - Budget and Special Projects Committee Meeting",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 257
+  },
+  {
+    "Agenda_ID": 25505,
+    "Meeting_Event_ID": 41660,
+    "File_Nme": "2022-08-31 PW_2022-08-26_16-20-06",
+    "Meeting_Date": "08/31/2022",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Public Works Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 263
+  },
+  {
+    "Agenda_ID": 25503,
+    "Meeting_Event_ID": 41658,
+    "File_Nme": "2022-08-31 UED_2022-08-26_16-20-06",
+    "Meeting_Date": "08/31/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Urban And Economic Development Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 265
+  },
+  {
     "Agenda_ID": 25494,
     "Meeting_Event_ID": 41649,
     "File_Nme": "Notice and Agenda for INCOG CEDS Committee Special Meeting - August 30, 2022 at 9am_2022-08-23_10-52-04",
@@ -258,5 +388,18 @@
     "Return_Message": "",
     "boardID": 871,
     "subCommitteeID": 240
+  },
+  {
+    "Agenda_ID": 25506,
+    "Meeting_Event_ID": 41661,
+    "File_Nme": "TARE Full Board Regular Meeting Notice and Agenda 08-30-2022_2022-08-26_16-55-05",
+    "Meeting_Date": "08/30/2022",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
   }
 ]
