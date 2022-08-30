@@ -169,6 +169,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25507,
+    "Meeting_Event_ID": 41662,
+    "File_Nme": "Final Regular Meeting Agenda CSC 09082022_2022-08-29_09-06-01",
+    "Meeting_Date": "09/08/2022",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 24514,
     "Meeting_Event_ID": 40822,
     "File_Nme": "9.8.22 Notice_2021-12-21_15-46-45",
@@ -245,6 +258,32 @@
     "Return_Message": "",
     "boardID": 874,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25508,
+    "Meeting_Event_ID": 41663,
+    "File_Nme": "Agenda-HPPS-2022-09-01_2022-08-29_10-34-01",
+    "Meeting_Date": "09/01/2022",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25508,
+    "Meeting_Event_ID": 41663,
+    "File_Nme": "Agenda-HPPS-2022-09-01_2022-08-29_10-34-01",
+    "Meeting_Date": "09/01/2022",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 279
   },
   {
     "Agenda_ID": 25499,
@@ -362,44 +401,5 @@
     "Return_Message": "",
     "boardID": 899,
     "subCommitteeID": 265
-  },
-  {
-    "Agenda_ID": 25494,
-    "Meeting_Event_ID": 41649,
-    "File_Nme": "Notice and Agenda for INCOG CEDS Committee Special Meeting - August 30, 2022 at 9am_2022-08-23_10-52-04",
-    "Meeting_Date": "08/30/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Economic Development District",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25494,
-    "Meeting_Event_ID": 41649,
-    "File_Nme": "Notice and Agenda for INCOG CEDS Committee Special Meeting - August 30, 2022 at 9am_2022-08-23_10-52-04",
-    "Meeting_Date": "08/30/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Economic Development District",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 240
-  },
-  {
-    "Agenda_ID": 25506,
-    "Meeting_Event_ID": 41661,
-    "File_Nme": "TARE Full Board Regular Meeting Notice and Agenda 08-30-2022_2022-08-26_16-55-05",
-    "Meeting_Date": "08/30/2022",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
   }
 ]
