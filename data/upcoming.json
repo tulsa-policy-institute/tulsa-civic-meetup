@@ -143,6 +143,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25512,
+    "Meeting_Event_ID": 41667,
+    "File_Nme": "CANCELLATION 9-20-22_2022-08-31_08-03-01",
+    "Meeting_Date": "09/20/2022",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Board of Appeals",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25319,
     "Meeting_Event_ID": 41490,
     "File_Nme": "BOA Agenda - September 15, 2022_2022-07-08_14-37-05",
@@ -208,6 +221,19 @@
     "subCommitteeID": 308
   },
   {
+    "Agenda_ID": 25513,
+    "Meeting_Event_ID": 41668,
+    "File_Nme": "September Agenda_2022-08-31_09-38-02",
+    "Meeting_Date": "09/08/2022",
+    "Meeting_Time": "5:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "HUD Community Development Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 868,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25511,
     "Meeting_Event_ID": 41666,
     "File_Nme": "September 2, 2022 CTAG Meeting Notice and Agenda_2022-08-30_16-22-02",
@@ -232,83 +258,5 @@
     "Return_Message": "",
     "boardID": 874,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25435,
-    "Meeting_Event_ID": 41597,
-    "File_Nme": "Sept 2022 DRC Agenda_2022-08-08_11-19-01",
-    "Meeting_Date": "09/01/2022",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Disability Review Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 950,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25497,
-    "Meeting_Event_ID": 41652,
-    "File_Nme": "09012022 MCSW Agenda_2022-08-24_11-47-04",
-    "Meeting_Date": "09/01/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Mayor's Commission on the Status of Women",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 874,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25470,
-    "Meeting_Event_ID": 41625,
-    "File_Nme": "MCSW September Notice of Date Change_2022-08-17_11-29-02",
-    "Meeting_Date": "09/01/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Mayor's Commission on the Status of Women",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 874,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25510,
-    "Meeting_Event_ID": 41665,
-    "File_Nme": "SSA Agenda 09-01-2022_2022-08-30_14-49-02",
-    "Meeting_Date": "09/01/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25508,
-    "Meeting_Event_ID": 41663,
-    "File_Nme": "Agenda-HPPS-2022-09-01_2022-08-29_10-34-01",
-    "Meeting_Date": "09/01/2022",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 928,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25508,
-    "Meeting_Event_ID": 41663,
-    "File_Nme": "Agenda-HPPS-2022-09-01_2022-08-29_10-34-01",
-    "Meeting_Date": "09/01/2022",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 928,
-    "subCommitteeID": 279
   }
 ]
