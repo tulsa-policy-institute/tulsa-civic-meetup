@@ -466,44 +466,5 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25515,
-    "Meeting_Event_ID": 41670,
-    "File_Nme": "LDARC 9-6-2022 Agenda_2022-09-01_10-19-03",
-    "Meeting_Date": "09/06/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Local Development Act Review Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 973,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25518,
-    "Meeting_Event_ID": 41673,
-    "File_Nme": "9-6-22 MERP Board Meeting Agenda_2022-09-01_14-28-03",
-    "Meeting_Date": "09/06/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25518,
-    "Meeting_Event_ID": 41673,
-    "File_Nme": "9-6-22 MERP Board Meeting Agenda_2022-09-01_14-28-03",
-    "Meeting_Date": "09/06/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
   }
 ]
