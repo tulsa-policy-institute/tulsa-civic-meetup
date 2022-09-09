@@ -221,6 +221,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25543,
+    "Meeting_Event_ID": 41696,
+    "File_Nme": "911 Board Regular Meeting Notice and Agenda Sept 202252137_2022-09-08_10-37-04",
+    "Meeting_Date": "09/14/2022",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Regional Enhanced 911 Board",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 994,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25539,
     "Meeting_Event_ID": 41692,
     "File_Nme": "2022-09-13 BOA TGOV-Agenda_2022-09-07_15-18-04",
@@ -231,6 +244,110 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25546,
+    "Meeting_Event_ID": 41699,
+    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, September 13, 2022_2022-09-08_15-01-04",
+    "Meeting_Date": "09/13/2022",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25546,
+    "Meeting_Event_ID": 41699,
+    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, September 13, 2022_2022-09-08_15-01-04",
+    "Meeting_Date": "09/13/2022",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 311
+  },
+  {
+    "Agenda_ID": 25544,
+    "Meeting_Event_ID": 41697,
+    "File_Nme": "LDARC 9-13-2022 Agenda_2022-09-08_14-28-05",
+    "Meeting_Date": "09/13/2022",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Local Development Act Review Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 973,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25541,
+    "Meeting_Event_ID": 41694,
+    "File_Nme": "9.13.2022 TCCA Resource Allocation Agenda Special Meeting_2022-09-08_09-53-05",
+    "Meeting_Date": "09/13/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tri-County Council on Aging - Resource Allocation Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25542,
+    "Meeting_Event_ID": 41695,
+    "File_Nme": "Executive Committee CANCELED MTG 9.13.2022_2022-09-08_09-53-06",
+    "Meeting_Date": "09/13/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tri-County Council on Aging - Executive Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25542,
+    "Meeting_Event_ID": 41695,
+    "File_Nme": "Executive Committee CANCELED MTG 9.13.2022_2022-09-08_09-53-06",
+    "Meeting_Date": "09/13/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tri-County Council on Aging - Executive Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 250
+  },
+  {
+    "Agenda_ID": 25541,
+    "Meeting_Event_ID": 41694,
+    "File_Nme": "9.13.2022 TCCA Resource Allocation Agenda Special Meeting_2022-09-08_09-53-05",
+    "Meeting_Date": "09/13/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tri-County Council on Aging - Resource Allocation Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 249
+  },
+  {
+    "Agenda_ID": 25545,
+    "Meeting_Event_ID": 41698,
+    "File_Nme": "AC AGENDA SEPT 2022_2022-09-08_14-28-04",
+    "Meeting_Date": "09/12/2022",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Arts Commission of the City of Tulsa (ARTS)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 882,
     "subCommitteeID": 0
   },
   {
@@ -258,31 +375,5 @@
     "Return_Message": "",
     "boardID": 858,
     "subCommitteeID": 282
-  },
-  {
-    "Agenda_ID": 25537,
-    "Meeting_Event_ID": 41690,
-    "File_Nme": "2022-09-09 Tulsas Gathering Place LLC - Regular Meeting Agenda953355.2_2022-09-07_15-18-03",
-    "Meeting_Date": "09/09/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa's Gathering Place LLC",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 931,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25538,
-    "Meeting_Event_ID": 41691,
-    "File_Nme": "2022-09-09 Tulsas Gathering Place LLC - Regular Meeting Notice953353.2_2022-09-07_15-18-04",
-    "Meeting_Date": "09/09/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa's Gathering Place LLC",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 931,
-    "subCommitteeID": 0
   }
 ]
