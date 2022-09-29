@@ -182,6 +182,97 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25629,
+    "Meeting_Event_ID": 41777,
+    "File_Nme": "10052022 FAC Reg Meeting Notice_2022-09-28_13-28-02",
+    "Meeting_Date": "10/05/2022",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH) - Food Advisory Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25630,
+    "Meeting_Event_ID": 41777,
+    "File_Nme": "Tulsa Food Advisory Agenda (October 2022)_2022-09-28_13-28-03",
+    "Meeting_Date": "10/05/2022",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH) - Food Advisory Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25629,
+    "Meeting_Event_ID": 41777,
+    "File_Nme": "10052022 FAC Reg Meeting Notice_2022-09-28_13-28-02",
+    "Meeting_Date": "10/05/2022",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH) - Food Advisory Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 266
+  },
+  {
+    "Agenda_ID": 25630,
+    "Meeting_Event_ID": 41777,
+    "File_Nme": "Tulsa Food Advisory Agenda (October 2022)_2022-09-28_13-28-03",
+    "Meeting_Date": "10/05/2022",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH) - Food Advisory Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 266
+  },
+  {
+    "Agenda_ID": 25631,
+    "Meeting_Event_ID": 41778,
+    "File_Nme": "2022-10-05_2022-09-28_16-09-02",
+    "Meeting_Date": "10/05/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25632,
+    "Meeting_Event_ID": 41779,
+    "File_Nme": "2022-10-05 Work Session_2022-09-28_16-10-02",
+    "Meeting_Date": "10/05/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC) - Work Session",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25632,
+    "Meeting_Event_ID": 41779,
+    "File_Nme": "2022-10-05 Work Session_2022-09-28_16-10-02",
+    "Meeting_Date": "10/05/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC) - Work Session",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 269
+  },
+  {
     "Agenda_ID": 25627,
     "Meeting_Event_ID": 41775,
     "File_Nme": "EAC Agenda_Oct 04 2022_2022-09-27_11-48-02",
@@ -192,19 +283,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 865,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25628,
-    "Meeting_Event_ID": 41776,
-    "File_Nme": "SSA Agenda 09-29-2022_2022-09-27_15-14-02",
-    "Meeting_Date": "09/29/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
     "subCommitteeID": 0
   }
 ]
