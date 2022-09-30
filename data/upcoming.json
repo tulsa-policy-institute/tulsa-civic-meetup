@@ -130,6 +130,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25636,
+    "Meeting_Event_ID": 41783,
+    "File_Nme": "10-18-2022 Excise Board Notice_2022-09-29_15-49-02",
+    "Meeting_Date": "10/18/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa County",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1060,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 24515,
     "Meeting_Event_ID": 40823,
     "File_Nme": "10.13.22 Notice_2021-12-21_15-46-09",
@@ -283,6 +296,45 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 865,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25634,
+    "Meeting_Event_ID": 41781,
+    "File_Nme": "Board Meeting Cancellation - October 4 2022_2022-09-29_13-03-02",
+    "Meeting_Date": "10/04/2022",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Gilcrease Museum Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 960,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25633,
+    "Meeting_Event_ID": 41780,
+    "File_Nme": "LDARC 10-4-2022 Agenda_2022-09-29_09-33-02",
+    "Meeting_Date": "10/04/2022",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Local Development Act Review Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 973,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25635,
+    "Meeting_Event_ID": 41782,
+    "File_Nme": "PB Cancellation Notice (10-04-22)e_2022-09-29_14-59-02",
+    "Meeting_Date": "10/04/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Park And Recreation Board (PRB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 877,
     "subCommitteeID": 0
   }
 ]
