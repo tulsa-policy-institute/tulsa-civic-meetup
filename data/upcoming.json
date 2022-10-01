@@ -130,6 +130,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25640,
+    "Meeting_Event_ID": 41787,
+    "File_Nme": "Notice of a Regular Meeting September_2022-09-30_14-03-02",
+    "Meeting_Date": "10/20/2022",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Library Commission (TCCLC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 887,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25636,
     "Meeting_Event_ID": 41783,
     "File_Nme": "10-18-2022 Excise Board Notice_2022-09-29_15-49-02",
@@ -140,6 +153,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 1060,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25639,
+    "Meeting_Event_ID": 41786,
+    "File_Nme": "Cancelation Notice 10132022 CSC Meeting_2022-09-30_12-03-02",
+    "Meeting_Date": "10/13/2022",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
     "subCommitteeID": 0
   },
   {
@@ -193,6 +219,32 @@
     "Return_Message": "",
     "boardID": 950,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25638,
+    "Meeting_Event_ID": 41785,
+    "File_Nme": "Agenda-HPPS-2022-10-06_2022-09-30_10-49-02",
+    "Meeting_Date": "10/06/2022",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25638,
+    "Meeting_Event_ID": 41785,
+    "File_Nme": "Agenda-HPPS-2022-10-06_2022-09-30_10-49-02",
+    "Meeting_Date": "10/06/2022",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 279
   },
   {
     "Agenda_ID": 25629,
@@ -323,6 +375,32 @@
     "Return_Message": "",
     "boardID": 973,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25637,
+    "Meeting_Event_ID": 41784,
+    "File_Nme": "10-4-22 MERP Board Meeting Agenda_2022-09-30_08-05-02",
+    "Meeting_Date": "10/04/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25637,
+    "Meeting_Event_ID": 41784,
+    "File_Nme": "10-4-22 MERP Board Meeting Agenda_2022-09-30_08-05-02",
+    "Meeting_Date": "10/04/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 326
   },
   {
     "Agenda_ID": 25635,
