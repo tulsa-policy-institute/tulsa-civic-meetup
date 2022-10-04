@@ -247,6 +247,32 @@
     "subCommitteeID": 279
   },
   {
+    "Agenda_ID": 25641,
+    "Meeting_Event_ID": 41788,
+    "File_Nme": "10 05 22 PCSSC Aenda_2022-10-03_10-07-01",
+    "Meeting_Date": "10/05/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25642,
+    "Meeting_Event_ID": 41789,
+    "File_Nme": "10 05 22 PCSSC Amended Agenda_2022-10-03_16-00-01",
+    "Meeting_Date": "10/05/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25629,
     "Meeting_Event_ID": 41777,
     "File_Nme": "10052022 FAC Reg Meeting Notice_2022-09-28_13-28-02",
@@ -336,83 +362,5 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 269
-  },
-  {
-    "Agenda_ID": 25627,
-    "Meeting_Event_ID": 41775,
-    "File_Nme": "EAC Agenda_Oct 04 2022_2022-09-27_11-48-02",
-    "Meeting_Date": "10/04/2022",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Ethics Advisory Committee (EAC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 865,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25634,
-    "Meeting_Event_ID": 41781,
-    "File_Nme": "Board Meeting Cancellation - October 4 2022_2022-09-29_13-03-02",
-    "Meeting_Date": "10/04/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Gilcrease Museum Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 960,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25633,
-    "Meeting_Event_ID": 41780,
-    "File_Nme": "LDARC 10-4-2022 Agenda_2022-09-29_09-33-02",
-    "Meeting_Date": "10/04/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Local Development Act Review Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 973,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25637,
-    "Meeting_Event_ID": 41784,
-    "File_Nme": "10-4-22 MERP Board Meeting Agenda_2022-09-30_08-05-02",
-    "Meeting_Date": "10/04/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25637,
-    "Meeting_Event_ID": 41784,
-    "File_Nme": "10-4-22 MERP Board Meeting Agenda_2022-09-30_08-05-02",
-    "Meeting_Date": "10/04/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
-  },
-  {
-    "Agenda_ID": 25635,
-    "Meeting_Event_ID": 41782,
-    "File_Nme": "PB Cancellation Notice (10-04-22)e_2022-09-29_14-59-02",
-    "Meeting_Date": "10/04/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Park And Recreation Board (PRB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 877,
-    "subCommitteeID": 0
   }
 ]
