@@ -182,6 +182,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25673,
+    "Meeting_Event_ID": 41818,
+    "File_Nme": "2022-10-19 TTC Meeting Cancellation_2022-10-11_08-26-01",
+    "Meeting_Date": "10/19/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Technical Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25673,
+    "Meeting_Event_ID": 41818,
+    "File_Nme": "2022-10-19 TTC Meeting Cancellation_2022-10-11_08-26-01",
+    "Meeting_Date": "10/19/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Technical Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 255
+  },
+  {
     "Agenda_ID": 25636,
     "Meeting_Event_ID": 41783,
     "File_Nme": "10-18-2022 Excise Board Notice_2022-09-29_15-49-02",
@@ -205,6 +231,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25675,
+    "Meeting_Event_ID": 41820,
+    "File_Nme": "10132022 GTAHLAC Agenda_2022-10-11_12-01-01",
+    "Meeting_Date": "10/13/2022",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Greater Tulsa Area Hispanic/Latinx Affairs Commission (GTAHLAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 866,
     "subCommitteeID": 0
   },
   {
@@ -286,6 +325,19 @@
     "subCommitteeID": 244
   },
   {
+    "Agenda_ID": 25676,
+    "Meeting_Event_ID": 41821,
+    "File_Nme": "SSA Agenda 10-13-2022_2022-10-11_16-26-01",
+    "Meeting_Date": "10/13/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25670,
     "Meeting_Event_ID": 41816,
     "File_Nme": "2022-10-13_TAA Agenda_Final_10-06-2022_2022-10-10_15-49-01",
@@ -322,71 +374,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 928,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25669,
-    "Meeting_Event_ID": 41815,
-    "File_Nme": "01 FMSC Agenda 10-12-22_2022-10-10_12-42-01",
-    "Meeting_Date": "10/12/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Fleet Management Steering Committee of The City of Tulsa",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 958,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25657,
-    "Meeting_Event_ID": 41803,
-    "File_Nme": "10122022 FR Agenda_2022-10-07_08-00-01",
-    "Meeting_Date": "10/12/2022",
-    "Meeting_Time": "9:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 893,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25658,
-    "Meeting_Event_ID": 41804,
-    "File_Nme": "10122022 TMUA Agenda _2022-10-07_08-00-02",
-    "Meeting_Date": "10/12/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 893,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25657,
-    "Meeting_Event_ID": 41803,
-    "File_Nme": "10122022 FR Agenda_2022-10-07_08-00-01",
-    "Meeting_Date": "10/12/2022",
-    "Meeting_Time": "9:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 893,
-    "subCommitteeID": 271
-  },
-  {
-    "Agenda_ID": 25659,
-    "Meeting_Event_ID": 41805,
-    "File_Nme": "10122022 TUB Agenda_2022-10-07_08-00-02",
-    "Meeting_Date": "10/12/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Utility Board",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 930,
     "subCommitteeID": 0
   }
 ]
