@@ -13,6 +13,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25683,
+    "Meeting_Event_ID": 41828,
+    "File_Nme": "2023 TPC Regular Meeting Schedule_2022-10-13_15-58-01",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Preservation Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25683,
+    "Meeting_Event_ID": 41828,
+    "File_Nme": "2023 TPC Regular Meeting Schedule_2022-10-13_15-58-01",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Preservation Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 279
+  },
+  {
     "Agenda_ID": 25576,
     "Meeting_Event_ID": 41728,
     "File_Nme": "2022-12-16 Tulsas Gathering Place LLC - Regular Meeting Notice_2022-09-14_15-18-01",
@@ -234,6 +260,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25682,
+    "Meeting_Event_ID": 41827,
+    "File_Nme": "2022-10-19_2022-10-13_15-07-02",
+    "Meeting_Date": "10/19/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25680,
+    "Meeting_Event_ID": 41825,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 10-18-2022_2022-10-13_10-44-01",
+    "Meeting_Date": "10/18/2022",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25680,
+    "Meeting_Event_ID": 41825,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 10-18-2022_2022-10-13_10-44-01",
+    "Meeting_Date": "10/18/2022",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 327
+  },
+  {
     "Agenda_ID": 25636,
     "Meeting_Event_ID": 41783,
     "File_Nme": "10-18-2022 Excise Board Notice_2022-09-29_15-49-02",
@@ -245,5 +310,31 @@
     "Return_Message": "",
     "boardID": 1060,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25681,
+    "Meeting_Event_ID": 41826,
+    "File_Nme": "Agenda-HPPS-2022-10-18_2022-10-13_13-29-01",
+    "Meeting_Date": "10/18/2022",
+    "Meeting_Time": "4:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25681,
+    "Meeting_Event_ID": 41826,
+    "File_Nme": "Agenda-HPPS-2022-10-18_2022-10-13_13-29-01",
+    "Meeting_Date": "10/18/2022",
+    "Meeting_Time": "4:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 279
   }
 ]
