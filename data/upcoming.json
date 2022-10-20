@@ -208,6 +208,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25704,
+    "Meeting_Event_ID": 41848,
+    "File_Nme": "TAEO_Notice of Board Retreat 11.03.22_2022-10-19_16-48-08",
+    "Meeting_Date": "11/03/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 891,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25654,
     "Meeting_Event_ID": 41800,
     "File_Nme": "NOTICE OF CANCELLATION_1022_2022-10-06_14-29-01",
@@ -219,6 +232,71 @@
     "Return_Message": "",
     "boardID": 879,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25703,
+    "Meeting_Event_ID": 41847,
+    "File_Nme": "TPC Meeting Cancellation for Wednesday, October 26, 2022_2022-10-19_14-37-08",
+    "Meeting_Date": "10/26/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25703,
+    "Meeting_Event_ID": 41847,
+    "File_Nme": "TPC Meeting Cancellation for Wednesday, October 26, 2022_2022-10-19_14-37-08",
+    "Meeting_Date": "10/26/2022",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 254
+  },
+  {
+    "Agenda_ID": 25701,
+    "Meeting_Event_ID": 41845,
+    "File_Nme": "2022-10-25-BOA TGOV-Agenda_2022-10-19_12-37-08",
+    "Meeting_Date": "10/25/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Board of Adjustment (BOA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25702,
+    "Meeting_Event_ID": 41846,
+    "File_Nme": "Notice and Agenda for INCOG CEDS Committee Special Meeting - October 25 2022 at 9am (003)_2022-10-19_14-01-08",
+    "Meeting_Date": "10/25/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Economic Development District",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25702,
+    "Meeting_Event_ID": 41846,
+    "File_Nme": "Notice and Agenda for INCOG CEDS Committee Special Meeting - October 25 2022 at 9am (003)_2022-10-19_14-01-08",
+    "Meeting_Date": "10/25/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Economic Development District",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 240
   },
   {
     "Agenda_ID": 25700,
@@ -257,58 +335,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 860,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25677,
-    "Meeting_Event_ID": 41822,
-    "File_Nme": "CANCELLATION 10-20-22_2022-10-12_08-08-01",
-    "Meeting_Date": "10/20/2022",
-    "Meeting_Time": "3:00PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Board of Appeals",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 859,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25320,
-    "Meeting_Event_ID": 41491,
-    "File_Nme": "BOA Agenda - October 20, 2022_2022-07-08_14-38-05",
-    "Meeting_Date": "10/20/2022",
-    "Meeting_Time": "3:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Appeals",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 859,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25699,
-    "Meeting_Event_ID": 41843,
-    "File_Nme": "SSA Agenda 10-20-2022_2022-10-18_14-55-02",
-    "Meeting_Date": "10/20/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25640,
-    "Meeting_Event_ID": 41787,
-    "File_Nme": "Notice of a Regular Meeting September_2022-09-30_14-03-02",
-    "Meeting_Date": "10/20/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City-County Library Commission (TCCLC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 887,
     "subCommitteeID": 0
   }
 ]
