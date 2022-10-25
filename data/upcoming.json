@@ -52,6 +52,58 @@
     "subCommitteeID": 266
   },
   {
+    "Agenda_ID": 25724,
+    "Meeting_Event_ID": 41866,
+    "File_Nme": "2023-TMAPC-Meeting-Schedule_2022-10-24_15-16-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25724,
+    "Meeting_Event_ID": 41866,
+    "File_Nme": "2023-TMAPC-Meeting-Schedule_2022-10-24_15-16-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 253
+  },
+  {
+    "Agenda_ID": 25724,
+    "Meeting_Event_ID": 41866,
+    "File_Nme": "2023-TMAPC-Meeting-Schedule_2022-10-24_15-16-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 268
+  },
+  {
+    "Agenda_ID": 25724,
+    "Meeting_Event_ID": 41866,
+    "File_Nme": "2023-TMAPC-Meeting-Schedule_2022-10-24_15-16-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 269
+  },
+  {
     "Agenda_ID": 25683,
     "Meeting_Event_ID": 41828,
     "File_Nme": "2023 TPC Regular Meeting Schedule_2022-10-13_15-58-01",
@@ -169,6 +221,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25727,
+    "Meeting_Event_ID": 41869,
+    "File_Nme": "11152022 Notice Of Location Change GTAIAC_2022-10-24_16-19-02",
+    "Meeting_Date": "11/15/2022",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Greater Tulsa Area Indian Affairs Commission (GTAIAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 867,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 24516,
     "Meeting_Event_ID": 40824,
     "File_Nme": "11.10.22 Notice_2021-12-21_15-46-12",
@@ -234,6 +299,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25725,
+    "Meeting_Event_ID": 41867,
+    "File_Nme": "Audit Committee Agenda 10-27-22_2022-10-24_15-45-02",
+    "Meeting_Date": "10/27/2022",
+    "Meeting_Time": "11:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City of Tulsa Audit Committee (AUDIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 873,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25654,
     "Meeting_Event_ID": 41800,
     "File_Nme": "NOTICE OF CANCELLATION_1022_2022-10-06_14-29-01",
@@ -244,6 +322,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 879,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25726,
+    "Meeting_Event_ID": 41868,
+    "File_Nme": "2022-10-27 Cancellation Notice TPFA Regular Meeting_2022-10-24_16-11-02",
+    "Meeting_Date": "10/27/2022",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Public Facilities Authority (TPFA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 896,
     "subCommitteeID": 0
   },
   {
@@ -517,110 +608,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 930,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25701,
-    "Meeting_Event_ID": 41845,
-    "File_Nme": "2022-10-25-BOA TGOV-Agenda_2022-10-19_12-37-08",
-    "Meeting_Date": "10/25/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25702,
-    "Meeting_Event_ID": 41846,
-    "File_Nme": "Notice and Agenda for INCOG CEDS Committee Special Meeting - October 25 2022 at 9am (003)_2022-10-19_14-01-08",
-    "Meeting_Date": "10/25/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Economic Development District",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25702,
-    "Meeting_Event_ID": 41846,
-    "File_Nme": "Notice and Agenda for INCOG CEDS Committee Special Meeting - October 25 2022 at 9am (003)_2022-10-19_14-01-08",
-    "Meeting_Date": "10/25/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Economic Development District",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 240
-  },
-  {
-    "Agenda_ID": 25709,
-    "Meeting_Event_ID": 41853,
-    "File_Nme": "2022.10.25 MTTA Board Agenda _2022-10-21_09-46-02",
-    "Meeting_Date": "10/25/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25709,
-    "Meeting_Event_ID": 41853,
-    "File_Nme": "2022.10.25 MTTA Board Agenda _2022-10-21_09-46-02",
-    "Meeting_Date": "10/25/2022",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 25708,
-    "Meeting_Event_ID": 41852,
-    "File_Nme": "Agenda 10-25-22_2022-10-20_12-25-02",
-    "Meeting_Date": "10/25/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Sales Tax Overview Committee (STOC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 880,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25706,
-    "Meeting_Event_ID": 41850,
-    "File_Nme": "Full Board Regular Meeting Notice and Agenda 10-25-2022_2022-10-20_10-17-02",
-    "Meeting_Date": "10/25/2022",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25707,
-    "Meeting_Event_ID": 41851,
-    "File_Nme": "Agenda-TPC-2022-10-25_2022-10-20_10-22-02",
-    "Meeting_Date": "10/25/2022",
-    "Meeting_Time": "4:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 928,
     "subCommitteeID": 0
   }
 ]
