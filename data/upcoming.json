@@ -52,6 +52,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25789,
+    "Meeting_Event_ID": 41926,
+    "File_Nme": "Revised CSC 2023 Meeting Dates_2022-11-04_09-29-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25705,
     "Meeting_Event_ID": 41849,
     "File_Nme": "3-2023 Calendar Year Regular Meeting Schedule_2022-10-20_08-22-02",
@@ -1079,6 +1092,19 @@
     "subCommitteeID": 308
   },
   {
+    "Agenda_ID": 25790,
+    "Meeting_Event_ID": 41927,
+    "File_Nme": "Dec 2022 DRC Agenda_2022-11-04_10-29-02",
+    "Meeting_Date": "12/01/2022",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Disability Review Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25775,
     "Meeting_Event_ID": 41913,
     "File_Nme": "LEPC Nov 2022 Mtg Adgenda_2022-11-01_15-32-02",
@@ -1209,6 +1235,32 @@
     "subCommitteeID": 244
   },
   {
+    "Agenda_ID": 25788,
+    "Meeting_Event_ID": 41925,
+    "File_Nme": "November_2022_MCB_AGENDA_2022-11-04_09-12-02",
+    "Meeting_Date": "11/09/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "EMSA - Medical Control Board",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 979,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25792,
+    "Meeting_Event_ID": 41929,
+    "File_Nme": "911 Board Regular Meeting Notice and Agenda - November 9, 2022_2022-11-04_13-06-02",
+    "Meeting_Date": "11/09/2022",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Regional Enhanced 911 Board",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 994,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25694,
     "Meeting_Event_ID": 41838,
     "File_Nme": "NOTICE of a REGULAR MEETING November_2022-10-17_12-49-02",
@@ -1232,6 +1284,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25793,
+    "Meeting_Event_ID": 41930,
+    "File_Nme": "GTAAAC 11082022 Agenda_2022-11-04_14-43-02",
+    "Meeting_Date": "11/08/2022",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Greater Tulsa Area African-American Affairs Commission (GTAAAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1085,
     "subCommitteeID": 0
   },
   {
@@ -1285,5 +1350,44 @@
     "Return_Message": "",
     "boardID": 1009,
     "subCommitteeID": 250
+  },
+  {
+    "Agenda_ID": 25791,
+    "Meeting_Event_ID": 41928,
+    "File_Nme": "2022-11-08 Tribal Relations Committee Agenda _2022-11-04_13-37-02",
+    "Meeting_Date": "11/08/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Tribal Relations Committee ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25791,
+    "Meeting_Event_ID": 41928,
+    "File_Nme": "2022-11-08 Tribal Relations Committee Agenda _2022-11-04_13-37-02",
+    "Meeting_Date": "11/08/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Tribal Relations Committee ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 334
+  },
+  {
+    "Agenda_ID": 25794,
+    "Meeting_Event_ID": 41931,
+    "File_Nme": "11-8-22 Agenda_2022-11-04_16-27-02",
+    "Meeting_Date": "11/08/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Route 66 Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1080,
+    "subCommitteeID": 0
   }
 ]
