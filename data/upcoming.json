@@ -104,6 +104,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25878,
+    "Meeting_Event_ID": 42013,
+    "File_Nme": "CITY OF TULSA ANNUAL NOTICE 2023_2022-11-21_09-14-01",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "City Of Tulsa/Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25787,
     "Meeting_Event_ID": 41924,
     "File_Nme": "CSC 2023 Meeting Dates_2022-11-03_16-23-02",
@@ -1755,6 +1768,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25880,
+    "Meeting_Event_ID": 42015,
+    "File_Nme": "FA 2023 MTG DATES CITY_2022-11-21_14-13-01",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25684,
     "Meeting_Event_ID": 41829,
     "File_Nme": "2023 Hearing Calendar for City Clerk_2022-10-14_08-23-01",
@@ -1885,6 +1911,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25879,
+    "Meeting_Event_ID": 42014,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 11-29-2022_2022-11-21_10-09-01",
+    "Meeting_Date": "11/29/2022",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25879,
+    "Meeting_Event_ID": 42014,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 11-29-2022_2022-11-21_10-09-01",
+    "Meeting_Date": "11/29/2022",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 327
+  },
+  {
     "Agenda_ID": 25775,
     "Meeting_Event_ID": 41913,
     "File_Nme": "LEPC Nov 2022 Mtg Adgenda_2022-11-01_15-32-02",
@@ -1908,32 +1960,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 870,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25875,
-    "Meeting_Event_ID": 42010,
-    "File_Nme": "Agenda 11-22-22_2022-11-17_16-21-02",
-    "Meeting_Date": "11/22/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Sales Tax Overview Committee (STOC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 880,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25866,
-    "Meeting_Event_ID": 42001,
-    "File_Nme": "Agenda-TPC-2022-11-22_2022-11-16_09-04-02",
-    "Meeting_Date": "11/22/2022",
-    "Meeting_Time": "4:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 928,
     "subCommitteeID": 0
   }
 ]
