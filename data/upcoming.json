@@ -1885,6 +1885,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25882,
+    "Meeting_Event_ID": 42017,
+    "File_Nme": "Special Meeting Legislative Roundtable_2022-11-23_11-10-01",
+    "Meeting_Date": "11/30/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25876,
     "Meeting_Event_ID": 42011,
     "File_Nme": "NOTICE 1122S 2022 -11-18_14-32-03",
