@@ -2793,18 +2793,5 @@
     "Return_Message": "",
     "boardID": 885,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25912,
-    "Meeting_Event_ID": 42045,
-    "File_Nme": "2022-12-05 Special Meeting_2022-12-01_15-44-02",
-    "Meeting_Date": "12/05/2022",
-    "Meeting_Time": "3:45PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa City Council",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 0
   }
 ]
