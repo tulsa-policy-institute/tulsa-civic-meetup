@@ -1053,6 +1053,32 @@
     "subCommitteeID": 249
   },
   {
+    "Agenda_ID": 25979,
+    "Meeting_Event_ID": 42104,
+    "File_Nme": "2022-12-15_Annual Schedule_Tulsa Airport Authority_Final_2022-12-12_15-35-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Airport Authority (TAA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 884,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25978,
+    "Meeting_Event_ID": 42103,
+    "File_Nme": "2022-12-15_Annual Schedule_Tulsa Airports Improvement Trust_Final_2022-12-12_15-35-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25922,
     "Meeting_Event_ID": 42055,
     "File_Nme": "TAEO 2023 Annual Schedule_2022-12-02_13-04-02",
@@ -1467,6 +1493,19 @@
     "Return_Message": "",
     "boardID": 889,
     "subCommitteeID": 267
+  },
+  {
+    "Agenda_ID": 25976,
+    "Meeting_Event_ID": 42101,
+    "File_Nme": "December 12 2022_Tulsa International Airport Development Trust_Annual Schedule_2022-12-12_15-34-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa International Airport Development Trust  (TIADT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1086,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 25724,
@@ -2106,6 +2145,19 @@
     "subCommitteeID": 273
   },
   {
+    "Agenda_ID": 25977,
+    "Meeting_Event_ID": 42102,
+    "File_Nme": "2022-12-12_Annual Schedule_Tulsa Municipal Airport Trust_2023_2022-12-12_15-35-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Municipal Airport Trust (TMAT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 922,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25871,
     "Meeting_Event_ID": 42006,
     "File_Nme": "2023 TPACT  Finance Committee Meetings_2022-11-16_15-39-02",
@@ -2392,12 +2444,51 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25973,
+    "Meeting_Event_ID": 42099,
+    "File_Nme": "2022-12-21 TTC Meeting Cancellation Notice_2022-12-12_14-51-02",
+    "Meeting_Date": "12/21/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Technical Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25973,
+    "Meeting_Event_ID": 42099,
+    "File_Nme": "2022-12-21 TTC Meeting Cancellation Notice_2022-12-12_14-51-02",
+    "Meeting_Date": "12/21/2022",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Technical Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 255
+  },
+  {
     "Agenda_ID": 25576,
     "Meeting_Event_ID": 41728,
     "File_Nme": "2022-12-16 Tulsas Gathering Place LLC - Regular Meeting Notice_2022-09-14_15-18-01",
     "Meeting_Date": "12/16/2022",
     "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa's Gathering Place LLC",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 931,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25971,
+    "Meeting_Event_ID": 41728,
+    "File_Nme": "2022-12-16 Tulsas Gathering Place LLC - Cancellation Notice(981604.2)_2022-12-12_14-32-02",
+    "Meeting_Date": "12/16/2022",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Canceled",
     "Board_Name": "Tulsa's Gathering Place LLC",
     "Return_Code": 0,
     "Return_Message": "",
@@ -2415,6 +2506,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25969,
+    "Meeting_Event_ID": 42096,
+    "File_Nme": "Audit Committee Agenda December 15th, 2022_2022-12-12_12-44-02",
+    "Meeting_Date": "12/15/2022",
+    "Meeting_Time": "11:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City of Tulsa Audit Committee (AUDIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 873,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25981,
+    "Meeting_Event_ID": 42106,
+    "File_Nme": "PORT MTG NOTICE-AGENDA DECEMBER 2022_2022-12-12_16-07-02",
+    "Meeting_Date": "12/15/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City Of Tulsa/Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
     "subCommitteeID": 0
   },
   {
@@ -2444,6 +2561,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 25980,
+    "Meeting_Event_ID": 42105,
+    "File_Nme": "TDA_Agenda 12.15.22_2022-12-12_15-52-02",
+    "Meeting_Date": "12/15/2022",
+    "Meeting_Time": "9:15AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Development Authority (TDA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 889,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25968,
+    "Meeting_Event_ID": 42095,
+    "File_Nme": "12-7-2022 Speial meeting agenda_2022-12-12_08-38-02",
+    "Meeting_Date": "12/14/2022",
+    "Meeting_Time": "1:15AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Contractors Prequalification Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 948,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25955,
     "Meeting_Event_ID": 42083,
     "File_Nme": "12-14-22 Notice of Special Meeting_2022-12-07_12-02-02",
@@ -2454,6 +2597,58 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 948,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25975,
+    "Meeting_Event_ID": 42100,
+    "File_Nme": "EMSA12.14.22BOTAgenda_2022-12-12_15-23-02",
+    "Meeting_Date": "12/14/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Emergency Medical Services Authority (EMSA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 864,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25975,
+    "Meeting_Event_ID": 42100,
+    "File_Nme": "EMSA12.14.22BOTAgenda_2022-12-12_15-23-02",
+    "Meeting_Date": "12/14/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Emergency Medical Services Authority (EMSA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 864,
+    "subCommitteeID": 310
+  },
+  {
+    "Agenda_ID": 25983,
+    "Meeting_Event_ID": 42107,
+    "File_Nme": "12 14 22 PCSSC Agenda_2022-12-12_16-59-02",
+    "Meeting_Date": "12/14/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 25974,
+    "Meeting_Event_ID": 42090,
+    "File_Nme": "2022-12-14 4PM Addendum_2022-12-12_15-09-02",
+    "Meeting_Date": "12/14/2022",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
     "subCommitteeID": 0
   },
   {
@@ -2559,96 +2754,5 @@
     "Return_Message": "",
     "boardID": 899,
     "subCommitteeID": 265
-  },
-  {
-    "Agenda_ID": 25956,
-    "Meeting_Event_ID": 42084,
-    "File_Nme": "2022-12-13-BOA-TGOV-Agenda_2022-12-08_09-02-02",
-    "Meeting_Date": "12/13/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25960,
-    "Meeting_Event_ID": 42084,
-    "File_Nme": "2022-12-13-BOA-TGOV-Agenda_2022-12-09_08-51-02",
-    "Meeting_Date": "12/13/2022",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25958,
-    "Meeting_Event_ID": 42086,
-    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, December 13, 2022_2022-12-08_14-47-02",
-    "Meeting_Date": "12/13/2022",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25958,
-    "Meeting_Event_ID": 42086,
-    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, December 13, 2022_2022-12-08_14-47-02",
-    "Meeting_Date": "12/13/2022",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 311
-  },
-  {
-    "Agenda_ID": 25943,
-    "Meeting_Event_ID": 42075,
-    "File_Nme": "Executive Committee CANCELED MTG 12.13.2022_2022-12-05_12-35-02",
-    "Meeting_Date": "12/13/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tri-County Council on Aging - Executive Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1009,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25943,
-    "Meeting_Event_ID": 42075,
-    "File_Nme": "Executive Committee CANCELED MTG 12.13.2022_2022-12-05_12-35-02",
-    "Meeting_Date": "12/13/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tri-County Council on Aging - Executive Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1009,
-    "subCommitteeID": 250
-  },
-  {
-    "Agenda_ID": 25961,
-    "Meeting_Event_ID": 42088,
-    "File_Nme": "12-13-22 Agenda_2022-12-09_14-32-02",
-    "Meeting_Date": "12/13/2022",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Route 66 Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1080,
-    "subCommitteeID": 0
   }
 ]
