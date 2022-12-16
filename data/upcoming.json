@@ -780,6 +780,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26008,
+    "Meeting_Event_ID": 42129,
+    "File_Nme": "PCSSC 2023 Schedule_2022-12-15_09-09-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "12:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25860,
     "Meeting_Event_ID": 41995,
     "File_Nme": "2023 Regional 911 User. Technical Committee meeting schedule_2022-11-15_15-33-02",
@@ -894,6 +907,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 995,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26009,
+    "Meeting_Event_ID": 42130,
+    "File_Nme": "MTGSCHED23_2022-12-15_09-25-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "River Parks Authority (RPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 879,
     "subCommitteeID": 0
   },
   {
@@ -2704,6 +2730,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26010,
+    "Meeting_Event_ID": 42131,
+    "File_Nme": "2022-12-15 Tulsas Gathering Place LLC - 2023 Meetings Schedule(982291.2)_2022-12-15_13-39-02",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa's Gathering Place LLC",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 931,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25880,
     "Meeting_Event_ID": 42015,
     "File_Nme": "FA 2023 MTG DATES CITY_2022-11-21_14-13-01",
@@ -2767,6 +2806,19 @@
     "Return_Message": "",
     "boardID": 871,
     "subCommitteeID": 255
+  },
+  {
+    "Agenda_ID": 26011,
+    "Meeting_Event_ID": 42132,
+    "File_Nme": "2022-12-21_2022-12-15_13-42-02",
+    "Meeting_Date": "12/21/2022",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 26001,
@@ -2857,32 +2909,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 865,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25576,
-    "Meeting_Event_ID": 41728,
-    "File_Nme": "2022-12-16 Tulsas Gathering Place LLC - Regular Meeting Notice_2022-09-14_15-18-01",
-    "Meeting_Date": "12/16/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tulsa's Gathering Place LLC",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 931,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25971,
-    "Meeting_Event_ID": 41728,
-    "File_Nme": "2022-12-16 Tulsas Gathering Place LLC - Cancellation Notice(981604.2)_2022-12-12_14-32-02",
-    "Meeting_Date": "12/16/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tulsa's Gathering Place LLC",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 931,
     "subCommitteeID": 0
   }
 ]
