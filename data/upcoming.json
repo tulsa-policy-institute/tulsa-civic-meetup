@@ -2897,31 +2897,5 @@
     "Return_Message": "",
     "boardID": 1060,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25994,
-    "Meeting_Event_ID": 42115,
-    "File_Nme": "EAC Special Meeting Notice_12 19 22_2022-12-13_16-03-02",
-    "Meeting_Date": "12/19/2022",
-    "Meeting_Time": "2:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Ethics Advisory Committee (EAC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 865,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 25999,
-    "Meeting_Event_ID": 42120,
-    "File_Nme": "EAC Agenda_Dec 19 2022_2022-12-14_09-14-02",
-    "Meeting_Date": "12/19/2022",
-    "Meeting_Time": "2:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Ethics Advisory Committee (EAC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 865,
-    "subCommitteeID": 0
   }
 ]
