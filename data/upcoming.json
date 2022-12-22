@@ -26,6 +26,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26018,
+    "Meeting_Event_ID": 42139,
+    "File_Nme": "January_2023_MCB_AGENDA_2022-12-21_10-48-01",
+    "Meeting_Date": "01/04/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "EMSA - Medical Control Board",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 979,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26016,
     "Meeting_Event_ID": 42137,
     "File_Nme": "1.4.2023 TCCA Resource Allocation Agenda Special Meeting_2022-12-19_13-32-02",
@@ -2834,16 +2847,16 @@
     "subCommitteeID": 254
   },
   {
-    "Agenda_ID": 26000,
-    "Meeting_Event_ID": 42121,
-    "File_Nme": "SSA Agenda 12-22-2022 - Cancelled_2022-12-14_09-27-02",
-    "Meeting_Date": "12/22/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Agenda_ID": 26019,
+    "Meeting_Event_ID": 42140,
+    "File_Nme": "Agenda 12-27-22_2022-12-21_13-58-02",
+    "Meeting_Date": "12/27/2022",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Sales Tax Overview Committee (STOC)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 1003,
+    "boardID": 880,
     "subCommitteeID": 0
   }
 ]
