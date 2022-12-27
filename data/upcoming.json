@@ -2858,18 +2858,5 @@
     "Return_Message": "",
     "boardID": 871,
     "subCommitteeID": 254
-  },
-  {
-    "Agenda_ID": 26019,
-    "Meeting_Event_ID": 42140,
-    "File_Nme": "Agenda 12-27-22_2022-12-21_13-58-02",
-    "Meeting_Date": "12/27/2022",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Sales Tax Overview Committee (STOC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 880,
-    "subCommitteeID": 0
   }
 ]
