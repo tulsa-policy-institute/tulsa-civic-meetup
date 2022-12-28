@@ -78,6 +78,32 @@
     "subCommitteeID": 249
   },
   {
+    "Agenda_ID": 26023,
+    "Meeting_Event_ID": 42144,
+    "File_Nme": "1-3-23 MERP Board Meeting Agenda_2022-12-27_14-05-01",
+    "Meeting_Date": "01/03/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26023,
+    "Meeting_Event_ID": 42144,
+    "File_Nme": "1-3-23 MERP Board Meeting Agenda_2022-12-27_14-05-01",
+    "Meeting_Date": "01/03/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 326
+  },
+  {
     "Agenda_ID": 25785,
     "Meeting_Event_ID": 41922,
     "File_Nme": "2023 DRC Meeting Schedule_2022-11-03_15-25-02",
@@ -2834,29 +2860,42 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 26013,
-    "Meeting_Event_ID": 42134,
-    "File_Nme": "2022-12-28 TPC Meeting Cancellation_2022-12-19_08-17-02",
-    "Meeting_Date": "12/28/2022",
-    "Meeting_Time": "10:30AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Agenda_ID": 26025,
+    "Meeting_Event_ID": 42145,
+    "File_Nme": "22.12.30 Personnel Committee Special Meeting Agenda_2022-12-27_16-30-01",
+    "Meeting_Date": "12/30/2022",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Fire Department - Personnel Committee",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 871,
+    "boardID": 1062,
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 26013,
-    "Meeting_Event_ID": 42134,
-    "File_Nme": "2022-12-28 TPC Meeting Cancellation_2022-12-19_08-17-02",
-    "Meeting_Date": "12/28/2022",
-    "Meeting_Time": "10:30AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Agenda_ID": 26021,
+    "Meeting_Event_ID": 42142,
+    "File_Nme": "SSA Agenda 12-29-2022_2022-12-27_14-01-01",
+    "Meeting_Date": "12/29/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 254
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26022,
+    "Meeting_Event_ID": 42143,
+    "File_Nme": "SSA Agenda 12-29-2022_2022-12-27_14-02-01",
+    "Meeting_Date": "12/29/2022",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
   }
 ]
