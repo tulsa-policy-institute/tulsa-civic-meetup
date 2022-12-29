@@ -2871,31 +2871,5 @@
     "Return_Message": "",
     "boardID": 1062,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26021,
-    "Meeting_Event_ID": 42142,
-    "File_Nme": "SSA Agenda 12-29-2022_2022-12-27_14-01-01",
-    "Meeting_Date": "12/29/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26022,
-    "Meeting_Event_ID": 42143,
-    "File_Nme": "SSA Agenda 12-29-2022_2022-12-27_14-02-01",
-    "Meeting_Date": "12/29/2022",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
   }
 ]
