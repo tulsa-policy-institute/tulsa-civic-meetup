@@ -1859,6 +1859,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26028,
+    "Meeting_Event_ID": 42148,
+    "File_Nme": "Final LEPC 2023 Mtgs_2022-12-30_08-01-01",
+    "Meeting_Date": "01/01/2023",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa County Local Emergency Planning Committee (LEPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1082,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 25923,
     "Meeting_Event_ID": 42056,
     "File_Nme": "TDA 2023 Annual Schedule_2022-12-02_13-21-01",
