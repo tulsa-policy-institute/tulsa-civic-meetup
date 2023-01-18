@@ -13,6 +13,58 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26093,
+    "Meeting_Event_ID": 42209,
+    "File_Nme": "Notice and Agenda for INCOG CEDS Committee Special Meeting - January 20 2023 at 10am_2023-01-17_16-06-02",
+    "Meeting_Date": "01/20/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Economic Development District",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26093,
+    "Meeting_Event_ID": 42209,
+    "File_Nme": "Notice and Agenda for INCOG CEDS Committee Special Meeting - January 20 2023 at 10am_2023-01-17_16-06-02",
+    "Meeting_Date": "01/20/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Economic Development District",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 240
+  },
+  {
+    "Agenda_ID": 26091,
+    "Meeting_Event_ID": 42208,
+    "File_Nme": "CITY PA NOTICE MTG LOCATION CHANGE - JAN 2023_2023-01-17_09-12-01",
+    "Meeting_Date": "01/19/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City Of Tulsa/Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26092,
+    "Meeting_Event_ID": 42208,
+    "File_Nme": "PORT MTG NOTICE-AGENDA JANUARY 2023_2023-01-17_09-45-01",
+    "Meeting_Date": "01/19/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City Of Tulsa/Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26081,
     "Meeting_Event_ID": 42198,
     "File_Nme": "01.19.23. Agenda_2023-01-13_08-29-02",
@@ -104,6 +156,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26094,
+    "Meeting_Event_ID": 42210,
+    "File_Nme": "SSA Agenda 01-19-2023_2023-01-17_16-06-02",
+    "Meeting_Date": "01/19/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26020,
     "Meeting_Event_ID": 42141,
     "File_Nme": "Notice of Regular Library Commission Meeting - January 2023_2022-12-22_08-23-01",
@@ -114,84 +179,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 887,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26074,
-    "Meeting_Event_ID": 42191,
-    "File_Nme": "Jan 2023 PMB meeting agenda_2023-01-11_11-36-01",
-    "Meeting_Date": "01/18/2023",
-    "Meeting_Time": "2:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Prisoner Medical Billing Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1036,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26078,
-    "Meeting_Event_ID": 42195,
-    "File_Nme": "2023-01-18 TTC Agenda_2023-01-12_13-25-01",
-    "Meeting_Date": "01/18/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Transportation Technical Committee (TTC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1008,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26077,
-    "Meeting_Event_ID": 42194,
-    "File_Nme": "1.18.2023 January Tri-County Council on Aging Regular Meeting_2023-01-12_09-28-01",
-    "Meeting_Date": "01/18/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tri-County Council on Aging",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1009,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26087,
-    "Meeting_Event_ID": 42204,
-    "File_Nme": "01182023 Reg Meeting Notice_2023-01-13_15-21-01",
-    "Meeting_Date": "01/18/2023",
-    "Meeting_Time": "6:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 886,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26086,
-    "Meeting_Event_ID": 42203,
-    "File_Nme": "BOH Meeting Agenda (011823)_2023-01-13_15-21-02",
-    "Meeting_Date": "01/18/2023",
-    "Meeting_Time": "6:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 886,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26079,
-    "Meeting_Event_ID": 42196,
-    "File_Nme": "2023-01-18_2023-01-12_14-22-01",
-    "Meeting_Date": "01/18/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 892,
     "subCommitteeID": 0
   }
 ]
