@@ -195,6 +195,58 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26157,
+    "Meeting_Event_ID": 42270,
+    "File_Nme": "Agenda-HPPS-2023-02-02_2023-01-30_16-45-01",
+    "Meeting_Date": "02/02/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26157,
+    "Meeting_Event_ID": 42270,
+    "File_Nme": "Agenda-HPPS-2023-02-02_2023-01-30_16-45-01",
+    "Meeting_Date": "02/02/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 928,
+    "subCommitteeID": 279
+  },
+  {
+    "Agenda_ID": 26153,
+    "Meeting_Event_ID": 42268,
+    "File_Nme": "2023-02-02 Tulsa Stadium Trust - Regular Meeting Agenda(991818.2)_2023-01-30_13-34-02",
+    "Meeting_Date": "02/02/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 897,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26155,
+    "Meeting_Event_ID": 42268,
+    "File_Nme": "2023-02-02 Tulsa Stadium Trust - Regular Meeting Notice(992626.2)_2023-01-30_13-41-02",
+    "Meeting_Date": "02/02/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 897,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26146,
     "Meeting_Event_ID": 42261,
     "File_Nme": "2-1-23 Agenda_2023-01-27_13-50-01",
@@ -218,6 +270,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26156,
+    "Meeting_Event_ID": 42269,
+    "File_Nme": "02 01 23 PCSSC Agenda (002)_2023-01-30_15-28-01",
+    "Meeting_Date": "02/01/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
     "subCommitteeID": 0
   },
   {
@@ -348,45 +413,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 892,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26144,
-    "Meeting_Event_ID": 42259,
-    "File_Nme": "MTTA Board Meeting Agenda 1-31-22 _2023-01-27_11-05-01",
-    "Meeting_Date": "01/31/2023",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26144,
-    "Meeting_Event_ID": 42259,
-    "File_Nme": "MTTA Board Meeting Agenda 1-31-22 _2023-01-27_11-05-01",
-    "Meeting_Date": "01/31/2023",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 26145,
-    "Meeting_Event_ID": 42260,
-    "File_Nme": "TARE Board Notice of Meeting and Agenda 01-31-2023_2023-01-27_12-53-01",
-    "Meeting_Date": "01/31/2023",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority For The Recovery Of Energy (TARE)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
     "subCommitteeID": 0
   }
 ]
