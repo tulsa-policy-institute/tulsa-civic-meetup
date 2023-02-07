@@ -156,6 +156,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26192,
+    "Meeting_Event_ID": 42304,
+    "File_Nme": "CITY PA NOTICE MTG DATE_ LOCATION CHANGE - FEB 2023_2023-02-06_10-09-02",
+    "Meeting_Date": "02/17/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City Of Tulsa/Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26120,
     "Meeting_Event_ID": 42235,
     "File_Nme": "BOA Agenda - February 16, 2023 and parking pass_2023-01-23_14-39-01",
@@ -323,6 +336,32 @@
     "Return_Message": "",
     "boardID": 980,
     "subCommitteeID": 244
+  },
+  {
+    "Agenda_ID": 26195,
+    "Meeting_Event_ID": 42307,
+    "File_Nme": "2023-02-09_TAA Agenda_Final_2023-02_2023-02-06_16-26-01",
+    "Meeting_Date": "02/09/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Airport Authority (TAA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 884,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26194,
+    "Meeting_Event_ID": 42306,
+    "File_Nme": "2023-02-09_TAIT_Agenda_Final_2023-02_2023-02-06_16-25-02",
+    "Meeting_Date": "02/09/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 26185,
@@ -582,71 +621,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 930,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26169,
-    "Meeting_Event_ID": 42281,
-    "File_Nme": "Agenda - Board of Trustees Meeting - February 7 2023_2023-02-01_11-28-02",
-    "Meeting_Date": "02/07/2023",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Gilcrease Museum Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 960,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26159,
-    "Meeting_Event_ID": 42272,
-    "File_Nme": "2-7-23 CDC Agenda_2023-01-31_11-22-01",
-    "Meeting_Date": "02/07/2023",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "HUD Community Development Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 868,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26168,
-    "Meeting_Event_ID": 42280,
-    "File_Nme": "2-7-23 MERP Board Meeting Agenda_2023-02-01_09-12-02",
-    "Meeting_Date": "02/07/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26168,
-    "Meeting_Event_ID": 42280,
-    "File_Nme": "2-7-23 MERP Board Meeting Agenda_2023-02-01_09-12-02",
-    "Meeting_Date": "02/07/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
-  },
-  {
-    "Agenda_ID": 26176,
-    "Meeting_Event_ID": 42288,
-    "File_Nme": "PB Agenda (in person) 2-7-2023_2023-02-02_16-36-01",
-    "Meeting_Date": "02/07/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Park And Recreation Board (PRB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 877,
     "subCommitteeID": 0
   }
 ]
