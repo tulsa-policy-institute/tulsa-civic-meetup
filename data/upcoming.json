@@ -234,6 +234,58 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26208,
+    "Meeting_Event_ID": 42320,
+    "File_Nme": "2023-02-15 TTC Meeting Cancellation Notice_2023-02-09_09-37-01",
+    "Meeting_Date": "02/15/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Transportation Technical Committee (TTC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1008,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26206,
+    "Meeting_Event_ID": 42318,
+    "File_Nme": "2.15.23 February Tri-County Council on Aging Regular Meeting_2023-02-09_08-25-02",
+    "Meeting_Date": "02/15/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tri-County Council on Aging",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26209,
+    "Meeting_Event_ID": 42321,
+    "File_Nme": "2023-02-15_2023-02-09_15-25-02",
+    "Meeting_Date": "02/15/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26207,
+    "Meeting_Event_ID": 42319,
+    "File_Nme": "2023-02-14-BOA-TGOV-Agenda_2023-02-09_09-04-01",
+    "Meeting_Date": "02/14/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Board of Adjustment (BOA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26203,
     "Meeting_Event_ID": 42315,
     "File_Nme": "EDD Board Special Meeting Notice and Agenda February 14, 2023_2023-02-08_10-36-02",
@@ -258,44 +310,5 @@
     "Return_Message": "",
     "boardID": 871,
     "subCommitteeID": 240
-  },
-  {
-    "Agenda_ID": 26162,
-    "Meeting_Event_ID": 42275,
-    "File_Nme": "MTTA Board Special Meeting Agenda 2-10-23_2023-01-31_12-40-01",
-    "Meeting_Date": "02/10/2023",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26162,
-    "Meeting_Event_ID": 42275,
-    "File_Nme": "MTTA Board Special Meeting Agenda 2-10-23_2023-01-31_12-40-01",
-    "Meeting_Date": "02/10/2023",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 26191,
-    "Meeting_Event_ID": 42303,
-    "File_Nme": "AGENDA.FEB 2.10.23_2023-02-03_16-03-01",
-    "Meeting_Date": "02/10/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "River Parks Authority (RPA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 879,
-    "subCommitteeID": 0
   }
 ]
