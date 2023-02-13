@@ -388,18 +388,5 @@
     "Return_Message": "",
     "boardID": 1080,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26210,
-    "Meeting_Event_ID": 42322,
-    "File_Nme": "AW Commission Meeting Agenda 02132023_2023-02-10_08-01-01",
-    "Meeting_Date": "02/13/2023",
-    "Meeting_Time": "6:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Animal Welfare Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1095,
-    "subCommitteeID": 0
   }
 ]
