@@ -234,6 +234,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26306,
+    "Meeting_Event_ID": 42408,
+    "File_Nme": "Regular Meeting Agenda CSC 3-9-23_2023-03-02_08-17-01",
+    "Meeting_Date": "03/09/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26298,
     "Meeting_Event_ID": 42400,
     "File_Nme": "03.09.23 Agenda_2023-03-01_14-38-02",
@@ -364,6 +377,32 @@
     "subCommitteeID": 308
   },
   {
+    "Agenda_ID": 26308,
+    "Meeting_Event_ID": 42410,
+    "File_Nme": "Agenda Met Mar 9 Tulsa_2023-03-02_15-01-01",
+    "Meeting_Date": "03/09/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26308,
+    "Meeting_Event_ID": 42410,
+    "File_Nme": "Agenda Met Mar 9 Tulsa_2023-03-02_15-01-01",
+    "Meeting_Date": "03/09/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 244
+  },
+  {
     "Agenda_ID": 26271,
     "Meeting_Event_ID": 42374,
     "File_Nme": "Board Meeting Cancellation - March 2023_2023-02-24_13-01-01",
@@ -427,70 +466,5 @@
     "Return_Message": "",
     "boardID": 895,
     "subCommitteeID": 274
-  },
-  {
-    "Agenda_ID": 26295,
-    "Meeting_Event_ID": 42397,
-    "File_Nme": "March 3, 2023 CTAG Regular Meeting Notice and Agenda_2023-03-01_10-36-02",
-    "Meeting_Date": "03/03/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Coalition Of Tulsa Area Governments (CTAG)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 947,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26303,
-    "Meeting_Event_ID": 42405,
-    "File_Nme": "03.03.23 Agenda_2023-03-01_14-56-02",
-    "Meeting_Date": "03/03/2023",
-    "Meeting_Time": "11:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Affordable Housing Property Solutions, Inc.",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 869,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26301,
-    "Meeting_Event_ID": 42403,
-    "File_Nme": "03.03.23 Agenda_2023-03-01_14-43-02",
-    "Meeting_Date": "03/03/2023",
-    "Meeting_Time": "11:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Affordable Housing Property Solutions, Inc.",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 869,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26303,
-    "Meeting_Event_ID": 42405,
-    "File_Nme": "03.03.23 Agenda_2023-03-01_14-56-02",
-    "Meeting_Date": "03/03/2023",
-    "Meeting_Time": "11:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Affordable Housing Property Solutions, Inc.",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 869,
-    "subCommitteeID": 287
-  },
-  {
-    "Agenda_ID": 26301,
-    "Meeting_Event_ID": 42403,
-    "File_Nme": "03.03.23 Agenda_2023-03-01_14-43-02",
-    "Meeting_Date": "03/03/2023",
-    "Meeting_Time": "11:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Affordable Housing Property Solutions, Inc.",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 869,
-    "subCommitteeID": 287
   }
 ]
