@@ -143,6 +143,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26349,
+    "Meeting_Event_ID": 42448,
+    "File_Nme": "2023-03-24 Tulsas Gathering Place LLC - Special Meeting Notice(1005728.2)_2023-03-10_13-30-01",
+    "Meeting_Date": "03/24/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa's Gathering Place LLC",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 931,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26333,
     "Meeting_Event_ID": 42432,
     "File_Nme": "Notice 2023 Special Meeting Mar 23 2023_2023-03-07_09-49-01",
@@ -221,6 +234,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26348,
+    "Meeting_Event_ID": 42447,
+    "File_Nme": "NOTICE OF CANCELLATION_031623_2023-03-10_12-50-01",
+    "Meeting_Date": "03/16/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "River Parks Authority (RPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 879,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26284,
     "Meeting_Event_ID": 42386,
     "File_Nme": "Notice of Regular Library Commission Meeting - March 2023_2023-02-28_08-01-02",
@@ -273,6 +299,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26346,
+    "Meeting_Event_ID": 42445,
+    "File_Nme": "March 2023 PMB meeting agenda_2023-03-10_08-36-01",
+    "Meeting_Date": "03/15/2023",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City of Tulsa - Prisoner Medical Billing Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1036,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26345,
     "Meeting_Event_ID": 42444,
     "File_Nme": "2023-03-15 TTC Agenda_2023-03-09_15-58-01",
@@ -322,6 +361,71 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 1085,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26352,
+    "Meeting_Event_ID": 42450,
+    "File_Nme": "03142023 GTAAAC SPECIAL AGENDA_2023-03-10_16-26-01",
+    "Meeting_Date": "03/14/2023",
+    "Meeting_Time": "7:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Greater Tulsa Area African-American Affairs Commission (GTAAAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1085,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26351,
+    "Meeting_Event_ID": 42334,
+    "File_Nme": "03142023 GTAAAC Agenda_2023-03-10_16-26-01",
+    "Meeting_Date": "03/14/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Greater Tulsa Area African-American Affairs Commission (GTAAAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1085,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26347,
+    "Meeting_Event_ID": 42446,
+    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, March 14, 2023_2023-03-10_11-39-01",
+    "Meeting_Date": "03/14/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26347,
+    "Meeting_Event_ID": 42446,
+    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, March 14, 2023_2023-03-10_11-39-01",
+    "Meeting_Date": "03/14/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 311
+  },
+  {
+    "Agenda_ID": 26350,
+    "Meeting_Event_ID": 42449,
+    "File_Nme": "3-14-23 Agenda_2023-03-10_14-50-01",
+    "Meeting_Date": "03/14/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Route 66 Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1080,
     "subCommitteeID": 0
   },
   {
