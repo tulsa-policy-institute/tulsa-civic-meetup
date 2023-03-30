@@ -323,18 +323,5 @@
     "Return_Message": "",
     "boardID": 874,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26415,
-    "Meeting_Event_ID": 42504,
-    "File_Nme": "SSA Agenda 03-30-2023_2023-03-28_15-16-02",
-    "Meeting_Date": "03/30/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
   }
 ]
