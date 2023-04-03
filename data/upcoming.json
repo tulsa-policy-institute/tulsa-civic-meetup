@@ -375,31 +375,5 @@
     "Return_Message": "",
     "boardID": 877,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26371,
-    "Meeting_Event_ID": 42465,
-    "File_Nme": "Notice of Date Change_2023-03-17_13-40-02",
-    "Meeting_Date": "04/03/2023",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Reschedule",
-    "Board_Name": "City of Tulsa - Mayor's Commission on the Status of Women",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 874,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26418,
-    "Meeting_Event_ID": 42507,
-    "File_Nme": "04032023 MCSOW Agenda_2023-03-30_08-05-01",
-    "Meeting_Date": "04/03/2023",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "City of Tulsa - Mayor's Commission on the Status of Women",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 874,
-    "subCommitteeID": 0
   }
 ]
