@@ -247,6 +247,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26431,
+    "Meeting_Event_ID": 42519,
+    "File_Nme": "AC  AGENDA April 2023 draft_2023-04-04_08-35-01",
+    "Meeting_Date": "04/11/2023",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City of Tulsa - Arts Commission (ARTS)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 882,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26433,
+    "Meeting_Event_ID": 42521,
+    "File_Nme": "04112023 GTAAAC Special Meeting Agenda_2023-04-04_16-17-01",
+    "Meeting_Date": "04/11/2023",
+    "Meeting_Time": "5:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Greater Tulsa Area African-American Affairs Commission (GTAAAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1085,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26434,
+    "Meeting_Event_ID": 42522,
+    "File_Nme": "REGULAR MEETING CANCELLATION April 11_2023-04-04_16-56-01",
+    "Meeting_Date": "04/11/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Greater Tulsa Area African-American Affairs Commission (GTAAAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1085,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26416,
     "Meeting_Event_ID": 42505,
     "File_Nme": "Board Governance Agenda April 10, 2023_2023-03-28_15-49-02",
@@ -325,6 +364,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26432,
+    "Meeting_Event_ID": 42520,
+    "File_Nme": "SSA Agenda 04-06-2023_2023-04-04_15-30-01",
+    "Meeting_Date": "04/06/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26425,
     "Meeting_Event_ID": 42514,
     "File_Nme": "Agenda-HPPS-2023-04-06_2023-04-03_10-06-01",
@@ -349,70 +401,5 @@
     "Return_Message": "",
     "boardID": 928,
     "subCommitteeID": 279
-  },
-  {
-    "Agenda_ID": 26428,
-    "Meeting_Event_ID": 42516,
-    "File_Nme": "2023-04-05 Special Meeting_2023-04-03_15-51-01",
-    "Meeting_Date": "04/05/2023",
-    "Meeting_Time": "5:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "City of Tulsa - City Council",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26429,
-    "Meeting_Event_ID": 42517,
-    "File_Nme": "4-5-2023 Agenda_2023-04-03_16-38-01",
-    "Meeting_Date": "04/05/2023",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Contractors Prequalification Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 948,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26424,
-    "Meeting_Event_ID": 42513,
-    "File_Nme": "04 05 23 PCSSC Agenda_2023-04-03_09-25-02",
-    "Meeting_Date": "04/05/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Professional Consulting Services Selection Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 990,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26421,
-    "Meeting_Event_ID": 42510,
-    "File_Nme": "2023-04-05_2023-03-30_14-37-01",
-    "Meeting_Date": "04/05/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 892,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26426,
-    "Meeting_Event_ID": 42510,
-    "File_Nme": "Amended 2023-04-05_2023-04-03_13-05-01",
-    "Meeting_Date": "04/05/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 892,
-    "subCommitteeID": 0
   }
 ]
