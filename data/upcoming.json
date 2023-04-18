@@ -221,6 +221,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26494,
+    "Meeting_Event_ID": 42556,
+    "File_Nme": "PORT MTG NOTICE-AGENDA APRIL 2023_2023-04-17_15-08-01",
+    "Meeting_Date": "04/20/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "City of Tulsa - Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26496,
+    "Meeting_Event_ID": 42582,
+    "File_Nme": "911 Board Special Meeting Notice and Agenda April 20, 2023_2023-04-17_15-36-01",
+    "Meeting_Date": "04/20/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Regional Enhanced 911 Board",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 994,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26493,
+    "Meeting_Event_ID": 42580,
+    "File_Nme": "NOTICE-AGENDA_042023_2023-04-17_13-22-01",
+    "Meeting_Date": "04/20/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "River Parks Authority (RPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 879,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26427,
     "Meeting_Event_ID": 42515,
     "File_Nme": "Notice of Regular Library Commission Meeting - April 2023_2023-04-03_15-44-01",
@@ -377,6 +416,19 @@
     "subCommitteeID": 255
   },
   {
+    "Agenda_ID": 26490,
+    "Meeting_Event_ID": 42577,
+    "File_Nme": "04 19 23 PCSSC Agenda_2023-04-17_09-51-01",
+    "Meeting_Date": "04/19/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26470,
     "Meeting_Event_ID": 42557,
     "File_Nme": "4.19.2023 TCCA Resource Allocation Agenda Special Meeting_2023-04-11_15-53-01",
@@ -416,6 +468,32 @@
     "subCommitteeID": 249
   },
   {
+    "Agenda_ID": 26491,
+    "Meeting_Event_ID": 42578,
+    "File_Nme": "04192023 Reg Meeting Notice_2023-04-17_10-40-01",
+    "Meeting_Date": "04/19/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26492,
+    "Meeting_Event_ID": 42579,
+    "File_Nme": "BOH Meeting Agenda (041923)_2023-04-17_10-40-02",
+    "Meeting_Date": "04/19/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26478,
     "Meeting_Event_ID": 42565,
     "File_Nme": "2023-04-19_2023-04-13_15-01-01",
@@ -440,83 +518,5 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26488,
-    "Meeting_Event_ID": 42575,
-    "File_Nme": "Tribal Relations Committee Agenda (April 11)_2023-04-14_16-28-02",
-    "Meeting_Date": "04/18/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "City of Tulsa - City Council - Tribal Relations Committee ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26488,
-    "Meeting_Event_ID": 42575,
-    "File_Nme": "Tribal Relations Committee Agenda (April 11)_2023-04-14_16-28-02",
-    "Meeting_Date": "04/18/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "City of Tulsa - City Council - Tribal Relations Committee ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 334
-  },
-  {
-    "Agenda_ID": 26479,
-    "Meeting_Event_ID": 42566,
-    "File_Nme": "00_TARE Focus Committee Meeting Notice and Agenda 04-18-2023_2023-04-14_08-33-01",
-    "Meeting_Date": "04/18/2023",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26479,
-    "Meeting_Event_ID": 42566,
-    "File_Nme": "00_TARE Focus Committee Meeting Notice and Agenda 04-18-2023_2023-04-14_08-33-01",
-    "Meeting_Date": "04/18/2023",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 327
-  },
-  {
-    "Agenda_ID": 26477,
-    "Meeting_Event_ID": 42564,
-    "File_Nme": "Agenda-HPPS-2023-04-18_2023-04-13_14-14-01",
-    "Meeting_Date": "04/18/2023",
-    "Meeting_Time": "4:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26477,
-    "Meeting_Event_ID": 42564,
-    "File_Nme": "Agenda-HPPS-2023-04-18_2023-04-13_14-14-01",
-    "Meeting_Date": "04/18/2023",
-    "Meeting_Time": "4:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 285
   }
 ]
