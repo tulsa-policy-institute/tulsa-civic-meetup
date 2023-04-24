@@ -531,18 +531,5 @@
     "Return_Message": "",
     "boardID": 880,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26508,
-    "Meeting_Event_ID": 42593,
-    "File_Nme": "2023-04-24 IOT Town Hall_2023-04-20_11-28-01",
-    "Meeting_Date": "04/24/2023",
-    "Meeting_Time": "6:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "City of Tulsa - City Council",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 0
   }
 ]
