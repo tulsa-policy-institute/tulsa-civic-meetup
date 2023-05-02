@@ -117,6 +117,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26552,
+    "Meeting_Event_ID": 42635,
+    "File_Nme": "May 18, 2023 TC Local Emergency Planning Committee - Special Meeting Notice_2023-05-01_14-33-02",
+    "Meeting_Date": "05/18/2023",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Local Emergency Planning Committee (LEPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1082,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26553,
+    "Meeting_Event_ID": 42635,
+    "File_Nme": "May 18, 2023 TC Local Emergency Planning Committee - Special Meeting Agenda_2023-05-01_14-33-01",
+    "Meeting_Date": "05/18/2023",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Local Emergency Planning Committee (LEPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1082,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26548,
+    "Meeting_Event_ID": 42631,
+    "File_Nme": "Notice of Regular Library Commission Meeting - May 2023_2023-05-01_09-10-02",
+    "Meeting_Date": "05/18/2023",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Library Commission (TCCLC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 887,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26527,
     "Meeting_Event_ID": 42611,
     "File_Nme": "05162023 GTAIAC Notice of Location Change_2023-04-24_11-38-01",
@@ -208,6 +247,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26550,
+    "Meeting_Event_ID": 42633,
+    "File_Nme": "05052023 MCSOW Agenda_2023-05-01_11-04-02",
+    "Meeting_Date": "05/05/2023",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Mayor's Commission on the Status of Women",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26475,
     "Meeting_Event_ID": 42562,
     "File_Nme": "May 2023 DRC Agenda-Cancelation_2023-04-13_08-23-01",
@@ -271,6 +323,32 @@
     "Return_Message": "",
     "boardID": 895,
     "subCommitteeID": 274
+  },
+  {
+    "Agenda_ID": 26551,
+    "Meeting_Event_ID": 42634,
+    "File_Nme": "Agenda-HPPS-2023-05-04_2023-05-01_11-34-01",
+    "Meeting_Date": "05/04/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26551,
+    "Meeting_Event_ID": 42634,
+    "File_Nme": "Agenda-HPPS-2023-05-04_2023-05-01_11-34-01",
+    "Meeting_Date": "05/04/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
   },
   {
     "Agenda_ID": 26541,
@@ -401,44 +479,5 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26540,
-    "Meeting_Event_ID": 42624,
-    "File_Nme": "Board Meeting Cancellation  - May 2023_2023-04-28_11-43-01",
-    "Meeting_Date": "05/02/2023",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Gilcrease Museum Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 960,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26538,
-    "Meeting_Event_ID": 42622,
-    "File_Nme": "5-2-23 MERP Board Meeting Agenda_2023-04-26_15-28-01",
-    "Meeting_Date": "05/02/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26538,
-    "Meeting_Event_ID": 42622,
-    "File_Nme": "5-2-23 MERP Board Meeting Agenda_2023-04-26_15-28-01",
-    "Meeting_Date": "05/02/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
   }
 ]
