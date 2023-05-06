@@ -78,6 +78,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26571,
+    "Meeting_Event_ID": 42652,
+    "File_Nme": "2023-07-05 Canceled_2023-05-05_09-48-02",
+    "Meeting_Date": "07/05/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26532,
     "Meeting_Event_ID": 42616,
     "File_Nme": "City Reg Mtg Date Change June 2023_2023-04-25_15-16-01",
@@ -101,6 +114,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26565,
+    "Meeting_Event_ID": 42646,
+    "File_Nme": "June 2023 DRC Agenda_2023-05-05_08-19-02",
+    "Meeting_Date": "06/01/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Disability Review Committee (DRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 950,
     "subCommitteeID": 0
   },
   {
@@ -247,6 +273,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26569,
+    "Meeting_Event_ID": 42650,
+    "File_Nme": "IDAB Agenda 5-11-2023_2023-05-05_09-20-03",
+    "Meeting_Date": "05/11/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Infrastructure Development Advisory Board (IDAB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 872,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26559,
     "Meeting_Event_ID": 42641,
     "File_Nme": "Agenda May 11, 2023 TUL_2023-05-03_09-26-01",
@@ -271,6 +310,97 @@
     "Return_Message": "",
     "boardID": 980,
     "subCommitteeID": 244
+  },
+  {
+    "Agenda_ID": 26575,
+    "Meeting_Event_ID": 42655,
+    "File_Nme": "Agenda-TPC-2023-05-11_2023-05-05_15-04-02",
+    "Meeting_Date": "05/11/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26570,
+    "Meeting_Event_ID": 42651,
+    "File_Nme": "May_2023_MCB_AGENDA_2023-05-05_09-49-01",
+    "Meeting_Date": "05/10/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Medical Control Board (MCB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 979,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26574,
+    "Meeting_Event_ID": 42654,
+    "File_Nme": "911 Board Meeting Notice and Agenda May 10, 2023_2023-05-05_13-48-02",
+    "Meeting_Date": "05/10/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Regional Enhanced 911 Board",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 994,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26566,
+    "Meeting_Event_ID": 42647,
+    "File_Nme": "05102023 FR Agenda_2023-05-05_09-20-02",
+    "Meeting_Date": "05/10/2023",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26567,
+    "Meeting_Event_ID": 42648,
+    "File_Nme": "05102023 TMUA agenda_2023-05-05_09-20-03",
+    "Meeting_Date": "05/10/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26566,
+    "Meeting_Event_ID": 42647,
+    "File_Nme": "05102023 FR Agenda_2023-05-05_09-20-02",
+    "Meeting_Date": "05/10/2023",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 271
+  },
+  {
+    "Agenda_ID": 26568,
+    "Meeting_Event_ID": 42649,
+    "File_Nme": "05102023 TUB agenda_2023-05-05_09-20-03",
+    "Meeting_Date": "05/10/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Utility Board (TUB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 930,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 26562,
@@ -312,6 +442,32 @@
     "subCommitteeID": 311
   },
   {
+    "Agenda_ID": 26576,
+    "Meeting_Event_ID": 42656,
+    "File_Nme": "5-9-23 Agenda_2023-05-05_16-25-02",
+    "Meeting_Date": "05/09/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Route 66 Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1080,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26572,
+    "Meeting_Event_ID": 42653,
+    "File_Nme": "AW Commission Meeting Agenda 05082023_2023-05-05_09-53-01",
+    "Meeting_Date": "05/08/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Animal Welfare Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1095,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26557,
     "Meeting_Event_ID": 42639,
     "File_Nme": "AC  AGENDA May 2023 draft RT edit_2023-05-02_16-25-02",
@@ -343,7 +499,20 @@
     "File_Nme": "Notice of Change of Meeting Date TPACT Full Trust Board 05.08.23_2023-03-27_13-04-03",
     "Meeting_Date": "05/08/2023",
     "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Special",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26573,
+    "Meeting_Event_ID": 42502,
+    "File_Nme": "TPACT Full Trust Meeting 05.08.23 Agenda_2023-05-05_13-14-03",
+    "Meeting_Date": "05/08/2023",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
     "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
     "Return_Code": 0,
     "Return_Message": "",
