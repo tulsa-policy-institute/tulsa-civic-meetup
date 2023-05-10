@@ -182,6 +182,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26585,
+    "Meeting_Event_ID": 42665,
+    "File_Nme": "City FA Special Mtg 5.18.23_2023-05-09_14-11-01",
+    "Meeting_Date": "05/18/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26527,
     "Meeting_Event_ID": 42611,
     "File_Nme": "05162023 GTAIAC Notice of Location Change_2023-04-24_11-38-01",
@@ -377,6 +390,19 @@
     "subCommitteeID": 244
   },
   {
+    "Agenda_ID": 26584,
+    "Meeting_Event_ID": 42664,
+    "File_Nme": "SSA Agenda 05-11-2023_2023-05-09_14-10-02",
+    "Meeting_Date": "05/11/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26581,
     "Meeting_Event_ID": 42661,
     "File_Nme": "2023-05-11_TAA Agenda_FINAL_2023-05-08_14-36-01",
@@ -413,84 +439,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 878,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26570,
-    "Meeting_Event_ID": 42651,
-    "File_Nme": "May_2023_MCB_AGENDA_2023-05-05_09-49-01",
-    "Meeting_Date": "05/10/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Medical Control Board (MCB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 979,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26574,
-    "Meeting_Event_ID": 42654,
-    "File_Nme": "911 Board Meeting Notice and Agenda May 10, 2023_2023-05-05_13-48-02",
-    "Meeting_Date": "05/10/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Regional Enhanced 911 Board",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 994,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26566,
-    "Meeting_Event_ID": 42647,
-    "File_Nme": "05102023 FR Agenda_2023-05-05_09-20-02",
-    "Meeting_Date": "05/10/2023",
-    "Meeting_Time": "9:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 893,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26567,
-    "Meeting_Event_ID": 42648,
-    "File_Nme": "05102023 TMUA agenda_2023-05-05_09-20-03",
-    "Meeting_Date": "05/10/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 893,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26566,
-    "Meeting_Event_ID": 42647,
-    "File_Nme": "05102023 FR Agenda_2023-05-05_09-20-02",
-    "Meeting_Date": "05/10/2023",
-    "Meeting_Time": "9:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 893,
-    "subCommitteeID": 271
-  },
-  {
-    "Agenda_ID": 26568,
-    "Meeting_Event_ID": 42649,
-    "File_Nme": "05102023 TUB agenda_2023-05-05_09-20-03",
-    "Meeting_Date": "05/10/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Utility Board (TUB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 930,
     "subCommitteeID": 0
   }
 ]
