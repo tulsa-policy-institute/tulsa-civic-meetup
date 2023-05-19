@@ -195,6 +195,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26620,
+    "Meeting_Event_ID": 42695,
+    "File_Nme": "Agenda-TPC-2023-05-23 Amended 2_2023-05-18_12-24-01",
+    "Meeting_Date": "05/23/2023",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26617,
     "Meeting_Event_ID": 42693,
     "File_Nme": "Agenda-TPC-2023-05-23_2023-05-17_13-46-01",
