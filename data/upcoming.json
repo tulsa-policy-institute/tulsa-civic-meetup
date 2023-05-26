@@ -117,6 +117,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26653,
+    "Meeting_Event_ID": 42729,
+    "File_Nme": "June 2023 Tulsa Food Advisory Meeting Notice - Agenda_2023-05-25_16-38-01",
+    "Meeting_Date": "06/07/2023",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH) - Food Advisory Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26653,
+    "Meeting_Event_ID": 42729,
+    "File_Nme": "June 2023 Tulsa Food Advisory Meeting Notice - Agenda_2023-05-25_16-38-01",
+    "Meeting_Date": "06/07/2023",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH) - Food Advisory Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 266
+  },
+  {
     "Agenda_ID": 26565,
     "Meeting_Event_ID": 42646,
     "File_Nme": "June 2023 DRC Agenda_2023-05-05_08-19-02",
@@ -140,6 +166,45 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26651,
+    "Meeting_Event_ID": 42727,
+    "File_Nme": "2023-05-31 TPC Meeting Notice and Agenda_2023-05-25_13-36-01",
+    "Meeting_Date": "05/31/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26651,
+    "Meeting_Event_ID": 42727,
+    "File_Nme": "2023-05-31 TPC Meeting Notice and Agenda_2023-05-25_13-36-01",
+    "Meeting_Date": "05/31/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 254
+  },
+  {
+    "Agenda_ID": 26652,
+    "Meeting_Event_ID": 42728,
+    "File_Nme": "Full Board Regular Meeting Notice and Agenda 05-30-2023_2023-05-25_13-53-01",
+    "Meeting_Date": "05/30/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
     "subCommitteeID": 0
   }
 ]
