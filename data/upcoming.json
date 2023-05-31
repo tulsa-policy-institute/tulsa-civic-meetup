@@ -117,6 +117,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26659,
+    "Meeting_Event_ID": 42735,
+    "File_Nme": "Cancelation notice 6-8-23_2023-05-30_11-59-02",
+    "Meeting_Date": "06/08/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26653,
     "Meeting_Event_ID": 42729,
     "File_Nme": "June 2023 Tulsa Food Advisory Meeting Notice - Agenda_2023-05-25_16-38-01",
@@ -141,6 +154,32 @@
     "Return_Message": "",
     "boardID": 886,
     "subCommitteeID": 266
+  },
+  {
+    "Agenda_ID": 26656,
+    "Meeting_Event_ID": 42732,
+    "File_Nme": "Agenda - Board of Trustees Meeting - June 6 2023_2023-05-30_10-45-02",
+    "Meeting_Date": "06/06/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Gilcrease Museum Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 960,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26655,
+    "Meeting_Event_ID": 42731,
+    "File_Nme": "June 2,  2023 CTAG Regular Meeting Notice and Agenda_2023-05-30_09-54-01",
+    "Meeting_Date": "06/02/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 947,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 26565,
@@ -169,6 +208,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26662,
+    "Meeting_Event_ID": 42737,
+    "File_Nme": "SSA Agenda 06-01-2023_2023-05-30_16-30-02",
+    "Meeting_Date": "06/01/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26661,
+    "Meeting_Event_ID": 42736,
+    "File_Nme": "PPI Meeting Agenda 06.01.2023_2023-05-30_16-30-01",
+    "Meeting_Date": "06/01/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26661,
+    "Meeting_Event_ID": 42736,
+    "File_Nme": "PPI Meeting Agenda 06.01.2023_2023-05-30_16-30-01",
+    "Meeting_Date": "06/01/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 284
+  },
+  {
     "Agenda_ID": 26654,
     "Meeting_Event_ID": 42730,
     "File_Nme": "Agenda-HPPS-2023-06-01_2023-05-26_11-27-01",
@@ -195,29 +273,29 @@
     "subCommitteeID": 285
   },
   {
-    "Agenda_ID": 26651,
-    "Meeting_Event_ID": 42727,
-    "File_Nme": "2023-05-31 TPC Meeting Notice and Agenda_2023-05-25_13-36-01",
-    "Meeting_Date": "05/31/2023",
-    "Meeting_Time": "10:30AM",
+    "Agenda_ID": 26657,
+    "Meeting_Event_ID": 42733,
+    "File_Nme": "2023-06-01 Tulsa Stadium Trust - Regular Meeting Agenda(1034630.4)_2023-05-30_11-10-01",
+    "Meeting_Date": "06/01/2023",
+    "Meeting_Time": "8:00AM",
     "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 871,
+    "boardID": 897,
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 26651,
-    "Meeting_Event_ID": 42727,
-    "File_Nme": "2023-05-31 TPC Meeting Notice and Agenda_2023-05-25_13-36-01",
-    "Meeting_Date": "05/31/2023",
-    "Meeting_Time": "10:30AM",
+    "Agenda_ID": 26658,
+    "Meeting_Event_ID": 42734,
+    "File_Nme": "2023-06-01 Tulsa Stadium Trust - Regular Meeting Notice(1034631.2)_2023-05-30_11-10-02",
+    "Meeting_Date": "06/01/2023",
+    "Meeting_Time": "8:00AM",
     "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 254
+    "boardID": 897,
+    "subCommitteeID": 0
   }
 ]
