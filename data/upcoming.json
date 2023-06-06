@@ -78,6 +78,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26689,
+    "Meeting_Event_ID": 42762,
+    "File_Nme": "DRC Agenda-July 2023_2023-06-05_08-18-01",
+    "Meeting_Date": "07/06/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Disability Review Committee (DRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26571,
     "Meeting_Event_ID": 42652,
     "File_Nme": "2023-07-05 Canceled_2023-05-05_09-48-02",
@@ -377,6 +390,58 @@
     "subCommitteeID": 244
   },
   {
+    "Agenda_ID": 26691,
+    "Meeting_Event_ID": 42764,
+    "File_Nme": "2023-06-08_TAA Agenda_FIS Work Session_2023-06-05_15-46-01",
+    "Meeting_Date": "06/08/2023",
+    "Meeting_Time": "9:15AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26692,
+    "Meeting_Event_ID": 42765,
+    "File_Nme": "2023-06-08_TAA Agenda_LAST FINAL_2023-06-05_15-46-01",
+    "Meeting_Date": "06/08/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26693,
+    "Meeting_Event_ID": 42766,
+    "File_Nme": "2023-06-08_TAIT Agenda_FIS Work Session_2023-06-05_15-45-01",
+    "Meeting_Date": "06/08/2023",
+    "Meeting_Time": "9:15AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26694,
+    "Meeting_Event_ID": 42767,
+    "File_Nme": "2023-06-08_TAIT Agenda_LAST FINAL_2023-06-05_15-46-01",
+    "Meeting_Date": "06/08/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26682,
     "Meeting_Event_ID": 42755,
     "File_Nme": "Agenda-TPC-2023-06-08_2023-06-02_13-05-01",
@@ -387,6 +452,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26695,
+    "Meeting_Event_ID": 42768,
+    "File_Nme": "6-7-2023 Agenda_2023-06-05_16-03-01",
+    "Meeting_Date": "06/07/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Contractors Prequalification Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 948,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26690,
+    "Meeting_Event_ID": 42763,
+    "File_Nme": "06 07 23 PCSSC Agenda_2023-06-05_15-07-01",
+    "Meeting_Date": "06/07/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
     "subCommitteeID": 0
   },
   {
@@ -530,71 +621,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 892,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26656,
-    "Meeting_Event_ID": 42732,
-    "File_Nme": "Agenda - Board of Trustees Meeting - June 6 2023_2023-05-30_10-45-02",
-    "Meeting_Date": "06/06/2023",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Gilcrease Museum Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 960,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26665,
-    "Meeting_Event_ID": 42740,
-    "File_Nme": "06022023 MCSOW Agenda_2023-05-31_10-55-01",
-    "Meeting_Date": "06/06/2023",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Mayor's Commission on the Status of Women",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 874,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26681,
-    "Meeting_Event_ID": 42754,
-    "File_Nme": "6-6-23 MERP Board Meeting Agenda_2023-06-02_11-58-01",
-    "Meeting_Date": "06/06/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26681,
-    "Meeting_Event_ID": 42754,
-    "File_Nme": "6-6-23 MERP Board Meeting Agenda_2023-06-02_11-58-01",
-    "Meeting_Date": "06/06/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
-  },
-  {
-    "Agenda_ID": 26680,
-    "Meeting_Event_ID": 42753,
-    "File_Nme": "PB Agenda (in person) 6-6-2023_2023-06-02_09-29-02",
-    "Meeting_Date": "06/06/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Parks and Recreation Board (PRB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 877,
     "subCommitteeID": 0
   }
 ]
