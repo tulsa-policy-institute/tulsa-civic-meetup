@@ -143,6 +143,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26746,
+    "Meeting_Event_ID": 42813,
+    "File_Nme": "06262023 MCSOW Special Meeting Agenda_2023-06-15_15-43-02",
+    "Meeting_Date": "06/26/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Mayor's Commission on the Status of Women",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26709,
     "Meeting_Event_ID": 42778,
     "File_Nme": "Audit Committee Cancellation Notice June 22, 2023_2023-06-08_13-09-01",
@@ -156,12 +169,38 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26745,
+    "Meeting_Event_ID": 42812,
+    "File_Nme": "PORT MTG NOTICE-AGENDA JUNE 2023_2023-06-15_15-16-02",
+    "Meeting_Date": "06/22/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26742,
+    "Meeting_Event_ID": 42616,
+    "File_Nme": "FA Agenda June 22 2023_2023-06-15_13-31-02",
+    "Meeting_Date": "06/22/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26532,
     "Meeting_Event_ID": 42616,
     "File_Nme": "City Reg Mtg Date Change June 2023_2023-04-25_15-16-01",
     "Meeting_Date": "06/22/2023",
     "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Reschedule",
+    "Meeting_Type": "Regular",
     "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
     "Return_Code": 0,
     "Return_Message": "",
@@ -179,6 +218,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26740,
+    "Meeting_Event_ID": 42808,
+    "File_Nme": "2023-06-21 TTC Agenda_2023-06-15_11-28-02",
+    "Meeting_Date": "06/21/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26741,
+    "Meeting_Event_ID": 42809,
+    "File_Nme": "June 2023 PMB meeting agenda_2023-06-15_11-53-02",
+    "Meeting_Date": "06/21/2023",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Prisoner Medical Billing Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1036,
     "subCommitteeID": 0
   },
   {
@@ -208,6 +273,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26744,
+    "Meeting_Event_ID": 42811,
+    "File_Nme": "06212023 BOH Meeting Notice Agenda_2023-06-15_14-06-02",
+    "Meeting_Date": "06/21/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26743,
+    "Meeting_Event_ID": 42810,
+    "File_Nme": "2023-06-21_2023-06-15_13-32-02",
+    "Meeting_Date": "06/21/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26700,
     "Meeting_Event_ID": 42771,
     "File_Nme": "06202023 GTAIAC Cancelation Notice_2023-06-06_14-42-01",
@@ -218,6 +309,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 867,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26739,
+    "Meeting_Event_ID": 42807,
+    "File_Nme": "SDHMAB Agenda 06.20.2023_2023-06-15_10-26-02",
+    "Meeting_Date": "06/20/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
     "subCommitteeID": 0
   },
   {
