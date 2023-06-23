@@ -143,6 +143,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26765,
+    "Meeting_Event_ID": 42832,
+    "File_Nme": "2023-06-28 TPC Meeting Notice and Agenda_2023-06-22_10-55-02",
+    "Meeting_Date": "06/28/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26764,
     "Meeting_Event_ID": 42831,
     "File_Nme": "INCOG General Assembly Special Meeting Notice and Agenda - June 28, 2023_2023-06-21_15-35-02",
@@ -154,6 +167,19 @@
     "Return_Message": "",
     "boardID": 871,
     "subCommitteeID": 330
+  },
+  {
+    "Agenda_ID": 26765,
+    "Meeting_Event_ID": 42832,
+    "File_Nme": "2023-06-28 TPC Meeting Notice and Agenda_2023-06-22_10-55-02",
+    "Meeting_Date": "06/28/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 254
   },
   {
     "Agenda_ID": 26755,
@@ -182,6 +208,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26768,
+    "Meeting_Event_ID": 42835,
+    "File_Nme": "Full Board Regular Meeting Notice and Agenda 06-27-2023_2023-06-22_16-57-02",
+    "Meeting_Date": "06/27/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26767,
+    "Meeting_Event_ID": 42834,
+    "File_Nme": "Agenda-TPC-2023-06-27_2023-06-22_15-54-02",
+    "Meeting_Date": "06/27/2023",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26767,
+    "Meeting_Event_ID": 42834,
+    "File_Nme": "Agenda-TPC-2023-06-27_2023-06-22_15-54-02",
+    "Meeting_Date": "06/27/2023",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
     "Agenda_ID": 26746,
     "Meeting_Event_ID": 42813,
     "File_Nme": "06262023 MCSOW Special Meeting Agenda_2023-06-15_15-43-02",
@@ -195,29 +260,16 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 26763,
-    "Meeting_Event_ID": 42830,
-    "File_Nme": "Food Service Advisory Council Reg Meeting Notice Agenda 06232023_2023-06-21_09-11-02",
-    "Meeting_Date": "06/23/2023",
-    "Meeting_Time": "9:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City-County Board of Health (TCCBOH) - Food Advisory Council",
+    "Agenda_ID": 26766,
+    "Meeting_Event_ID": 42833,
+    "File_Nme": "06 26 23 Special PCSSC Agenda_2023-06-22_13-03-02",
+    "Meeting_Date": "06/26/2023",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Professional Consulting Services Selection Committee",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 886,
+    "boardID": 990,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26763,
-    "Meeting_Event_ID": 42830,
-    "File_Nme": "Food Service Advisory Council Reg Meeting Notice Agenda 06232023_2023-06-21_09-11-02",
-    "Meeting_Date": "06/23/2023",
-    "Meeting_Time": "9:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City-County Board of Health (TCCBOH) - Food Advisory Council",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 886,
-    "subCommitteeID": 266
   }
 ]
