@@ -544,57 +544,5 @@
     "Return_Message": "",
     "boardID": 878,
     "subCommitteeID": 285
-  },
-  {
-    "Agenda_ID": 26776,
-    "Meeting_Event_ID": 42842,
-    "File_Nme": "06262023 HRC Agenda_2023-06-23_12-31-02",
-    "Meeting_Date": "06/26/2023",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Human Rights Commission (HRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 870,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26781,
-    "Meeting_Event_ID": 42842,
-    "File_Nme": "06262023 HRC Cancellation Notice_2023-06-23_14-57-02",
-    "Meeting_Date": "06/26/2023",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Human Rights Commission (HRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 870,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26746,
-    "Meeting_Event_ID": 42813,
-    "File_Nme": "06262023 MCSOW Special Meeting Agenda_2023-06-15_15-43-02",
-    "Meeting_Date": "06/26/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Mayor's Commission on the Status of Women",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 874,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26766,
-    "Meeting_Event_ID": 42833,
-    "File_Nme": "06 26 23 Special PCSSC Agenda_2023-06-22_13-03-02",
-    "Meeting_Date": "06/26/2023",
-    "Meeting_Time": "3:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Professional Consulting Services Selection Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 990,
-    "subCommitteeID": 0
   }
 ]
