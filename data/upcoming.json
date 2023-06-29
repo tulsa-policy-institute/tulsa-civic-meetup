@@ -143,6 +143,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26805,
+    "Meeting_Event_ID": 42867,
+    "File_Nme": "Agenda-HPPS-2023-07-06 CANCELLATION_2023-06-28_08-14-02",
+    "Meeting_Date": "07/06/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26805,
+    "Meeting_Event_ID": 42867,
+    "File_Nme": "Agenda-HPPS-2023-07-06 CANCELLATION_2023-06-28_08-14-02",
+    "Meeting_Date": "07/06/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
     "Agenda_ID": 26798,
     "Meeting_Event_ID": 42859,
     "File_Nme": "SSA Agenda  Special Meeting Spring Storm 2023_2023-06-27_08-47-02",
@@ -166,6 +192,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26806,
+    "Meeting_Event_ID": 42868,
+    "File_Nme": "SSA Agenda 06-29-2023_2023-06-28_12-54-01",
+    "Meeting_Date": "06/30/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
     "subCommitteeID": 0
   },
   {
@@ -193,44 +232,5 @@
     "Return_Message": "",
     "boardID": 895,
     "subCommitteeID": 302
-  },
-  {
-    "Agenda_ID": 26801,
-    "Meeting_Event_ID": 42862,
-    "File_Nme": "PPI_Special Meeting Agenda_6_29_2023_2023-06-27_10-21-02",
-    "Meeting_Date": "06/29/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26801,
-    "Meeting_Event_ID": 42862,
-    "File_Nme": "PPI_Special Meeting Agenda_6_29_2023_2023-06-27_10-21-02",
-    "Meeting_Date": "06/29/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 284
-  },
-  {
-    "Agenda_ID": 26791,
-    "Meeting_Event_ID": 42854,
-    "File_Nme": "CITY PA SPECIAL JUNE 29 2023_2023-06-26_10-28-03",
-    "Meeting_Date": "06/29/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa-Rogers County Port Authority (COTRCPA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 860,
-    "subCommitteeID": 0
   }
 ]
