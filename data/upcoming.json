@@ -65,6 +65,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26808,
+    "Meeting_Event_ID": 42870,
+    "File_Nme": "AW Commission Meeting Cancellation Notice 08142023_2023-06-29_11-09-02",
+    "Meeting_Date": "08/14/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Animal Welfare Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1095,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26125,
     "Meeting_Event_ID": 42240,
     "File_Nme": "BOA Agenda - July 20, 2023 and parking pass_2023-01-23_14-41-01",
@@ -91,6 +104,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26809,
+    "Meeting_Event_ID": 42871,
+    "File_Nme": "AW Commission Meeting Cancellation Notice 07102023_2023-06-29_11-09-01",
+    "Meeting_Date": "07/10/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Animal Welfare Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1095,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26804,
     "Meeting_Event_ID": 42866,
     "File_Nme": "AC  AGENDA July 2023_2023-06-27_16-27-02",
@@ -114,6 +140,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 947,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26811,
+    "Meeting_Event_ID": 42873,
+    "File_Nme": "SSA Agenda 07-07-2023_2023-06-29_11-58-02",
+    "Meeting_Date": "07/07/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
     "subCommitteeID": 0
   },
   {
@@ -182,6 +221,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26810,
+    "Meeting_Event_ID": 42872,
+    "File_Nme": "SSA Agenda  Special Meeting Spring Storm 2023_2023-06-29_11-58-01",
+    "Meeting_Date": "07/05/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26571,
     "Meeting_Event_ID": 42652,
     "File_Nme": "2023-07-05 Canceled_2023-05-05_09-48-02",
@@ -193,44 +245,5 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26806,
-    "Meeting_Event_ID": 42868,
-    "File_Nme": "SSA Agenda 06-29-2023_2023-06-28_12-54-01",
-    "Meeting_Date": "06/30/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26803,
-    "Meeting_Event_ID": 42864,
-    "File_Nme": "TPACT Executive Committee Agenda 06.30.23_2023-06-27_14-20-04",
-    "Meeting_Date": "06/30/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Executive Committee ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26803,
-    "Meeting_Event_ID": 42864,
-    "File_Nme": "TPACT Executive Committee Agenda 06.30.23_2023-06-27_14-20-04",
-    "Meeting_Date": "06/30/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Executive Committee ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 302
   }
 ]
