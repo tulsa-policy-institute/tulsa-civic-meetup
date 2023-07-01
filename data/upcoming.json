@@ -208,6 +208,19 @@
     "subCommitteeID": 285
   },
   {
+    "Agenda_ID": 26812,
+    "Meeting_Event_ID": 42874,
+    "File_Nme": "July_2023_MCB_AGENDA_2023-06-30_14-45-01",
+    "Meeting_Date": "07/05/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Medical Control Board (MCB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 979,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26798,
     "Meeting_Event_ID": 42859,
     "File_Nme": "SSA Agenda  Special Meeting Spring Storm 2023_2023-06-27_08-47-02",
