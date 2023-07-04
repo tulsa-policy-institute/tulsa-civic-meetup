@@ -91,6 +91,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26814,
+    "Meeting_Event_ID": 42876,
+    "File_Nme": "Notice of Regular Library Commission Meeting - July 2023_2023-07-03_14-47-02",
+    "Meeting_Date": "07/20/2023",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Library Commission (TCCLC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 887,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26737,
     "Meeting_Event_ID": 42805,
     "File_Nme": "07.19.2023 TCCA CANCELLED MTG_2023-06-14_10-12-02",
@@ -182,6 +195,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26815,
+    "Meeting_Event_ID": 42877,
+    "File_Nme": "SSA Agenda 07-06-2023_2023-07-03_15-46-02",
+    "Meeting_Date": "07/06/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26805,
     "Meeting_Event_ID": 42867,
     "File_Nme": "Agenda-HPPS-2023-07-06 CANCELLATION_2023-06-28_08-14-02",
@@ -218,6 +244,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 979,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26813,
+    "Meeting_Event_ID": 42875,
+    "File_Nme": "07 05 23 PCSSC Cancelled_2023-07-03_10-02-02",
+    "Meeting_Date": "07/05/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
     "subCommitteeID": 0
   },
   {
