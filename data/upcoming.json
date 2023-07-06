@@ -117,6 +117,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26817,
+    "Meeting_Event_ID": 42879,
+    "File_Nme": "Agenda July 13 2023 TUL_2023-07-05_09-53-01",
+    "Meeting_Date": "07/13/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26817,
+    "Meeting_Event_ID": 42879,
+    "File_Nme": "Agenda July 13 2023 TUL_2023-07-05_09-53-01",
+    "Meeting_Date": "07/13/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 244
+  },
+  {
+    "Agenda_ID": 26818,
+    "Meeting_Event_ID": 42880,
+    "File_Nme": "2023-07-11-TGOV-Agenda_2023-07-05_13-37-03",
+    "Meeting_Date": "07/11/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Board of Adjustment (BOA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26809,
     "Meeting_Event_ID": 42871,
     "File_Nme": "AW Commission Meeting Cancellation Notice 07102023_2023-06-29_11-09-01",
@@ -167,70 +206,5 @@
     "Return_Message": "",
     "boardID": 1003,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26738,
-    "Meeting_Event_ID": 42806,
-    "File_Nme": "DRC Agenda-July 2023-Revised_2023-06-14_15-51-01",
-    "Meeting_Date": "07/06/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Disability Review Committee (DRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 950,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26689,
-    "Meeting_Event_ID": 42762,
-    "File_Nme": "DRC Agenda-July 2023_2023-06-05_08-18-01",
-    "Meeting_Date": "07/06/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Disability Review Committee (DRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 950,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26815,
-    "Meeting_Event_ID": 42877,
-    "File_Nme": "SSA Agenda 07-06-2023_2023-07-03_15-46-02",
-    "Meeting_Date": "07/06/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26805,
-    "Meeting_Event_ID": 42867,
-    "File_Nme": "Agenda-HPPS-2023-07-06 CANCELLATION_2023-06-28_08-14-02",
-    "Meeting_Date": "07/06/2023",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26805,
-    "Meeting_Event_ID": 42867,
-    "File_Nme": "Agenda-HPPS-2023-07-06 CANCELLATION_2023-06-28_08-14-02",
-    "Meeting_Date": "07/06/2023",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 285
   }
 ]
