@@ -117,6 +117,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26819,
+    "Meeting_Event_ID": 42881,
+    "File_Nme": "Regular Meeting Agenda CSC 7-13-23_2023-07-06_08-02-01",
+    "Meeting_Date": "07/13/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26817,
     "Meeting_Event_ID": 42879,
     "File_Nme": "Agenda July 13 2023 TUL_2023-07-05_09-53-01",
@@ -143,6 +156,19 @@
     "subCommitteeID": 244
   },
   {
+    "Agenda_ID": 26821,
+    "Meeting_Event_ID": 42883,
+    "File_Nme": "911 Board Meeting Notice and Agenda July 12, 2023_2023-07-06_16-10-02",
+    "Meeting_Date": "07/12/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Regional Enhanced 911 Board",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 994,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26818,
     "Meeting_Event_ID": 42880,
     "File_Nme": "2023-07-11-TGOV-Agenda_2023-07-05_13-37-03",
@@ -153,6 +179,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26823,
+    "Meeting_Event_ID": 42885,
+    "File_Nme": "Agenda - Board of Trustees Meeting - July 11 2023_2023-07-06_16-19-01",
+    "Meeting_Date": "07/11/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Gilcrease Museum Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 960,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26824,
+    "Meeting_Event_ID": 42886,
+    "File_Nme": "PB Agenda (in person) 7-11-2023_2023-07-06_16-44-02",
+    "Meeting_Date": "07/11/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Parks and Recreation Board (PRB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 877,
     "subCommitteeID": 0
   },
   {
@@ -182,23 +234,10 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 26795,
-    "Meeting_Event_ID": 42856,
-    "File_Nme": "July 7, 2023 CTAG Notice to Cancel Meeting_2023-06-26_15-36-03",
-    "Meeting_Date": "07/07/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 947,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26811,
-    "Meeting_Event_ID": 42873,
-    "File_Nme": "SSA Agenda 07-07-2023_2023-06-29_11-58-02",
-    "Meeting_Date": "07/07/2023",
+    "Agenda_ID": 26820,
+    "Meeting_Event_ID": 42882,
+    "File_Nme": "SSA Notice 07-10-2023_2023-07-06_15-56-02",
+    "Meeting_Date": "07/10/2023",
     "Meeting_Time": "8:30AM",
     "Meeting_Type": "Special",
     "Board_Name": "Standards Specifications & Awards Committee (SSA)",
