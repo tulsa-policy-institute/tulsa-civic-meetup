@@ -78,6 +78,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26828,
+    "Meeting_Event_ID": 42890,
+    "File_Nme": "August 2023 DRC Agenda_2023-07-07_09-02-02",
+    "Meeting_Date": "08/03/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Disability Review Committee (DRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26125,
     "Meeting_Event_ID": 42240,
     "File_Nme": "BOA Agenda - July 20, 2023 and parking pass_2023-01-23_14-41-01",
@@ -130,6 +143,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26833,
+    "Meeting_Event_ID": 42895,
+    "File_Nme": "IDAB Agenda 7.13.23_2023-07-07_11-47-02",
+    "Meeting_Date": "07/13/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Infrastructure Development Advisory Board (IDAB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 872,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26817,
     "Meeting_Event_ID": 42879,
     "File_Nme": "Agenda July 13 2023 TUL_2023-07-05_09-53-01",
@@ -156,6 +182,45 @@
     "subCommitteeID": 244
   },
   {
+    "Agenda_ID": 26829,
+    "Meeting_Event_ID": 42891,
+    "File_Nme": "Agenda-TPC-2023-07-13_2023-07-07_10-34-02",
+    "Meeting_Date": "07/13/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26829,
+    "Meeting_Event_ID": 42891,
+    "File_Nme": "Agenda-TPC-2023-07-13_2023-07-07_10-34-02",
+    "Meeting_Date": "07/13/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
+    "Agenda_ID": 26834,
+    "Meeting_Event_ID": 42896,
+    "File_Nme": "7-122023 Cancellation_2023-07-07_12-52-11",
+    "Meeting_Date": "07/12/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Contractors Prequalification Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 948,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26821,
     "Meeting_Event_ID": 42883,
     "File_Nme": "911 Board Meeting Notice and Agenda July 12, 2023_2023-07-06_16-10-02",
@@ -166,6 +231,58 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 994,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26830,
+    "Meeting_Event_ID": 42892,
+    "File_Nme": "07122023 FR Agenda_2023-07-07_11-13-02",
+    "Meeting_Date": "07/12/2023",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26831,
+    "Meeting_Event_ID": 42893,
+    "File_Nme": "07122023 TMUA Agenda_2023-07-07_11-13-04",
+    "Meeting_Date": "07/12/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26830,
+    "Meeting_Event_ID": 42892,
+    "File_Nme": "07122023 FR Agenda_2023-07-07_11-13-02",
+    "Meeting_Date": "07/12/2023",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 271
+  },
+  {
+    "Agenda_ID": 26832,
+    "Meeting_Event_ID": 42894,
+    "File_Nme": "07122023 TUB Agenda_2023-07-07_11-13-04",
+    "Meeting_Date": "07/12/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Utility Board (TUB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 930,
     "subCommitteeID": 0
   },
   {
@@ -195,6 +312,58 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26827,
+    "Meeting_Event_ID": 42889,
+    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, July 11, 2023_2023-07-07_09-00-02",
+    "Meeting_Date": "07/11/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26827,
+    "Meeting_Event_ID": 42889,
+    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, July 11, 2023_2023-07-07_09-00-02",
+    "Meeting_Date": "07/11/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 311
+  },
+  {
+    "Agenda_ID": 26826,
+    "Meeting_Event_ID": 42888,
+    "File_Nme": "7-11-23 MERP Board Meeting Agenda_2023-07-07_08-04-02",
+    "Meeting_Date": "07/11/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26826,
+    "Meeting_Event_ID": 42888,
+    "File_Nme": "7-11-23 MERP Board Meeting Agenda_2023-07-07_08-04-02",
+    "Meeting_Date": "07/11/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 326
+  },
+  {
     "Agenda_ID": 26824,
     "Meeting_Event_ID": 42886,
     "File_Nme": "PB Agenda (in person) 7-11-2023_2023-07-06_16-44-02",
@@ -205,6 +374,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 877,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26835,
+    "Meeting_Event_ID": 42897,
+    "File_Nme": "7-11-23 Agenda_2023-07-07_15-48-02",
+    "Meeting_Date": "07/11/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Route 66 Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1080,
     "subCommitteeID": 0
   },
   {
@@ -237,6 +419,19 @@
     "Agenda_ID": 26820,
     "Meeting_Event_ID": 42882,
     "File_Nme": "SSA Notice 07-10-2023_2023-07-06_15-56-02",
+    "Meeting_Date": "07/10/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26825,
+    "Meeting_Event_ID": 42887,
+    "File_Nme": "SSA Agenda 07-10-2023_2023-07-07_08-01-03",
     "Meeting_Date": "07/10/2023",
     "Meeting_Time": "8:30AM",
     "Meeting_Type": "Special",
