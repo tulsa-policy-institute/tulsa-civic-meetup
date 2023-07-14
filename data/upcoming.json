@@ -169,6 +169,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26855,
+    "Meeting_Event_ID": 42915,
+    "File_Nme": "Cancelled July 2023 PMB meeting agenda_2023-07-13_12-13-01",
+    "Meeting_Date": "07/19/2023",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Prisoner Medical Billing Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1036,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26737,
     "Meeting_Event_ID": 42805,
     "File_Nme": "07.19.2023 TCCA CANCELLED MTG_2023-06-14_10-12-02",
@@ -180,6 +193,45 @@
     "Return_Message": "",
     "boardID": 1009,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26858,
+    "Meeting_Event_ID": 42918,
+    "File_Nme": "2023-07-19_2023-07-13_14-58-01",
+    "Meeting_Date": "07/19/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26856,
+    "Meeting_Event_ID": 42916,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 7-18-2023_2023-07-13_13-06-01",
+    "Meeting_Date": "07/18/2023",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26856,
+    "Meeting_Event_ID": 42916,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 7-18-2023_2023-07-13_13-06-01",
+    "Meeting_Date": "07/18/2023",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 327
   },
   {
     "Agenda_ID": 26850,
@@ -206,5 +258,70 @@
     "Return_Message": "",
     "boardID": 899,
     "subCommitteeID": 334
+  },
+  {
+    "Agenda_ID": 26857,
+    "Meeting_Event_ID": 42917,
+    "File_Nme": "Agenda-HPPS-2023-07-18_2023-07-13_13-05-02",
+    "Meeting_Date": "07/18/2023",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26857,
+    "Meeting_Event_ID": 42917,
+    "File_Nme": "Agenda-HPPS-2023-07-18_2023-07-13_13-05-02",
+    "Meeting_Date": "07/18/2023",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
+    "Agenda_ID": 26853,
+    "Meeting_Event_ID": 42913,
+    "File_Nme": "TPACT Full Trust Meeting 07.17.23 Agenda_2023-07-13_11-48-01",
+    "Meeting_Date": "07/17/2023",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26854,
+    "Meeting_Event_ID": 42914,
+    "File_Nme": "TPACT Finance Committee 07.17.23 agenda_2023-07-13_11-50-01",
+    "Meeting_Date": "07/17/2023",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26854,
+    "Meeting_Event_ID": 42914,
+    "File_Nme": "TPACT Finance Committee 07.17.23 agenda_2023-07-13_11-50-01",
+    "Meeting_Date": "07/17/2023",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 274
   }
 ]
