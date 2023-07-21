@@ -182,6 +182,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26880,
+    "Meeting_Event_ID": 42938,
+    "File_Nme": "Agenda 0723_2023-07-20_15-25-02",
+    "Meeting_Date": "07/25/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Sales Tax Overview Committee (STOC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 880,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26876,
     "Meeting_Event_ID": 42934,
     "File_Nme": "Full Board Regular Meeting Notice and Agenda 07-25-2023_2023-07-19_14-00-02",
@@ -198,6 +211,19 @@
     "Agenda_ID": 26877,
     "Meeting_Event_ID": 42935,
     "File_Nme": "Agenda-TPC-2023-07-25_2023-07-19_15-38-02",
+    "Meeting_Date": "07/25/2023",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26879,
+    "Meeting_Event_ID": 42937,
+    "File_Nme": "Agenda-TPC-2023-07-25-Amended_2023-07-20_14-19-02",
     "Meeting_Date": "07/25/2023",
     "Meeting_Time": "4:30PM",
     "Meeting_Type": "Regular",
