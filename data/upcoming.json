@@ -130,16 +130,16 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 26903,
-    "Meeting_Event_ID": 42961,
-    "File_Nme": "2023-07-28 Special Notice TPFA Regular Meeting_2023-07-26_09-41-02",
-    "Meeting_Date": "07/28/2023",
-    "Meeting_Time": "11:30AM",
+    "Agenda_ID": 26906,
+    "Meeting_Event_ID": 42964,
+    "File_Nme": "2023-08-02-TMAPC-Agenda_2023-07-27_10-42-07",
+    "Meeting_Date": "08/02/2023",
+    "Meeting_Time": "1:00PM",
     "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Public Facilities Authority (TPFA)",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 896,
+    "boardID": 892,
     "subCommitteeID": 0
   }
 ]
