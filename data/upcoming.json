@@ -156,6 +156,71 @@
     "subCommitteeID": 284
   },
   {
+    "Agenda_ID": 26914,
+    "Meeting_Event_ID": 42972,
+    "File_Nme": "Agenda-HPPS-2023-08-03_2023-07-31_09-49-02",
+    "Meeting_Date": "08/03/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26914,
+    "Meeting_Event_ID": 42972,
+    "File_Nme": "Agenda-HPPS-2023-08-03_2023-07-31_09-49-02",
+    "Meeting_Date": "08/03/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
+    "Agenda_ID": 26915,
+    "Meeting_Event_ID": 42973,
+    "File_Nme": "2023-08-03 Tulsa Stadium Trust - Regular Meeting Agenda(1075631.4)_2023-07-31_10-11-02",
+    "Meeting_Date": "08/03/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 897,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26916,
+    "Meeting_Event_ID": 42974,
+    "File_Nme": "2023-08-03 Tulsa Stadium Trust - Regular Meeting Notice(1075438.2)_2023-07-31_10-11-03",
+    "Meeting_Date": "08/03/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 897,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26917,
+    "Meeting_Event_ID": 42975,
+    "File_Nme": "8-2-2023 Agenda_2023-07-31_13-25-01",
+    "Meeting_Date": "08/02/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Contractors Prequalification Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 948,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26909,
     "Meeting_Event_ID": 42967,
     "File_Nme": "2023-08-02 UED_2023-07-28_15-26-04",
@@ -271,31 +336,5 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26907,
-    "Meeting_Event_ID": 42965,
-    "File_Nme": "8-1-23 MERP Board Meeting Agenda_2023-07-28_11-37-03",
-    "Meeting_Date": "08/01/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26907,
-    "Meeting_Event_ID": 42965,
-    "File_Nme": "8-1-23 MERP Board Meeting Agenda_2023-07-28_11-37-03",
-    "Meeting_Date": "08/01/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
   }
 ]
