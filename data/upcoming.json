@@ -65,6 +65,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26921,
+    "Meeting_Event_ID": 42979,
+    "File_Nme": "Notice of Regular Library Commission Meeting - August 2023_2023-08-01_15-59-02",
+    "Meeting_Date": "08/17/2023",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Library Commission (TCCLC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 887,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26808,
     "Meeting_Event_ID": 42870,
     "File_Nme": "AW Commission Meeting Cancellation Notice 08142023_2023-06-29_11-09-02",
@@ -88,6 +101,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26919,
+    "Meeting_Event_ID": 42977,
+    "File_Nme": "Notice-Agenda for posting_2023-08-01_14-15-02",
+    "Meeting_Date": "08/07/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "River Parks Authority (RPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 879,
     "subCommitteeID": 0
   },
   {
@@ -127,6 +153,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26920,
+    "Meeting_Event_ID": 42978,
+    "File_Nme": "SSA Agenda 08-03-2023_2023-08-01_14-52-10",
+    "Meeting_Date": "08/03/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
     "subCommitteeID": 0
   },
   {
@@ -205,136 +244,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 897,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26917,
-    "Meeting_Event_ID": 42975,
-    "File_Nme": "8-2-2023 Agenda_2023-07-31_13-25-01",
-    "Meeting_Date": "08/02/2023",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Contractors Prequalification Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 948,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26909,
-    "Meeting_Event_ID": 42967,
-    "File_Nme": "2023-08-02 UED_2023-07-28_15-26-04",
-    "Meeting_Date": "08/02/2023",
-    "Meeting_Time": "10:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City Council - Urban And Economic Development Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26910,
-    "Meeting_Event_ID": 42968,
-    "File_Nme": "2023-08-02 PW_2023-07-28_15-26-04",
-    "Meeting_Date": "08/02/2023",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City Council - Public Works Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26911,
-    "Meeting_Event_ID": 42969,
-    "File_Nme": "2023-08-02 BUD SP_2023-07-28_15-26-03",
-    "Meeting_Date": "08/02/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tulsa City Council - Budget and Special Projects Committee Meeting",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26912,
-    "Meeting_Event_ID": 42970,
-    "File_Nme": "2023-08-02 5PM_2023-07-28_15-26-03",
-    "Meeting_Date": "08/02/2023",
-    "Meeting_Time": "5:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City Council",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26913,
-    "Meeting_Event_ID": 42971,
-    "File_Nme": "2023-08-02 4PM_2023-07-28_15-26-02",
-    "Meeting_Date": "08/02/2023",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City Council",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26911,
-    "Meeting_Event_ID": 42969,
-    "File_Nme": "2023-08-02 BUD SP_2023-07-28_15-26-03",
-    "Meeting_Date": "08/02/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tulsa City Council - Budget and Special Projects Committee Meeting",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 257
-  },
-  {
-    "Agenda_ID": 26910,
-    "Meeting_Event_ID": 42968,
-    "File_Nme": "2023-08-02 PW_2023-07-28_15-26-04",
-    "Meeting_Date": "08/02/2023",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City Council - Public Works Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 263
-  },
-  {
-    "Agenda_ID": 26909,
-    "Meeting_Event_ID": 42967,
-    "File_Nme": "2023-08-02 UED_2023-07-28_15-26-04",
-    "Meeting_Date": "08/02/2023",
-    "Meeting_Time": "10:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa City Council - Urban And Economic Development Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 899,
-    "subCommitteeID": 265
-  },
-  {
-    "Agenda_ID": 26906,
-    "Meeting_Event_ID": 42964,
-    "File_Nme": "2023-08-02-TMAPC-Agenda_2023-07-27_10-42-07",
-    "Meeting_Date": "08/02/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 892,
     "subCommitteeID": 0
   }
 ]
