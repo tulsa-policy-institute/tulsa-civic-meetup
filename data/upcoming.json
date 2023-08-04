@@ -91,6 +91,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26925,
+    "Meeting_Event_ID": 42983,
+    "File_Nme": "Regular Meeting Agenda CSC 8-10-23_2023-08-03_12-21-01",
+    "Meeting_Date": "08/10/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26927,
+    "Meeting_Event_ID": 42985,
+    "File_Nme": "August Meeting Cancel_2023-08-03_15-45-01",
+    "Meeting_Date": "08/10/2023",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "HUD Community Development Committee (HUD)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 868,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26922,
     "Meeting_Event_ID": 42980,
     "File_Nme": "Agenda August 2023 TUL_2023-08-02_11-13-02",
@@ -143,6 +169,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26926,
+    "Meeting_Event_ID": 42984,
+    "File_Nme": "8-8-23 Agenda_2023-08-03_14-10-02",
+    "Meeting_Date": "08/08/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Route 66 Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1080,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26919,
     "Meeting_Event_ID": 42977,
     "File_Nme": "Notice-Agenda for posting_2023-08-01_14-15-02",
@@ -153,19 +192,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 879,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26904,
-    "Meeting_Event_ID": 42962,
-    "File_Nme": "August 4, 2023 CTAG Notice to Cancel Meeting_2023-07-26_16-12-08",
-    "Meeting_Date": "08/04/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 947,
     "subCommitteeID": 0
   }
 ]
