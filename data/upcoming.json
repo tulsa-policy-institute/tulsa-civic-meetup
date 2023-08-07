@@ -427,18 +427,5 @@
     "Return_Message": "",
     "boardID": 1080,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26919,
-    "Meeting_Event_ID": 42977,
-    "File_Nme": "Notice-Agenda for posting_2023-08-01_14-15-02",
-    "Meeting_Date": "08/07/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "River Parks Authority (RPA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 879,
-    "subCommitteeID": 0
   }
 ]
