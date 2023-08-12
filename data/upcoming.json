@@ -104,6 +104,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26967,
+    "Meeting_Event_ID": 43024,
+    "File_Nme": "FA Agenda August 17 2023_2023-08-11_11-11-02",
+    "Meeting_Date": "08/17/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26955,
     "Meeting_Event_ID": 43013,
     "File_Nme": "City FA Special Mtg Notice 8.17.23_2023-08-09_14-56-02",
@@ -166,6 +179,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 1009,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26965,
+    "Meeting_Event_ID": 43023,
+    "File_Nme": "08162023 Reg Meeting Notice_2023-08-11_10-54-02",
+    "Meeting_Date": "08/16/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26966,
+    "Meeting_Event_ID": 43023,
+    "File_Nme": "BOH Meeting Agenda (081623)_2023-08-11_10-54-04",
+    "Meeting_Date": "08/16/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
     "subCommitteeID": 0
   },
   {
@@ -244,6 +283,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 988,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26968,
+    "Meeting_Event_ID": 43025,
+    "File_Nme": "SDHMAB Agenda 08.15.2023_2023-08-11_15-02-02",
+    "Meeting_Date": "08/15/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
     "subCommitteeID": 0
   },
   {
