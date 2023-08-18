@@ -1,5 +1,18 @@
 [
   {
+    "Agenda_ID": 26980,
+    "Meeting_Event_ID": 43036,
+    "File_Nme": "BOA Agenda - January 19, 2024 and parking pass_2023-08-17_11-25-03",
+    "Meeting_Date": "01/19/2024",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Board of Appeals",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26130,
     "Meeting_Event_ID": 42245,
     "File_Nme": "BOA Agenda - December 21, 2023 and parking pass_2023-01-23_14-56-01",
@@ -65,6 +78,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 26982,
+    "Meeting_Event_ID": 43038,
+    "File_Nme": "September 2023 DRC Agenda-cancellation_2023-08-17_12-59-02",
+    "Meeting_Date": "09/07/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Disability Review Committee (DRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26977,
     "Meeting_Event_ID": 43033,
     "File_Nme": "2023-08-22-TGOV-AGENDA_2023-08-16_16-01-02",
@@ -75,6 +101,45 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26978,
+    "Meeting_Event_ID": 43034,
+    "File_Nme": "TARE Focus Committee Regular Meeting notice and agenda 8-22-2023_2023-08-17_08-49-03",
+    "Meeting_Date": "08/22/2023",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 26978,
+    "Meeting_Event_ID": 43034,
+    "File_Nme": "TARE Focus Committee Regular Meeting notice and agenda 8-22-2023_2023-08-17_08-49-03",
+    "Meeting_Date": "08/22/2023",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 327
+  },
+  {
+    "Agenda_ID": 26981,
+    "Meeting_Event_ID": 43037,
+    "File_Nme": "08212023 HRC Agenda_2023-08-17_12-10-03",
+    "Meeting_Date": "08/21/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Human Rights Commission (HRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 870,
     "subCommitteeID": 0
   }
 ]
