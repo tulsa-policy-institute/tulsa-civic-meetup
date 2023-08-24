@@ -102,57 +102,5 @@
     "Return_Message": "",
     "boardID": 931,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26998,
-    "Meeting_Event_ID": 43055,
-    "File_Nme": "Audit Committee Meeting Cancelation Notice 8.24.2023_2023-08-22_09-45-03",
-    "Meeting_Date": "08/24/2023",
-    "Meeting_Time": "11:30AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Audit Committee of the City of Tulsa (AUDIT)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 873,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26999,
-    "Meeting_Event_ID": 43056,
-    "File_Nme": "SSA Agenda 08-24-2023_2023-08-22_14-37-03",
-    "Meeting_Date": "08/24/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26996,
-    "Meeting_Event_ID": 43053,
-    "File_Nme": "TAEO_Agenda 08.24.23_2023-08-21_16-33-02",
-    "Meeting_Date": "08/24/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 891,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26997,
-    "Meeting_Event_ID": 43054,
-    "File_Nme": "TDA_Agenda 08.24.23_2023-08-21_16-56-02",
-    "Meeting_Date": "08/24/2023",
-    "Meeting_Time": "9:15AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Development Authority (TDA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 889,
-    "subCommitteeID": 0
   }
 ]
