@@ -91,6 +91,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27019,
+    "Meeting_Event_ID": 43071,
+    "File_Nme": "September 1, 2023 CTAG Meeting Notice and Agenda_2023-08-30_08-26-02",
+    "Meeting_Date": "09/01/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 947,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27020,
+    "Meeting_Event_ID": 43072,
+    "File_Nme": "09012023 TWC Agenda _2023-08-30_13-42-05",
+    "Meeting_Date": "09/01/2023",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Women's Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26994,
     "Meeting_Event_ID": 43051,
     "File_Nme": "2023-09-01 Tulsas Gathering Place LLC - Cancellation Notice(1136830.2)_2023-08-21_14-05-02",
@@ -101,19 +127,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 931,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27018,
-    "Meeting_Event_ID": 43070,
-    "File_Nme": "SSA Agenda 08-31-2023_2023-08-29_14-54-02",
-    "Meeting_Date": "08/31/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
     "subCommitteeID": 0
   }
 ]
