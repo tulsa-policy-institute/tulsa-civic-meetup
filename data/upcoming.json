@@ -78,6 +78,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27026,
+    "Meeting_Event_ID": 43078,
+    "File_Nme": "Notice of Regular Library Commission Meeting - September 2023_2023-09-01_13-34-02",
+    "Meeting_Date": "09/21/2023",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Library Commission (TCCLC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 887,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27025,
+    "Meeting_Event_ID": 43077,
+    "File_Nme": "AW Commission Meeting Cancellation Notice 09112023_2023-09-01_13-16-02",
+    "Meeting_Date": "09/11/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Animal Welfare Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1095,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26982,
     "Meeting_Event_ID": 43038,
     "File_Nme": "September 2023 DRC Agenda-cancellation_2023-08-17_12-59-02",
@@ -115,6 +141,32 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 253
+  },
+  {
+    "Agenda_ID": 27027,
+    "Meeting_Event_ID": 43079,
+    "File_Nme": "Agenda-HPPS-2023-09-07_2023-09-01_13-56-02",
+    "Meeting_Date": "09/07/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27027,
+    "Meeting_Event_ID": 43079,
+    "File_Nme": "Agenda-HPPS-2023-09-07_2023-09-01_13-56-02",
+    "Meeting_Date": "09/07/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
   },
   {
     "Agenda_ID": 27023,
