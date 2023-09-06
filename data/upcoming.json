@@ -91,6 +91,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27032,
+    "Meeting_Event_ID": 43084,
+    "File_Nme": "Agenda September 14 2023 TUL_2023-09-05_16-39-02",
+    "Meeting_Date": "09/14/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27032,
+    "Meeting_Event_ID": 43084,
+    "File_Nme": "Agenda September 14 2023 TUL_2023-09-05_16-39-02",
+    "Meeting_Date": "09/14/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 244
+  },
+  {
+    "Agenda_ID": 27030,
+    "Meeting_Event_ID": 43082,
+    "File_Nme": "2023-09-12-TGOV-AGENDA_2023-09-05_11-40-02",
+    "Meeting_Date": "09/12/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Board of Adjustment (BOA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27025,
     "Meeting_Event_ID": 43077,
     "File_Nme": "AW Commission Meeting Cancellation Notice 09112023_2023-09-01_13-16-02",
@@ -114,6 +153,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27031,
+    "Meeting_Event_ID": 43083,
+    "File_Nme": "SSA Agenda 09-07-2023_2023-09-05_16-12-02",
+    "Meeting_Date": "09/07/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
     "subCommitteeID": 0
   },
   {
@@ -167,31 +219,5 @@
     "Return_Message": "",
     "boardID": 878,
     "subCommitteeID": 285
-  },
-  {
-    "Agenda_ID": 27023,
-    "Meeting_Event_ID": 43075,
-    "File_Nme": "September_2023_MCB_AGENDA_2023-08-31_11-48-02",
-    "Meeting_Date": "09/06/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Medical Control Board (MCB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 979,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27021,
-    "Meeting_Event_ID": 43073,
-    "File_Nme": "2023-09-06_2023-08-31_09-17-02",
-    "Meeting_Date": "09/06/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 892,
-    "subCommitteeID": 0
   }
 ]
