@@ -91,6 +91,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27033,
+    "Meeting_Event_ID": 43085,
+    "File_Nme": "Cancelation notice CSC 9-14-23_2023-09-06_09-03-01",
+    "Meeting_Date": "09/14/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27032,
     "Meeting_Event_ID": 43084,
     "File_Nme": "Agenda September 14 2023 TUL_2023-09-05_16-39-02",
@@ -141,83 +154,5 @@
     "Return_Message": "",
     "boardID": 1095,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 26982,
-    "Meeting_Event_ID": 43038,
-    "File_Nme": "September 2023 DRC Agenda-cancellation_2023-08-17_12-59-02",
-    "Meeting_Date": "09/07/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Disability Review Committee (DRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 950,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27031,
-    "Meeting_Event_ID": 43083,
-    "File_Nme": "SSA Agenda 09-07-2023_2023-09-05_16-12-02",
-    "Meeting_Date": "09/07/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27024,
-    "Meeting_Event_ID": 43076,
-    "File_Nme": "TAC Agenda 9.7.23_2023-08-31_13-58-03",
-    "Meeting_Date": "09/07/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC) - Technical Advisory Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 892,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27024,
-    "Meeting_Event_ID": 43076,
-    "File_Nme": "TAC Agenda 9.7.23_2023-08-31_13-58-03",
-    "Meeting_Date": "09/07/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC) - Technical Advisory Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 892,
-    "subCommitteeID": 253
-  },
-  {
-    "Agenda_ID": 27027,
-    "Meeting_Event_ID": 43079,
-    "File_Nme": "Agenda-HPPS-2023-09-07_2023-09-01_13-56-02",
-    "Meeting_Date": "09/07/2023",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27027,
-    "Meeting_Event_ID": 43079,
-    "File_Nme": "Agenda-HPPS-2023-09-07_2023-09-01_13-56-02",
-    "Meeting_Date": "09/07/2023",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 285
   }
 ]
