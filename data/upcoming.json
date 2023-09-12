@@ -104,6 +104,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27072,
+    "Meeting_Event_ID": 43122,
+    "File_Nme": "Sept Special_2023-09-11_16-49-01",
+    "Meeting_Date": "09/21/2023",
+    "Meeting_Time": "9:15AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Local Emergency Planning Committee (LEPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1082,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27026,
     "Meeting_Event_ID": 43078,
     "File_Nme": "Notice of Regular Library Commission Meeting - September 2023_2023-09-01_13-34-02",
@@ -114,6 +127,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 887,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27063,
+    "Meeting_Event_ID": 43113,
+    "File_Nme": "2023-09-21 Special Notice TPFA Regular Meeting_2023-09-11_11-37-02",
+    "Meeting_Date": "09/21/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Public Facilities Authority (TPFA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 896,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27064,
+    "Meeting_Event_ID": 43114,
+    "File_Nme": "2023-09-21 Notice TPFA Special Meeting_2023-09-11_12-09-01",
+    "Meeting_Date": "09/21/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Public Facilities Authority (TPFA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 896,
     "subCommitteeID": 0
   },
   {
@@ -141,6 +180,58 @@
     "Return_Message": "",
     "boardID": 861,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27061,
+    "Meeting_Event_ID": 43111,
+    "File_Nme": "09.14.23 Meeting Schedule_2023-09-11_10-10-01",
+    "Meeting_Date": "09/14/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27062,
+    "Meeting_Event_ID": 43112,
+    "File_Nme": "THA Public Agenda__2023-09-11_10-10-02",
+    "Meeting_Date": "09/14/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27061,
+    "Meeting_Event_ID": 43111,
+    "File_Nme": "09.14.23 Meeting Schedule_2023-09-11_10-10-01",
+    "Meeting_Date": "09/14/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
+  },
+  {
+    "Agenda_ID": 27062,
+    "Meeting_Event_ID": 43112,
+    "File_Nme": "THA Public Agenda__2023-09-11_10-10-02",
+    "Meeting_Date": "09/14/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Housing Authority of the City of Tulsa (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
   },
   {
     "Agenda_ID": 27036,
@@ -182,6 +273,58 @@
     "subCommitteeID": 244
   },
   {
+    "Agenda_ID": 27069,
+    "Meeting_Event_ID": 43119,
+    "File_Nme": "2023-09-14_TAA Annual Meeting Agenda_Final_2023-09-11_15-45-01",
+    "Meeting_Date": "09/14/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Airport Authority (TAA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 884,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27070,
+    "Meeting_Event_ID": 43120,
+    "File_Nme": "2023-09-14_TAIT Annual Meeting Agenda_Final_2023-09-11_15-45-02",
+    "Meeting_Date": "09/14/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27068,
+    "Meeting_Event_ID": 43118,
+    "File_Nme": "2023-09-14_Annunal TIADT AGENDA_Final_2023-09-11_15-19-01",
+    "Meeting_Date": "09/14/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa International Airport Development Trust  (TIADT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1086,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27071,
+    "Meeting_Event_ID": 43121,
+    "File_Nme": "2023-09-14_TMAT Annual Meeting Agenda FInal_2023-09-11_15-19-02",
+    "Meeting_Date": "09/14/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Municipal Airport Trust (TMAT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 922,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27042,
     "Meeting_Event_ID": 43093,
     "File_Nme": "Agenda-TPC-2023-09-14_2023-09-08_09-00-01",
@@ -192,6 +335,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27067,
+    "Meeting_Event_ID": 43117,
+    "File_Nme": "Sep 2023 Agenda_2023-09-11_15-00-01",
+    "Meeting_Date": "09/13/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Fleet Management Steering Committee (FMSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 958,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27060,
+    "Meeting_Event_ID": 43110,
+    "File_Nme": "911 Board Meeting Notice and Agenda September 13, 2023_2023-09-11_09-23-01",
+    "Meeting_Date": "09/13/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Regional Enhanced 911 Board",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 994,
     "subCommitteeID": 0
   },
   {
@@ -299,6 +468,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27066,
+    "Meeting_Event_ID": 43104,
+    "File_Nme": "2023-09-13 4PM - Addendum_2023-09-11_13-43-01",
+    "Meeting_Date": "09/13/2023",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27056,
     "Meeting_Event_ID": 43106,
     "File_Nme": "2023-09-13 BUD SP_2023-09-08_16-08-02",
@@ -387,97 +569,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 930,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27040,
-    "Meeting_Event_ID": 43091,
-    "File_Nme": "2023-09-12-TGOV-AGENDA AMND_2023-09-07_14-57-10",
-    "Meeting_Date": "09/12/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27030,
-    "Meeting_Event_ID": 43082,
-    "File_Nme": "2023-09-12-TGOV-AGENDA_2023-09-05_11-40-02",
-    "Meeting_Date": "09/12/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27037,
-    "Meeting_Event_ID": 43088,
-    "File_Nme": "Agenda - Gilcrease Board of Trustees Meeting - September 12 2023_2023-09-07_11-36-02",
-    "Meeting_Date": "09/12/2023",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Gilcrease Museum Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 960,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27039,
-    "Meeting_Event_ID": 43090,
-    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, September 12, 2023_2023-09-07_14-15-02",
-    "Meeting_Date": "09/12/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27039,
-    "Meeting_Event_ID": 43090,
-    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, September 12, 2023_2023-09-07_14-15-02",
-    "Meeting_Date": "09/12/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 311
-  },
-  {
-    "Agenda_ID": 27038,
-    "Meeting_Event_ID": 43089,
-    "File_Nme": "PB Agenda (in person) 9-12-2023_2023-09-07_12-47-02",
-    "Meeting_Date": "09/12/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Parks and Recreation Board (PRB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 877,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27051,
-    "Meeting_Event_ID": 43089,
-    "File_Nme": "PB Amended Agenda (in person) 9-12-2023_2023-09-08_14-43-01",
-    "Meeting_Date": "09/12/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Parks and Recreation Board (PRB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 877,
     "subCommitteeID": 0
   }
 ]
