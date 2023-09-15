@@ -195,6 +195,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27086,
+    "Meeting_Event_ID": 43136,
+    "File_Nme": "09.20.23 September Tri-County Council on Aging Regular Meeting_2023-09-14_14-18-01",
+    "Meeting_Date": "09/20/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tri-County Council on Aging ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27087,
+    "Meeting_Event_ID": 43137,
+    "File_Nme": "BOH Reg Meeting Notice Agenda 092023_2023-09-14_16-07-02",
+    "Meeting_Date": "09/20/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27084,
+    "Meeting_Event_ID": 43134,
+    "File_Nme": "September 20, 2023 TMAPC Regular Agenda_2023-09-14_11-50-02",
+    "Meeting_Date": "09/20/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27044,
     "Meeting_Event_ID": 43095,
     "File_Nme": "SDHMAB Cancellation Notice_09.19.2023 _2023-09-08_10-50-01",
@@ -260,6 +299,19 @@
     "subCommitteeID": 285
   },
   {
+    "Agenda_ID": 27085,
+    "Meeting_Event_ID": 43135,
+    "File_Nme": "09182023 HRC Agenda_2023-09-14_14-18-02",
+    "Meeting_Date": "09/18/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Human Rights Commission (HRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 870,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27076,
     "Meeting_Event_ID": 43126,
     "File_Nme": "TPACT Finance Committee 9-18-23 agenda_2023-09-12_11-36-01",
@@ -297,31 +349,5 @@
     "Return_Message": "",
     "boardID": 895,
     "subCommitteeID": 274
-  },
-  {
-    "Agenda_ID": 27075,
-    "Meeting_Event_ID": 43125,
-    "File_Nme": "TPACT Audit Committee 9-15-23 agenda_2023-09-12_11-24-01",
-    "Meeting_Date": "09/15/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Audit Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27075,
-    "Meeting_Event_ID": 43125,
-    "File_Nme": "TPACT Audit Committee 9-15-23 agenda_2023-09-12_11-24-01",
-    "Meeting_Date": "09/15/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Audit Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 305
   }
 ]
