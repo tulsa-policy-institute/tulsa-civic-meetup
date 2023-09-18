@@ -401,57 +401,5 @@
     "Return_Message": "",
     "boardID": 878,
     "subCommitteeID": 285
-  },
-  {
-    "Agenda_ID": 27085,
-    "Meeting_Event_ID": 43135,
-    "File_Nme": "09182023 HRC Agenda_2023-09-14_14-18-02",
-    "Meeting_Date": "09/18/2023",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Human Rights Commission (HRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 870,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27076,
-    "Meeting_Event_ID": 43126,
-    "File_Nme": "TPACT Finance Committee 9-18-23 agenda_2023-09-12_11-36-01",
-    "Meeting_Date": "09/18/2023",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27077,
-    "Meeting_Event_ID": 43127,
-    "File_Nme": "TPACT Full Trust Meeting 09.18.23 Agenda_2023-09-12_14-06-01",
-    "Meeting_Date": "09/18/2023",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27076,
-    "Meeting_Event_ID": 43126,
-    "File_Nme": "TPACT Finance Committee 9-18-23 agenda_2023-09-12_11-36-01",
-    "Meeting_Date": "09/18/2023",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 274
   }
 ]
