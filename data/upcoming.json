@@ -91,6 +91,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27094,
+    "Meeting_Event_ID": 43144,
+    "File_Nme": "BOA September cancellation_2023-09-18_09-25-02",
+    "Meeting_Date": "09/21/2023",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Board of Appeals",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26127,
     "Meeting_Event_ID": 42242,
     "File_Nme": "BOA Agenda - September 21, 2023 and parking pass_2023-01-23_14-40-02",
@@ -114,6 +127,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 1082,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27097,
+    "Meeting_Event_ID": 43147,
+    "File_Nme": "Notice-Agenda for posting_2023-09-18_13-08-02",
+    "Meeting_Date": "09/21/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "River Parks Authority (RPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 879,
     "subCommitteeID": 0
   },
   {
@@ -179,6 +205,58 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 896,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27100,
+    "Meeting_Event_ID": 43150,
+    "File_Nme": "City Clerk FA Meeting Cancellation September 21, 2023_2023-09-18_16-30-02",
+    "Meeting_Date": "09/21/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27099,
+    "Meeting_Event_ID": 43149,
+    "File_Nme": "PORT MTG NOTICE-AGENDA SEPTEMBER 2023_2023-09-18_15-58-02",
+    "Meeting_Date": "09/21/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa-Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27093,
+    "Meeting_Event_ID": 43143,
+    "File_Nme": "September 2023 PMB meeting agenda_2023-09-18_08-03-01",
+    "Meeting_Date": "09/20/2023",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Prisoner Medical Billing Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1036,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27098,
+    "Meeting_Event_ID": 43148,
+    "File_Nme": "09 20 23 PCSSC Special Meeting Agenda_2023-09-18_15-01-02",
+    "Meeting_Date": "09/20/2023",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
     "subCommitteeID": 0
   },
   {
@@ -336,70 +414,5 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27044,
-    "Meeting_Event_ID": 43095,
-    "File_Nme": "SDHMAB Cancellation Notice_09.19.2023 _2023-09-08_10-50-01",
-    "Meeting_Date": "09/19/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27080,
-    "Meeting_Event_ID": 43130,
-    "File_Nme": "TARE Focus Committee Notice and Agenda 9-19-2023_2023-09-13_08-37-02",
-    "Meeting_Date": "09/19/2023",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27080,
-    "Meeting_Event_ID": 43130,
-    "File_Nme": "TARE Focus Committee Notice and Agenda 9-19-2023_2023-09-13_08-37-02",
-    "Meeting_Date": "09/19/2023",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 327
-  },
-  {
-    "Agenda_ID": 27082,
-    "Meeting_Event_ID": 43132,
-    "File_Nme": "Agenda-HPPS-2023-09-19_2023-09-13_15-26-02",
-    "Meeting_Date": "09/19/2023",
-    "Meeting_Time": "4:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27082,
-    "Meeting_Event_ID": 43132,
-    "File_Nme": "Agenda-HPPS-2023-09-19_2023-09-13_15-26-02",
-    "Meeting_Date": "09/19/2023",
-    "Meeting_Time": "4:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 285
   }
 ]
