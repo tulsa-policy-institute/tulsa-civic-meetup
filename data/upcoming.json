@@ -104,6 +104,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27134,
+    "Meeting_Event_ID": 43182,
+    "File_Nme": "2023-10-04_2023-09-27_15-50-02",
+    "Meeting_Date": "10/04/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27132,
     "Meeting_Event_ID": 43180,
     "File_Nme": "MTTA Board Special Meeting Agenda 9-29-23_2023-09-26_15-50-02",
@@ -128,83 +141,5 @@
     "Return_Message": "",
     "boardID": 875,
     "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 27052,
-    "Meeting_Event_ID": 43102,
-    "File_Nme": "September Agenda_2023-09-08_15-47-01",
-    "Meeting_Date": "09/28/2023",
-    "Meeting_Time": "11:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Audit Committee of the City of Tulsa (AUDIT)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 873,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27131,
-    "Meeting_Event_ID": 43179,
-    "File_Nme": "SSA Agenda 09-28-2023_2023-09-26_15-11-02",
-    "Meeting_Date": "09/28/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27127,
-    "Meeting_Event_ID": 43161,
-    "File_Nme": "TAEO_Agenda 09.28.23_2023-09-25_16-45-02",
-    "Meeting_Date": "09/28/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 891,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27112,
-    "Meeting_Event_ID": 43161,
-    "File_Nme": "TAEO_Notice of Special Meeting 09.28.23_2023-09-22_08-01-03",
-    "Meeting_Date": "09/28/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 891,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27130,
-    "Meeting_Event_ID": 43178,
-    "File_Nme": "TDA_Agenda 09.28.23_2023-09-26_10-20-03",
-    "Meeting_Date": "09/28/2023",
-    "Meeting_Time": "9:15AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Development Authority (TDA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 889,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27133,
-    "Meeting_Event_ID": 43181,
-    "File_Nme": "2023-09-28 Cancellation Notice TPFA Special Meeting_2023-09-26_16-38-02",
-    "Meeting_Date": "09/28/2023",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tulsa Public Facilities Authority (TPFA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 896,
-    "subCommitteeID": 0
   }
 ]
