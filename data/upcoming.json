@@ -91,6 +91,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27139,
+    "Meeting_Event_ID": 43187,
+    "File_Nme": "Agenda-HPPS-2023-10-05_2023-09-29_13-18-01",
+    "Meeting_Date": "10/05/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27139,
+    "Meeting_Event_ID": 43187,
+    "File_Nme": "Agenda-HPPS-2023-10-05_2023-09-29_13-18-01",
+    "Meeting_Date": "10/05/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
     "Agenda_ID": 27128,
     "Meeting_Event_ID": 43176,
     "File_Nme": "10-4 2023 Cancellation_2023-09-26_08-02-03",
