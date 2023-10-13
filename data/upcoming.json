@@ -104,6 +104,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27188,
+    "Meeting_Event_ID": 43235,
+    "File_Nme": "10.18.23 October Tri-County Council on Aging Regular Meeting_2023-10-12_10-32-02",
+    "Meeting_Date": "10/18/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tri-County Council on Aging ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27185,
     "Meeting_Event_ID": 43232,
     "File_Nme": "TARE Strategy special meeting 10-18-2023_2023-10-10_10-02-01",
@@ -115,5 +128,57 @@
     "Return_Message": "",
     "boardID": 885,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27190,
+    "Meeting_Event_ID": 43237,
+    "File_Nme": "2023-10-18_2023-10-12_13-06-01",
+    "Meeting_Date": "10/18/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27189,
+    "Meeting_Event_ID": 43236,
+    "File_Nme": "SDHMAB Agenda_10.27.2023_2023-10-12_13-01-02",
+    "Meeting_Date": "10/17/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27191,
+    "Meeting_Event_ID": 43238,
+    "File_Nme": "Agenda-HPPS-2023-10-17_2023-10-12_15-43-01",
+    "Meeting_Date": "10/17/2023",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27191,
+    "Meeting_Event_ID": 43238,
+    "File_Nme": "Agenda-HPPS-2023-10-17_2023-10-12_15-43-01",
+    "Meeting_Date": "10/17/2023",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
   }
 ]
