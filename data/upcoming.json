@@ -78,6 +78,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27195,
+    "Meeting_Event_ID": 43242,
+    "File_Nme": "NOTICE OF CANCELLATION_102623_2023-10-13_14-33-03",
+    "Meeting_Date": "10/26/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "River Parks Authority (RPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 879,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26128,
     "Meeting_Event_ID": 42243,
     "File_Nme": "BOA Agenda - October 19, 2023 and parking pass_2023-01-23_14-40-01",
@@ -101,6 +114,45 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 887,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27196,
+    "Meeting_Event_ID": 43243,
+    "File_Nme": "2023-10-18 TTC Meeting Cancellation Notice_2023-10-13_14-33-02",
+    "Meeting_Date": "10/18/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Technical Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27196,
+    "Meeting_Event_ID": 43243,
+    "File_Nme": "2023-10-18 TTC Meeting Cancellation Notice_2023-10-13_14-33-02",
+    "Meeting_Date": "10/18/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Technical Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 255
+  },
+  {
+    "Agenda_ID": 27193,
+    "Meeting_Event_ID": 43240,
+    "File_Nme": "October 2023 PMB meeting agenda_2023-10-13_10-12-02",
+    "Meeting_Date": "10/18/2023",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Prisoner Medical Billing Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1036,
     "subCommitteeID": 0
   },
   {
@@ -156,6 +208,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27192,
+    "Meeting_Event_ID": 43239,
+    "File_Nme": "Tribal Relations Committee Agenda (October 17)_2023-10-13_09-24-02",
+    "Meeting_Date": "10/17/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Tribal Relations Committee ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27192,
+    "Meeting_Event_ID": 43239,
+    "File_Nme": "Tribal Relations Committee Agenda (October 17)_2023-10-13_09-24-02",
+    "Meeting_Date": "10/17/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Tribal Relations Committee ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 334
+  },
+  {
     "Agenda_ID": 27191,
     "Meeting_Event_ID": 43238,
     "File_Nme": "Agenda-HPPS-2023-10-17_2023-10-12_15-43-01",
@@ -180,5 +258,18 @@
     "Return_Message": "",
     "boardID": 878,
     "subCommitteeID": 285
+  },
+  {
+    "Agenda_ID": 27194,
+    "Meeting_Event_ID": 43241,
+    "File_Nme": "10162023 HRC Agenda_2023-10-13_10-49-02",
+    "Meeting_Date": "10/16/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Human Rights Commission (HRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 870,
+    "subCommitteeID": 0
   }
 ]
