@@ -104,6 +104,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27201,
+    "Meeting_Event_ID": 43248,
+    "File_Nme": "BOA October Cancellation_2023-10-17_08-02-02",
+    "Meeting_Date": "10/19/2023",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Board of Appeals",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27198,
     "Meeting_Event_ID": 43245,
     "File_Nme": "October 19, 2023 Tech and User Special Meeting Notice and Agenda_2023-10-16_10-21-02",
@@ -128,6 +141,19 @@
     "Return_Message": "",
     "boardID": 994,
     "subCommitteeID": 335
+  },
+  {
+    "Agenda_ID": 27204,
+    "Meeting_Event_ID": 43251,
+    "File_Nme": "SSA Agenda10-19-2023_2023-10-17_15-05-02",
+    "Meeting_Date": "10/19/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 27157,
@@ -167,96 +193,5 @@
     "Return_Message": "",
     "boardID": 895,
     "subCommitteeID": 304
-  },
-  {
-    "Agenda_ID": 27196,
-    "Meeting_Event_ID": 43243,
-    "File_Nme": "2023-10-18 TTC Meeting Cancellation Notice_2023-10-13_14-33-02",
-    "Meeting_Date": "10/18/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Technical Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27196,
-    "Meeting_Event_ID": 43243,
-    "File_Nme": "2023-10-18 TTC Meeting Cancellation Notice_2023-10-13_14-33-02",
-    "Meeting_Date": "10/18/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Technical Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 255
-  },
-  {
-    "Agenda_ID": 27193,
-    "Meeting_Event_ID": 43240,
-    "File_Nme": "October 2023 PMB meeting agenda_2023-10-13_10-12-02",
-    "Meeting_Date": "10/18/2023",
-    "Meeting_Time": "2:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Prisoner Medical Billing Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1036,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27188,
-    "Meeting_Event_ID": 43235,
-    "File_Nme": "10.18.23 October Tri-County Council on Aging Regular Meeting_2023-10-12_10-32-02",
-    "Meeting_Date": "10/18/2023",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tri-County Council on Aging ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1009,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27185,
-    "Meeting_Event_ID": 43232,
-    "File_Nme": "TARE Strategy special meeting 10-18-2023_2023-10-10_10-02-01",
-    "Meeting_Date": "10/18/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27190,
-    "Meeting_Event_ID": 43237,
-    "File_Nme": "2023-10-18_2023-10-12_13-06-01",
-    "Meeting_Date": "10/18/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 892,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27197,
-    "Meeting_Event_ID": 43244,
-    "File_Nme": "CITY PA NOTICE MTG DATE CANCELLED OCT 2023_2023-10-16_09-48-02",
-    "Meeting_Date": "10/18/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tulsa-Rogers County Port Authority (COTRCPA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 860,
-    "subCommitteeID": 0
   }
 ]
