@@ -377,6 +377,32 @@
     "subCommitteeID": 285
   },
   {
+    "Agenda_ID": 27248,
+    "Meeting_Event_ID": 43294,
+    "File_Nme": "11-1-2023 agenda_2023-10-30_14-39-02",
+    "Meeting_Date": "11/01/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Contractors Prequalification Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 948,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27249,
+    "Meeting_Event_ID": 43289,
+    "File_Nme": "2023-11-01 UED Addendum_2023-10-30_14-51-02",
+    "Meeting_Date": "11/01/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Urban And Economic Development Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27243,
     "Meeting_Event_ID": 43289,
     "File_Nme": "2023-11-01 UED_2023-10-27_16-02-02",
@@ -468,6 +494,19 @@
     "subCommitteeID": 263
   },
   {
+    "Agenda_ID": 27249,
+    "Meeting_Event_ID": 43289,
+    "File_Nme": "2023-11-01 UED Addendum_2023-10-30_14-51-02",
+    "Meeting_Date": "11/01/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Urban And Economic Development Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 265
+  },
+  {
     "Agenda_ID": 27243,
     "Meeting_Event_ID": 43289,
     "File_Nme": "2023-11-01 UED_2023-10-27_16-02-02",
@@ -543,45 +582,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 930,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27237,
-    "Meeting_Event_ID": 43283,
-    "File_Nme": "MTTA Board Meeting Agenda 10-31-23_2023-10-26_15-47-02",
-    "Meeting_Date": "10/31/2023",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27237,
-    "Meeting_Event_ID": 43283,
-    "File_Nme": "MTTA Board Meeting Agenda 10-31-23_2023-10-26_15-47-02",
-    "Meeting_Date": "10/31/2023",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 27241,
-    "Meeting_Event_ID": 43287,
-    "File_Nme": "Full Board Regular Meeting Notice and Agenda 10-31-2023_2023-10-27_13-10-01",
-    "Meeting_Date": "10/31/2023",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
     "subCommitteeID": 0
   }
 ]
