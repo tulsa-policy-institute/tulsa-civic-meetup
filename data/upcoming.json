@@ -494,16 +494,29 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 27254,
-    "Meeting_Event_ID": 43299,
-    "File_Nme": "November 3, 2023 CTAG Meeting Notice and Agenda_2023-11-01_09-27-03",
-    "Meeting_Date": "11/03/2023",
-    "Meeting_Time": "10:00AM",
+    "Agenda_ID": 27261,
+    "Meeting_Event_ID": 43306,
+    "File_Nme": "PB Agenda (in person) 11-7-2023_2023-11-02_13-41-02",
+    "Meeting_Date": "11/07/2023",
+    "Meeting_Time": "8:30AM",
     "Meeting_Type": "Regular",
-    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
+    "Board_Name": "Parks and Recreation Board (PRB)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 947,
+    "boardID": 877,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27260,
+    "Meeting_Event_ID": 43305,
+    "File_Nme": "11-4-23 Special Meeting (Tour)_2023-11-02_08-02-02",
+    "Meeting_Date": "11/04/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Route 66 Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1080,
     "subCommitteeID": 0
   }
 ]
