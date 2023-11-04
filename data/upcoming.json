@@ -39,6 +39,32 @@
     "subCommitteeID": 282
   },
   {
+    "Agenda_ID": 27265,
+    "Meeting_Event_ID": 43310,
+    "File_Nme": "CSC 2024 meeting dates_2023-11-03_12-56-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27269,
+    "Meeting_Event_ID": 43313,
+    "File_Nme": "2024 Meeting Schedule_2023-11-03_14-21-01",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 947,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27209,
     "Meeting_Event_ID": 43256,
     "File_Nme": "INCOG Board of Directors 2024 Meeting Schedule_2023-10-19_14-38-02",
@@ -429,6 +455,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27266,
+    "Meeting_Event_ID": 43311,
+    "File_Nme": "2023-11-10 Tulsa Stadium Trust Special Meeting Notice - Bond Refinance Committee(1153849.1)_2023-11-03_14-02-02",
+    "Meeting_Date": "11/10/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 897,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27267,
+    "Meeting_Event_ID": 43311,
+    "File_Nme": "2023-11-10 Tulsa Stadium Trust Special Meeting Agenda - Bond Refinance Committee(1153848.1)_2023-11-03_14-02-01",
+    "Meeting_Date": "11/10/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 897,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27250,
     "Meeting_Event_ID": 43295,
     "File_Nme": "Cancelation notice_2023-10-31_09-37-02",
@@ -481,6 +533,32 @@
     "subCommitteeID": 244
   },
   {
+    "Agenda_ID": 27263,
+    "Meeting_Event_ID": 43308,
+    "File_Nme": "November_2023_MCB_AGENDA_2023-11-03_11-36-01",
+    "Meeting_Date": "11/08/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Medical Control Board (MCB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 979,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27270,
+    "Meeting_Event_ID": 43314,
+    "File_Nme": "11 08 23 PCSSC Agenda_2023-11-03_16-47-01",
+    "Meeting_Date": "11/08/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27251,
     "Meeting_Event_ID": 43296,
     "File_Nme": "1 Agenda - Board of Trustees Meeting - November 7 2023_2023-10-31_11-47-02",
@@ -494,9 +572,35 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 27261,
-    "Meeting_Event_ID": 43306,
-    "File_Nme": "PB Agenda (in person) 11-7-2023_2023-11-02_13-41-02",
+    "Agenda_ID": 27264,
+    "Meeting_Event_ID": 43309,
+    "File_Nme": "11-7-23 MERP Board Meeting Agenda_2023-11-03_12-22-02",
+    "Meeting_Date": "11/07/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27264,
+    "Meeting_Event_ID": 43309,
+    "File_Nme": "11-7-23 MERP Board Meeting Agenda_2023-11-03_12-22-02",
+    "Meeting_Date": "11/07/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 326
+  },
+  {
+    "Agenda_ID": 27262,
+    "Meeting_Event_ID": 43307,
+    "File_Nme": "PB Agenda (in person) 11-7-2023_2023-11-03_08-31-02",
     "Meeting_Date": "11/07/2023",
     "Meeting_Time": "8:30AM",
     "Meeting_Type": "Regular",
@@ -507,16 +611,16 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 27260,
-    "Meeting_Event_ID": 43305,
-    "File_Nme": "11-4-23 Special Meeting (Tour)_2023-11-02_08-02-02",
-    "Meeting_Date": "11/04/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Route 66 Commission",
+    "Agenda_ID": 27261,
+    "Meeting_Event_ID": 43306,
+    "File_Nme": "PB Agenda (in person) 11-7-2023_2023-11-02_13-41-02",
+    "Meeting_Date": "11/07/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Parks and Recreation Board (PRB)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 1080,
+    "boardID": 877,
     "subCommitteeID": 0
   }
 ]
