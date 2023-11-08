@@ -520,6 +520,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27286,
+    "Meeting_Event_ID": 43330,
+    "File_Nme": "CITY PA NOTICE MTG LOCATION CHANGE - NOVEMBER 2023_2023-11-07_13-52-03",
+    "Meeting_Date": "11/16/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27272,
     "Meeting_Event_ID": 43316,
     "File_Nme": "LEPC Nov 2023 Mtg Adgenda_2023-11-06_09-57-02",
@@ -531,6 +544,45 @@
     "Return_Message": "",
     "boardID": 1082,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27289,
+    "Meeting_Event_ID": 43333,
+    "File_Nme": "AC  AGENDA November 2023 draft (003)_2023-11-07_16-22-03",
+    "Meeting_Date": "11/13/2023",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 882,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27290,
+    "Meeting_Event_ID": 43334,
+    "File_Nme": "TPACT Audit Committee 11-10-23 agenda_2023-11-07_16-34-03",
+    "Meeting_Date": "11/10/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Audit Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27290,
+    "Meeting_Event_ID": 43334,
+    "File_Nme": "TPACT Audit Committee 11-10-23 agenda_2023-11-07_16-34-03",
+    "Meeting_Date": "11/10/2023",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Audit Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 305
   },
   {
     "Agenda_ID": 27266,
@@ -572,6 +624,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27288,
+    "Meeting_Event_ID": 43332,
+    "File_Nme": "11-9-23 HUD CDC Agenda_2023-11-07_15-41-03",
+    "Meeting_Date": "11/09/2023",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Community Development Committee (HUD)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 868,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27258,
     "Meeting_Event_ID": 43303,
     "File_Nme": "IDAB 11-9-2023 Agenda_2023-11-01_14-46-03",
@@ -609,6 +674,19 @@
     "Return_Message": "",
     "boardID": 980,
     "subCommitteeID": 244
+  },
+  {
+    "Agenda_ID": 27287,
+    "Meeting_Event_ID": 43331,
+    "File_Nme": "SSA Agenda 11-9-2023_2023-11-07_14-34-03",
+    "Meeting_Date": "11/09/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 27283,
@@ -686,58 +764,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 878,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27273,
-    "Meeting_Event_ID": 43317,
-    "File_Nme": "01 November 2023 Agenda_2023-11-06_11-05-01",
-    "Meeting_Date": "11/08/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Fleet Management Steering Committee (FMSC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 958,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27263,
-    "Meeting_Event_ID": 43308,
-    "File_Nme": "November_2023_MCB_AGENDA_2023-11-03_11-36-01",
-    "Meeting_Date": "11/08/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Medical Control Board (MCB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 979,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27270,
-    "Meeting_Event_ID": 43314,
-    "File_Nme": "11 08 23 PCSSC Agenda_2023-11-03_16-47-01",
-    "Meeting_Date": "11/08/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Professional Consulting Services Selection Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 990,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27271,
-    "Meeting_Event_ID": 43315,
-    "File_Nme": "911 Board Meeting Notice and Agenda November 8, 2023_2023-11-06_09-32-02",
-    "Meeting_Date": "11/08/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Regional Enhanced 911 Board",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 994,
     "subCommitteeID": 0
   }
 ]
