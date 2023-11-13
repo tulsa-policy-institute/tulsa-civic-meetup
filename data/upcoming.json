@@ -817,57 +817,5 @@
     "Return_Message": "",
     "boardID": 1080,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27289,
-    "Meeting_Event_ID": 43333,
-    "File_Nme": "AC  AGENDA November 2023 draft (003)_2023-11-07_16-22-03",
-    "Meeting_Date": "11/13/2023",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 882,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27292,
-    "Meeting_Event_ID": 43333,
-    "File_Nme": "AC  AGENDA November 2023 draft (003)_2023-11-08_09-53-02",
-    "Meeting_Date": "11/13/2023",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 882,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27309,
-    "Meeting_Event_ID": 43350,
-    "File_Nme": "TPACT Full Trust Meeting 11.13.23 Agenda_2023-11-09_16-03-04",
-    "Meeting_Date": "11/13/2023",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27310,
-    "Meeting_Event_ID": 43351,
-    "File_Nme": "TPACT Finance Committee 11.13.23 agenda_2023-11-09_16-03-02",
-    "Meeting_Date": "11/13/2023",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
   }
 ]
