@@ -1534,6 +1534,58 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27360,
+    "Meeting_Event_ID": 43398,
+    "File_Nme": "2024 BOARD MTGS Calendar_2023-11-16_08-23-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 875,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27360,
+    "Meeting_Event_ID": 43398,
+    "File_Nme": "2024 BOARD MTGS Calendar_2023-11-16_08-23-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 875,
+    "subCommitteeID": 328
+  },
+  {
+    "Agenda_ID": 27360,
+    "Meeting_Event_ID": 43398,
+    "File_Nme": "2024 BOARD MTGS Calendar_2023-11-16_08-23-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 875,
+    "subCommitteeID": 247
+  },
+  {
+    "Agenda_ID": 27360,
+    "Meeting_Event_ID": 43398,
+    "File_Nme": "2024 BOARD MTGS Calendar_2023-11-16_08-23-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 875,
+    "subCommitteeID": 248
+  },
+  {
     "Agenda_ID": 27291,
     "Meeting_Event_ID": 43335,
     "File_Nme": "2024 MERP BOARD MEETING SCHEDULE 1st Tues_2023-11-08_08-52-02",
