@@ -1534,6 +1534,58 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27361,
+    "Meeting_Event_ID": 43399,
+    "File_Nme": "The Metropolitan Environmental Trust Meetings for Calendar Year 2024_2023-11-17_10-32-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Environmental Trust (MET)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27361,
+    "Meeting_Event_ID": 43399,
+    "File_Nme": "The Metropolitan Environmental Trust Meetings for Calendar Year 2024_2023-11-17_10-32-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Environmental Trust (MET)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 244
+  },
+  {
+    "Agenda_ID": 27361,
+    "Meeting_Event_ID": 43399,
+    "File_Nme": "The Metropolitan Environmental Trust Meetings for Calendar Year 2024_2023-11-17_10-32-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Environmental Trust (MET)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 245
+  },
+  {
+    "Agenda_ID": 27361,
+    "Meeting_Event_ID": 43399,
+    "File_Nme": "The Metropolitan Environmental Trust Meetings for Calendar Year 2024_2023-11-17_10-32-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Environmental Trust (MET)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 246
+  },
+  {
     "Agenda_ID": 27360,
     "Meeting_Event_ID": 43398,
     "File_Nme": "2024 BOARD MTGS Calendar_2023-11-16_08-23-02",
@@ -2262,6 +2314,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27364,
+    "Meeting_Event_ID": 43401,
+    "File_Nme": "CITY OF TULSA ANNUAL NOTICE 2024_2023-11-17_15-32-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa-Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26130,
     "Meeting_Event_ID": 42245,
     "File_Nme": "BOA Agenda - December 21, 2023 and parking pass_2023-01-23_14-56-01",
@@ -2314,6 +2379,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27362,
+    "Meeting_Event_ID": 43318,
+    "File_Nme": "11212023 GTAIAC Agenda_2023-11-17_14-03-02",
+    "Meeting_Date": "11/21/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Greater Tulsa Area Indian Affairs Commission (GTAIAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 867,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27274,
     "Meeting_Event_ID": 43318,
     "File_Nme": "11212023 GTAIAC Notice of Location Change_2023-11-06_11-55-01",
@@ -2324,6 +2402,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 867,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27365,
+    "Meeting_Event_ID": 43402,
+    "File_Nme": "SDHMAB Cancellation Notice 11.21.2023_2023-11-17_16-58-02",
+    "Meeting_Date": "11/21/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
     "subCommitteeID": 0
   },
   {
@@ -2351,5 +2442,18 @@
     "Return_Message": "",
     "boardID": 878,
     "subCommitteeID": 285
+  },
+  {
+    "Agenda_ID": 27363,
+    "Meeting_Event_ID": 43400,
+    "File_Nme": "11202023 HRC Agenda_2023-11-17_14-27-02",
+    "Meeting_Date": "11/20/2023",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Human Rights Commission (HRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 870,
+    "subCommitteeID": 0
   }
 ]
