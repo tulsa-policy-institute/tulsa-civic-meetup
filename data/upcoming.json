@@ -2442,18 +2442,5 @@
     "Return_Message": "",
     "boardID": 878,
     "subCommitteeID": 285
-  },
-  {
-    "Agenda_ID": 27363,
-    "Meeting_Event_ID": 43400,
-    "File_Nme": "11202023 HRC Agenda_2023-11-17_14-27-02",
-    "Meeting_Date": "11/20/2023",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Human Rights Commission (HRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 870,
-    "subCommitteeID": 0
   }
 ]
