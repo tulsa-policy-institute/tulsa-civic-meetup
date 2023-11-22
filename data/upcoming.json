@@ -1872,6 +1872,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27373,
+    "Meeting_Event_ID": 43410,
+    "File_Nme": "SSA ANNUAL AGENDA 2024_2023-11-21_07-58-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27355,
     "Meeting_Event_ID": 43393,
     "File_Nme": "PPI Yearly Schedule 2024_2023-11-15_11-15-02",
@@ -1974,6 +1987,19 @@
     "Return_Message": "",
     "boardID": 881,
     "subCommitteeID": 278
+  },
+  {
+    "Agenda_ID": 27377,
+    "Meeting_Event_ID": 43411,
+    "File_Nme": "2024 TTC Meeting Schedule_2023-11-21_11-25-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Transportation Technical Committee (TTC) - (INCOG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1008,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 27255,
@@ -2431,22 +2457,9 @@
     "subCommitteeID": 273
   },
   {
-    "Agenda_ID": 27369,
-    "Meeting_Event_ID": 43406,
-    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-20_16-47-03",
-    "Meeting_Date": "01/01/2024",
-    "Meeting_Time": "",
-    "Meeting_Type": "Annual",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27370,
+    "Agenda_ID": 27374,
     "Meeting_Event_ID": 43407,
-    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-21_10-04-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2457,9 +2470,9 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 27369,
+    "Agenda_ID": 27376,
     "Meeting_Event_ID": 43406,
-    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-21_11-02-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2467,12 +2480,12 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 895,
-    "subCommitteeID": 305
+    "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 27370,
+    "Agenda_ID": 27374,
     "Meeting_Event_ID": 43407,
-    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-21_10-04-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2483,9 +2496,9 @@
     "subCommitteeID": 305
   },
   {
-    "Agenda_ID": 27369,
+    "Agenda_ID": 27376,
     "Meeting_Event_ID": 43406,
-    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-21_11-02-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2493,12 +2506,12 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 895,
-    "subCommitteeID": 304
+    "subCommitteeID": 305
   },
   {
-    "Agenda_ID": 27370,
+    "Agenda_ID": 27374,
     "Meeting_Event_ID": 43407,
-    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-21_10-04-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2509,9 +2522,9 @@
     "subCommitteeID": 304
   },
   {
-    "Agenda_ID": 27369,
+    "Agenda_ID": 27376,
     "Meeting_Event_ID": 43406,
-    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-21_11-02-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2519,12 +2532,12 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 895,
-    "subCommitteeID": 303
+    "subCommitteeID": 304
   },
   {
-    "Agenda_ID": 27370,
+    "Agenda_ID": 27374,
     "Meeting_Event_ID": 43407,
-    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-21_10-04-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2535,9 +2548,9 @@
     "subCommitteeID": 303
   },
   {
-    "Agenda_ID": 27369,
+    "Agenda_ID": 27376,
     "Meeting_Event_ID": 43406,
-    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-21_11-02-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2545,12 +2558,12 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 895,
-    "subCommitteeID": 302
+    "subCommitteeID": 303
   },
   {
-    "Agenda_ID": 27370,
+    "Agenda_ID": 27374,
     "Meeting_Event_ID": 43407,
-    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-21_10-04-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2561,9 +2574,9 @@
     "subCommitteeID": 302
   },
   {
-    "Agenda_ID": 27369,
+    "Agenda_ID": 27376,
     "Meeting_Event_ID": 43406,
-    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-21_11-02-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2571,12 +2584,12 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 895,
-    "subCommitteeID": 274
+    "subCommitteeID": 302
   },
   {
-    "Agenda_ID": 27370,
+    "Agenda_ID": 27374,
     "Meeting_Event_ID": 43407,
-    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-21_10-04-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2587,26 +2600,39 @@
     "subCommitteeID": 274
   },
   {
-    "Agenda_ID": 27369,
+    "Agenda_ID": 27376,
     "Meeting_Event_ID": 43406,
-    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-20_16-47-03",
+    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-21_11-02-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
     "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 274
+  },
+  {
+    "Agenda_ID": 27374,
+    "Meeting_Event_ID": 43407,
+    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-21_10-04-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 895,
     "subCommitteeID": 275
   },
   {
-    "Agenda_ID": 27370,
-    "Meeting_Event_ID": 43407,
-    "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-20_16-47-03",
+    "Agenda_ID": 27376,
+    "Meeting_Event_ID": 43406,
+    "File_Nme": "2024 TPACT  Full Trust Meetings_2023-11-21_11-02-02",
     "Meeting_Date": "01/01/2024",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 895,
@@ -2727,6 +2753,45 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27379,
+    "Meeting_Event_ID": 43413,
+    "File_Nme": "2023-12-01 Tulsas Gathering Place LLC - Regular Meeting Agenda(1155518.2)_2023-11-21_14-11-02",
+    "Meeting_Date": "12/01/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa's Gathering Place LLC",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 931,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27380,
+    "Meeting_Event_ID": 43413,
+    "File_Nme": "2023-12-01 Tulsas Gathering Place LLC - Regular Meeting Notice(1155519.2)_2023-11-21_14-11-02",
+    "Meeting_Date": "12/01/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa's Gathering Place LLC",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 931,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27378,
+    "Meeting_Event_ID": 43412,
+    "File_Nme": "2023-11-29 Legislative Forum_2023-11-21_13-37-02",
+    "Meeting_Date": "11/29/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
     "subCommitteeID": 0
   }
 ]
