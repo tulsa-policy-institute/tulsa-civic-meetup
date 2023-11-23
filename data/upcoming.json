@@ -2782,6 +2782,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27381,
+    "Meeting_Event_ID": 43414,
+    "File_Nme": "REAP Policy Agenda Nov 2023_2023-11-22_08-50-02",
+    "Meeting_Date": "11/29/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Rural Economic Action Plan (REAP) Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27381,
+    "Meeting_Event_ID": 43414,
+    "File_Nme": "REAP Policy Agenda Nov 2023_2023-11-22_08-50-02",
+    "Meeting_Date": "11/29/2023",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Rural Economic Action Plan (REAP) Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 242
+  },
+  {
     "Agenda_ID": 27378,
     "Meeting_Event_ID": 43412,
     "File_Nme": "2023-11-29 Legislative Forum_2023-11-21_13-37-02",
@@ -2792,6 +2818,71 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27383,
+    "Meeting_Event_ID": 43416,
+    "File_Nme": "Agenda 11-28-23_2023-11-22_13-44-02",
+    "Meeting_Date": "11/28/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Sales Tax Overview Committee (STOC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 880,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27382,
+    "Meeting_Event_ID": 43415,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 11-28-2023_2023-11-22_10-59-02",
+    "Meeting_Date": "11/28/2023",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27382,
+    "Meeting_Event_ID": 43415,
+    "File_Nme": "TARE Focus Committee Meeting notice and agenda 11-28-2023_2023-11-22_10-59-02",
+    "Meeting_Date": "11/28/2023",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 327
+  },
+  {
+    "Agenda_ID": 27384,
+    "Meeting_Event_ID": 43417,
+    "File_Nme": "Agenda-TPC-2023-11-28_2023-11-22_15-04-02",
+    "Meeting_Date": "11/28/2023",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27385,
+    "Meeting_Event_ID": 43417,
+    "File_Nme": "Agenda-TPC-2023-11-28-Amended_2023-11-22_15-11-02",
+    "Meeting_Date": "11/28/2023",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
     "subCommitteeID": 0
   }
 ]
