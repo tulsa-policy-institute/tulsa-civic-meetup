@@ -2756,6 +2756,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27397,
+    "Meeting_Event_ID": 43428,
+    "File_Nme": "BOH Meeting Notice  Agenda 120623_2023-11-29_16-34-02",
+    "Meeting_Date": "12/06/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27396,
+    "Meeting_Event_ID": 43427,
+    "File_Nme": "2023-12-06_2023-11-29_15-43-02",
+    "Meeting_Date": "12/06/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27393,
     "Meeting_Event_ID": 43425,
     "File_Nme": "December 1, 2023 CTAG Meeting Notice and Agenda_2023-11-28_12-58-02",
@@ -2805,19 +2831,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 931,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27395,
-    "Meeting_Event_ID": 43426,
-    "File_Nme": "SSA Agenda 11-30-2023_2023-11-28_15-25-02",
-    "Meeting_Date": "11/30/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
     "subCommitteeID": 0
   }
 ]
