@@ -78,6 +78,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27426,
+    "Meeting_Event_ID": 43457,
+    "File_Nme": "CDC Calendar 2024_2023-12-04_10-55-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Community Development Committee (HUD)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 868,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27321,
     "Meeting_Event_ID": 43362,
     "File_Nme": "2024 Contractors Prequalification Committee Schedule_2023-11-13_10-06-02",
@@ -1898,6 +1911,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27424,
+    "Meeting_Event_ID": 43455,
+    "File_Nme": "CY 2024 STOC SCHEDULE_2023-12-04_08-02-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Sales Tax Overview Committee (STOC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 880,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27351,
     "Meeting_Event_ID": 43389,
     "File_Nme": "Spec Review Committee Calendar 2024_2023-11-14_16-37-02",
@@ -2039,6 +2065,45 @@
     "Return_Message": "",
     "boardID": 1008,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27425,
+    "Meeting_Event_ID": 43456,
+    "File_Nme": "2024 Tri County Council on Aging Notice of Meetings_2023-12-04_10-33-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tri-County Council on Aging ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27425,
+    "Meeting_Event_ID": 43456,
+    "File_Nme": "2024 Tri County Council on Aging Notice of Meetings_2023-12-04_10-33-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tri-County Council on Aging ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 250
+  },
+  {
+    "Agenda_ID": 27425,
+    "Meeting_Event_ID": 43456,
+    "File_Nme": "2024 Tri County Council on Aging Notice of Meetings_2023-12-04_10-33-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tri-County Council on Aging ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 249
   },
   {
     "Agenda_ID": 27411,
@@ -3094,6 +3159,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27427,
+    "Meeting_Event_ID": 43458,
+    "File_Nme": "AWC December 2023 Agenda_2023-12-04_10-59-02",
+    "Meeting_Date": "12/11/2023",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Animal Welfare Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1095,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27401,
     "Meeting_Event_ID": 43432,
     "File_Nme": "20231208 Special Board Retreat Agenda_2023-11-30_15-07-02",
@@ -3157,6 +3235,58 @@
     "Return_Message": "",
     "boardID": 878,
     "subCommitteeID": 285
+  },
+  {
+    "Agenda_ID": 27428,
+    "Meeting_Event_ID": 43459,
+    "File_Nme": "2023-12-07 Tulsa Stadium Trust - Regular Meeting Agenda(1152066.3)_2023-12-04_11-06-02",
+    "Meeting_Date": "12/07/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 897,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27429,
+    "Meeting_Event_ID": 43459,
+    "File_Nme": "2023-12-07 Tulsa Stadium Trust - Regular Meeting Notice(1152067.2)_2023-12-04_12-16-02",
+    "Meeting_Date": "12/07/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 897,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27430,
+    "Meeting_Event_ID": 43460,
+    "File_Nme": "2023-12-06 TPC Amended Agenda_2023-12-04_16-48-02",
+    "Meeting_Date": "12/06/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27430,
+    "Meeting_Event_ID": 43460,
+    "File_Nme": "2023-12-06 TPC Amended Agenda_2023-12-04_16-48-02",
+    "Meeting_Date": "12/06/2023",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 254
   },
   {
     "Agenda_ID": 27406,
@@ -3403,97 +3533,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 930,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27399,
-    "Meeting_Event_ID": 43430,
-    "File_Nme": "Board Meeting Cancellation  - December 5 2023 Meeting_2023-11-30_09-31-02",
-    "Meeting_Date": "12/05/2023",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Gilcrease Museum Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 960,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27402,
-    "Meeting_Event_ID": 43433,
-    "File_Nme": "MTTA Board Meeting Agenda 12-5-23_2023-11-30_15-07-03",
-    "Meeting_Date": "12/05/2023",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27402,
-    "Meeting_Event_ID": 43433,
-    "File_Nme": "MTTA Board Meeting Agenda 12-5-23_2023-11-30_15-07-03",
-    "Meeting_Date": "12/05/2023",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 27403,
-    "Meeting_Event_ID": 43434,
-    "File_Nme": "12-5-23 MERP Board Meeting Agenda_2023-11-30_16-04-01",
-    "Meeting_Date": "12/05/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27403,
-    "Meeting_Event_ID": 43434,
-    "File_Nme": "12-5-23 MERP Board Meeting Agenda_2023-11-30_16-04-01",
-    "Meeting_Date": "12/05/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
-  },
-  {
-    "Agenda_ID": 27398,
-    "Meeting_Event_ID": 43429,
-    "File_Nme": "PB Agenda (in person) 12-5-2023_2023-11-30_08-47-02",
-    "Meeting_Date": "12/05/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Parks and Recreation Board (PRB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 877,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27409,
-    "Meeting_Event_ID": 43440,
-    "File_Nme": "Full Board Regular Meeting Notice and Agenda 12-05-2023_2023-12-01_08-20-04",
-    "Meeting_Date": "12/05/2023",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
     "subCommitteeID": 0
   }
 ]
