@@ -13,6 +13,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27441,
+    "Meeting_Event_ID": 43471,
+    "File_Nme": "Audit Committee Annual Schedule_2023-12-06_08-26-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Audit Committee of the City of Tulsa (AUDIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 873,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27236,
     "Meeting_Event_ID": 43282,
     "File_Nme": "2024-BOA-Meeting-Dates_2023-10-26_14-58-02",
@@ -1677,45 +1690,6 @@
     "subCommitteeID": 248
   },
   {
-    "Agenda_ID": 27291,
-    "Meeting_Event_ID": 43335,
-    "File_Nme": "2024 MERP BOARD MEETING SCHEDULE 1st Tues_2023-11-08_08-52-02",
-    "Meeting_Date": "01/01/2024",
-    "Meeting_Time": "",
-    "Meeting_Type": "Annual",
-    "Board_Name": "Municipal Employee Retirement Board (MERP)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27291,
-    "Meeting_Event_ID": 43335,
-    "File_Nme": "2024 MERP BOARD MEETING SCHEDULE 1st Tues_2023-11-08_08-52-02",
-    "Meeting_Date": "01/01/2024",
-    "Meeting_Time": "",
-    "Meeting_Type": "Annual",
-    "Board_Name": "Municipal Employee Retirement Board (MERP)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
-  },
-  {
-    "Agenda_ID": 27291,
-    "Meeting_Event_ID": 43335,
-    "File_Nme": "2024 MERP BOARD MEETING SCHEDULE 1st Tues_2023-11-08_08-52-02",
-    "Meeting_Date": "01/01/2024",
-    "Meeting_Time": "",
-    "Meeting_Type": "Annual",
-    "Board_Name": "Municipal Employee Retirement Board (MERP)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 286
-  },
-  {
     "Agenda_ID": 27323,
     "Meeting_Event_ID": 43364,
     "File_Nme": "2024 PB Meeting Schedule_2023-11-13_10-16-02",
@@ -2067,6 +2041,19 @@
     "subCommitteeID": 278
   },
   {
+    "Agenda_ID": 27444,
+    "Meeting_Event_ID": 43474,
+    "File_Nme": "2024 TPC Meeting Schedule_2023-12-06_12-06-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Transportation Policy Committee (TPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1007,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27377,
     "Meeting_Event_ID": 43411,
     "File_Nme": "2024 TTC Meeting Schedule_2023-11-21_11-25-02",
@@ -2117,6 +2104,32 @@
     "Return_Message": "",
     "boardID": 1009,
     "subCommitteeID": 249
+  },
+  {
+    "Agenda_ID": 27448,
+    "Meeting_Event_ID": 43478,
+    "File_Nme": "2023-12-15_Annual Schedule_Tulsa Airports Improvement Trust_2024 FINAL_2023-12-06_13-40-03",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Airport Authority (TAA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 884,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27447,
+    "Meeting_Event_ID": 43477,
+    "File_Nme": "2023-12-15_Annual Schedule_Tulsa Airport Authority_2024 FINAL_2023-12-06_13-40-03",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 27411,
@@ -2535,6 +2548,19 @@
     "subCommitteeID": 267
   },
   {
+    "Agenda_ID": 27445,
+    "Meeting_Event_ID": 43475,
+    "File_Nme": "2023-12-12_Annual Schedule_Tulsa International Airport Devlopment Trust_2024_2023-12-06_13-40-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa International Airport Development Trust  (TIADT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1086,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27205,
     "Meeting_Event_ID": 43252,
     "File_Nme": "2024-TMAPC-Meeting-Schedule_2023-10-18_10-13-03",
@@ -2847,6 +2873,19 @@
     "subCommitteeID": 273
   },
   {
+    "Agenda_ID": 27446,
+    "Meeting_Event_ID": 43476,
+    "File_Nme": "2023-12-12_Annual Schedule_Tulsa Municipal Airport Trust_2024_2023-12-06_13-40-03",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Municipal Airport Trust (TMAT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 922,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27374,
     "Meeting_Event_ID": 43407,
     "File_Nme": "2024 TPACT  Finance Committee Meetings_2023-11-21_10-04-02",
@@ -3081,6 +3120,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27443,
+    "Meeting_Event_ID": 43473,
+    "File_Nme": "2023-12-06 Tulsa Stadium Trust - 2024 Meetings Schedule(1140742.2)_2023-12-06_10-09-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 897,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27330,
     "Meeting_Event_ID": 43371,
     "File_Nme": "2024 TUB YEARLY SCHEDULE_2023-11-13_13-47-03",
@@ -3198,6 +3250,19 @@
     "subCommitteeID": 244
   },
   {
+    "Agenda_ID": 27440,
+    "Meeting_Event_ID": 43470,
+    "File_Nme": "TAEO_Notice to Cancel 12.14.23_2023-12-06_08-01-02",
+    "Meeting_Date": "12/14/2023",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 891,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27386,
     "Meeting_Event_ID": 43418,
     "File_Nme": "Notice of Regular Library Commission Meeting - December 14 2023_2023-11-27_10-41-02",
@@ -3250,6 +3315,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27442,
+    "Meeting_Event_ID": 43472,
+    "File_Nme": "AC  AGENDA December 2023 draft_2023-12-06_09-37-02",
+    "Meeting_Date": "12/11/2023",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 882,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27436,
     "Meeting_Event_ID": 43466,
     "File_Nme": "20231208 Special Board Retreat Agenda - revised_2023-12-05_15-07-02",
@@ -3300,109 +3378,5 @@
     "Return_Message": "",
     "boardID": 875,
     "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 27275,
-    "Meeting_Event_ID": 43319,
-    "File_Nme": "Dec 2023 DRC Meeting Cancellation_2023-11-06_12-52-03",
-    "Meeting_Date": "12/07/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Disability Review Committee (DRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 950,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27437,
-    "Meeting_Event_ID": 43467,
-    "File_Nme": "SSA Agenda 12-07-2023_2023-12-05_15-07-03",
-    "Meeting_Date": "12/07/2023",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27431,
-    "Meeting_Event_ID": 43461,
-    "File_Nme": "PPI Agenda_12.07.2023_2023-12-05_08-26-02",
-    "Meeting_Date": "12/07/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27431,
-    "Meeting_Event_ID": 43461,
-    "File_Nme": "PPI Agenda_12.07.2023_2023-12-05_08-26-02",
-    "Meeting_Date": "12/07/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 284
-  },
-  {
-    "Agenda_ID": 27414,
-    "Meeting_Event_ID": 43445,
-    "File_Nme": "Agenda-HPPS-2023-12-7_2023-12-01_13-39-02",
-    "Meeting_Date": "12/07/2023",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27414,
-    "Meeting_Event_ID": 43445,
-    "File_Nme": "Agenda-HPPS-2023-12-7_2023-12-01_13-39-02",
-    "Meeting_Date": "12/07/2023",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 285
-  },
-  {
-    "Agenda_ID": 27428,
-    "Meeting_Event_ID": 43459,
-    "File_Nme": "2023-12-07 Tulsa Stadium Trust - Regular Meeting Agenda(1152066.3)_2023-12-04_11-06-02",
-    "Meeting_Date": "12/07/2023",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Stadium Trust (TST)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 897,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27429,
-    "Meeting_Event_ID": 43459,
-    "File_Nme": "2023-12-07 Tulsa Stadium Trust - Regular Meeting Notice(1152067.2)_2023-12-04_12-16-02",
-    "Meeting_Date": "12/07/2023",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Stadium Trust (TST)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 897,
-    "subCommitteeID": 0
   }
 ]
