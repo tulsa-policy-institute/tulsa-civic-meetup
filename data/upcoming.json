@@ -13,6 +13,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27471,
+    "Meeting_Event_ID": 43501,
+    "File_Nme": "Jan 2024 DRC Agenda_2023-12-11_11-01-02",
+    "Meeting_Date": "01/04/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Disability Review Committee (DRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27456,
     "Meeting_Event_ID": 43486,
     "File_Nme": "AC Meeting Dates 2024_2023-12-07_16-33-02",
@@ -270,6 +283,58 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 960,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27479,
+    "Meeting_Event_ID": 43509,
+    "File_Nme": "AAC 2024 Meeting Dates_2023-12-11_16-37-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Great Tulsa Area Asian Affairs Commission (AAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1102,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27480,
+    "Meeting_Event_ID": 43510,
+    "File_Nme": "GTAAAC 2024 Meeting Dates_2023-12-11_16-37-03",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Greater Tulsa Area African-American Affairs Commission (AAAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1085,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27481,
+    "Meeting_Event_ID": 43511,
+    "File_Nme": "GTAHLAC 2024 Meeting Dates_2023-12-11_16-37-03",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Greater Tulsa Area Hispanic-Latinx Affairs Commission (HLAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 866,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27482,
+    "Meeting_Event_ID": 43512,
+    "File_Nme": "GTAIAC 2024 Meeting Dates_2023-12-11_16-37-03",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Greater Tulsa Area Indian Affairs Commission (IAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 867,
     "subCommitteeID": 0
   },
   {
@@ -1415,6 +1480,32 @@
     "Return_Message": "",
     "boardID": 967,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27483,
+    "Meeting_Event_ID": 43513,
+    "File_Nme": "HRC 2024 Meeting Dates_2023-12-11_16-37-03",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Human Rights Commission (HRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 870,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27483,
+    "Meeting_Event_ID": 43513,
+    "File_Nme": "HRC 2024 Meeting Dates_2023-12-11_16-37-03",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Human Rights Commission (HRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 870,
+    "subCommitteeID": 237
   },
   {
     "Agenda_ID": 27209,
@@ -3419,6 +3510,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27484,
+    "Meeting_Event_ID": 43514,
+    "File_Nme": "TWC 2024 Meeting Dates_2023-12-11_16-36-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Women's Commission (TWC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27432,
     "Meeting_Event_ID": 43462,
     "File_Nme": "2023-12-05 Tulsas Gathering Place LLC - 2024 Meetings Schedule1160365.3_2023-12-05_10-39-02",
@@ -3497,6 +3601,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27472,
+    "Meeting_Event_ID": 43502,
+    "File_Nme": "Dec 14 Meeting-c_2023-12-11_13-57-02",
+    "Meeting_Date": "12/14/2023",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Community Development Committee (HUD)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 868,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27458,
     "Meeting_Event_ID": 43488,
     "File_Nme": "IDAB 12-14-2023 Agenda_2023-12-08_11-36-02",
@@ -3534,6 +3651,32 @@
     "Return_Message": "",
     "boardID": 980,
     "subCommitteeID": 244
+  },
+  {
+    "Agenda_ID": 27478,
+    "Meeting_Event_ID": 43508,
+    "File_Nme": "2023-12-14_TAA Meeting Agenda_FINAL_12-11-23_2023-12-11_16-10-02",
+    "Meeting_Date": "12/14/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Airport Authority (TAA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 884,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27477,
+    "Meeting_Event_ID": 43507,
+    "File_Nme": "2023-12-14_TAIT-TAA Meeting Agenda_FINAL_12-11-23_2023-12-11_16-10-02",
+    "Meeting_Date": "12/14/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 27440,
@@ -3575,6 +3718,58 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27473,
+    "Meeting_Event_ID": 43503,
+    "File_Nme": "December 14, 2023 Tulsa International Airport Development Trust - Meeting Agenda_2023-12-11_14-34-02",
+    "Meeting_Date": "12/14/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa International Airport Development Trust  (TIADT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1086,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27474,
+    "Meeting_Event_ID": 43504,
+    "File_Nme": "2023-012_Meeting Agenda_TMAT_FINAL_2023-12-11_14-36-02",
+    "Meeting_Date": "12/14/2023",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Municipal Airport Trust (TMAT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 922,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27475,
+    "Meeting_Event_ID": 43505,
+    "File_Nme": "Agenda-TPC-2023-12-14_2023-12-11_15-05-02",
+    "Meeting_Date": "12/14/2023",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27476,
+    "Meeting_Event_ID": 43506,
+    "File_Nme": "FA Agenda December 14 2023_2023-12-11_16-10-02",
+    "Meeting_Date": "12/14/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27460,
     "Meeting_Event_ID": 43490,
     "File_Nme": "PORT MTG NOTICE-AGENDA DECEMBER 2023_2023-12-08_14-24-03",
@@ -3612,6 +3807,19 @@
     "Return_Message": "",
     "boardID": 994,
     "subCommitteeID": 335
+  },
+  {
+    "Agenda_ID": 27469,
+    "Meeting_Event_ID": 43499,
+    "File_Nme": "12132023 RMUA Special Agenda_2023-12-11_08-01-02",
+    "Meeting_Date": "12/13/2023",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Regional Metropolitan Utility Authority (RMUA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 995,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 27434,
@@ -3742,57 +3950,5 @@
     "Return_Message": "",
     "boardID": 899,
     "subCommitteeID": 265
-  },
-  {
-    "Agenda_ID": 27454,
-    "Meeting_Event_ID": 43484,
-    "File_Nme": "2023-12-12-TGOV-AGENDA_2023-12-07_14-36-02",
-    "Meeting_Date": "12/12/2023",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27452,
-    "Meeting_Event_ID": 43482,
-    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, December 12, 2023_2023-12-07_12-05-02",
-    "Meeting_Date": "12/12/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27452,
-    "Meeting_Event_ID": 43482,
-    "File_Nme": "INCOG Board of Directors Meeting Notice and Agenda , Tuesday, December 12, 2023_2023-12-07_12-05-02",
-    "Meeting_Date": "12/12/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 311
-  },
-  {
-    "Agenda_ID": 27461,
-    "Meeting_Event_ID": 43491,
-    "File_Nme": "12-12-23 Agenda_2023-12-08_14-54-02",
-    "Meeting_Date": "12/12/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Route 66 Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1080,
-    "subCommitteeID": 0
   }
 ]
