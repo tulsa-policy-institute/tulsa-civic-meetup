@@ -195,6 +195,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27497,
+    "Meeting_Event_ID": 43524,
+    "File_Nme": "Code Enforcement - 2024 Nuisance Abatement Hearing Dates-2_2023-12-14_15-03-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Department of City Experience - Code Enforcement Division",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 934,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27276,
     "Meeting_Event_ID": 43320,
     "File_Nme": "2024 DRC Meeting Schedule_2023-11-06_12-52-02",
@@ -1844,6 +1857,45 @@
     "Return_Message": "",
     "boardID": 875,
     "subCommitteeID": 248
+  },
+  {
+    "Agenda_ID": 27496,
+    "Meeting_Event_ID": 43335,
+    "File_Nme": "2024 MERP AMENDED BOARD MEETING SCHEDULE 1st Tues_2023-12-14_09-09-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Municipal Employee Retirement Board (MERP)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27496,
+    "Meeting_Event_ID": 43335,
+    "File_Nme": "2024 MERP AMENDED BOARD MEETING SCHEDULE 1st Tues_2023-12-14_09-09-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Municipal Employee Retirement Board (MERP)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 326
+  },
+  {
+    "Agenda_ID": 27496,
+    "Meeting_Event_ID": 43335,
+    "File_Nme": "2024 MERP AMENDED BOARD MEETING SCHEDULE 1st Tues_2023-12-14_09-09-02",
+    "Meeting_Date": "01/01/2024",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Municipal Employee Retirement Board (MERP)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 286
   },
   {
     "Agenda_ID": 27323,
@@ -3627,6 +3679,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27495,
+    "Meeting_Event_ID": 43523,
+    "File_Nme": "2023-12-20_2023-12-14_09-05-02",
+    "Meeting_Date": "12/20/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27494,
     "Meeting_Event_ID": 43522,
     "File_Nme": "SDHMAB Cancellation Notice_12.19.2023_2023-12-13_16-16-02",
@@ -3638,31 +3703,5 @@
     "Return_Message": "",
     "boardID": 881,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27490,
-    "Meeting_Event_ID": 43520,
-    "File_Nme": "TPACT Executive Committee Agenda 12.15.23_2023-12-12_11-52-02",
-    "Meeting_Date": "12/15/2023",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Executive Committee ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27490,
-    "Meeting_Event_ID": 43520,
-    "File_Nme": "TPACT Executive Committee Agenda 12.15.23_2023-12-12_11-52-02",
-    "Meeting_Date": "12/15/2023",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Executive Committee ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 302
   }
 ]
