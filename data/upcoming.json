@@ -3653,12 +3653,38 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27510,
+    "Meeting_Event_ID": 43537,
+    "File_Nme": "1 12-21-23 Audit Committee  Agenda_2023-12-18_08-35-02",
+    "Meeting_Date": "12/21/2023",
+    "Meeting_Time": "11:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Audit Committee of the City of Tulsa (AUDIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 873,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 26130,
     "Meeting_Event_ID": 42245,
     "File_Nme": "BOA Agenda - December 21, 2023 and parking pass_2023-01-23_14-56-01",
     "Meeting_Date": "12/21/2023",
     "Meeting_Time": "3:00PM",
     "Meeting_Type": "Regular",
+    "Board_Name": "Board of Appeals",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27512,
+    "Meeting_Event_ID": 43539,
+    "File_Nme": "BOA December Cancellation_2023-12-18_11-33-02",
+    "Meeting_Date": "12/21/2023",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Canceled",
     "Board_Name": "Board of Appeals",
     "Return_Code": 0,
     "Return_Message": "",
@@ -3677,6 +3703,32 @@
     "Return_Message": "",
     "boardID": 879,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27511,
+    "Meeting_Event_ID": 43538,
+    "File_Nme": "EMSA Board of Trustees Meeting Agenda - December 20, 2023_2023-12-18_10-47-02",
+    "Meeting_Date": "12/20/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Emergency Medical Services Authority (EMSA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 864,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27511,
+    "Meeting_Event_ID": 43538,
+    "File_Nme": "EMSA Board of Trustees Meeting Agenda - December 20, 2023_2023-12-18_10-47-02",
+    "Meeting_Date": "12/20/2023",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Emergency Medical Services Authority (EMSA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 864,
+    "subCommitteeID": 310
   },
   {
     "Agenda_ID": 27502,
@@ -3871,32 +3923,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 930,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27504,
-    "Meeting_Event_ID": 43531,
-    "File_Nme": "PC 12 19 23 Agenda_2023-12-15_12-59-03",
-    "Meeting_Date": "12/19/2023",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Fire Department Personnel Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1062,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27494,
-    "Meeting_Event_ID": 43522,
-    "File_Nme": "SDHMAB Cancellation Notice_12.19.2023_2023-12-13_16-16-02",
-    "Meeting_Date": "12/19/2023",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
     "subCommitteeID": 0
   }
 ]
