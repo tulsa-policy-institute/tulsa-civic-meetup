@@ -1,5 +1,44 @@
 [
   {
+    "Agenda_ID": 27650,
+    "Meeting_Event_ID": 43672,
+    "File_Nme": "Agenda Feb 08 2024 - TUL_2024-01-29_13-29-02",
+    "Meeting_Date": "02/08/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27650,
+    "Meeting_Event_ID": 43672,
+    "File_Nme": "Agenda Feb 08 2024 - TUL_2024-01-29_13-29-02",
+    "Meeting_Date": "02/08/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 244
+  },
+  {
+    "Agenda_ID": 27651,
+    "Meeting_Event_ID": 43673,
+    "File_Nme": "Agenda - Board of Trustees Meeting - Feb 6 2024_2024-01-29_15-55-02",
+    "Meeting_Date": "02/06/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Gilcrease Museum Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 960,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27577,
     "Meeting_Event_ID": 43600,
     "File_Nme": "Feb 2024 DRC Agenda_2024-01-08_15-57-02",
@@ -37,6 +76,32 @@
     "Return_Message": "",
     "boardID": 875,
     "subCommitteeID": 328
+  },
+  {
+    "Agenda_ID": 27649,
+    "Meeting_Event_ID": 43671,
+    "File_Nme": "Agenda-HPPS-2024-02-01_2024-01-29_13-25-02",
+    "Meeting_Date": "02/01/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27649,
+    "Meeting_Event_ID": 43671,
+    "File_Nme": "Agenda-HPPS-2024-02-01_2024-01-29_13-25-02",
+    "Meeting_Date": "02/01/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
   },
   {
     "Agenda_ID": 27640,
@@ -154,44 +219,5 @@
     "Return_Message": "",
     "boardID": 899,
     "subCommitteeID": 265
-  },
-  {
-    "Agenda_ID": 27639,
-    "Meeting_Event_ID": 43661,
-    "File_Nme": "PC 01 30 24 Agenda_2024-01-25_09-41-01",
-    "Meeting_Date": "01/30/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Fire Department Personnel Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1062,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27647,
-    "Meeting_Event_ID": 43669,
-    "File_Nme": "Full Board Regular Meeting Notice and Agenda 01-30-2024_2024-01-26_15-45-02",
-    "Meeting_Date": "01/30/2024",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27646,
-    "Meeting_Event_ID": 43668,
-    "File_Nme": "Full Board Regular Meeting Notice and Agenda 01-30-2024_2024-01-26_15-40-02",
-    "Meeting_Date": "01/30/2024",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
   }
 ]
