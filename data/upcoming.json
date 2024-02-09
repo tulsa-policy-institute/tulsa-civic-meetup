@@ -89,5 +89,18 @@
     "Return_Message": "",
     "boardID": 882,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27700,
+    "Meeting_Event_ID": 43716,
+    "File_Nme": "AC AGENDA February 2024 _2024-02-08_08-00-02",
+    "Meeting_Date": "02/12/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 882,
+    "subCommitteeID": 0
   }
 ]
