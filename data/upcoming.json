@@ -13,6 +13,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27739,
+    "Meeting_Event_ID": 43751,
+    "File_Nme": "02.22.24 Audit Cancellation Notice2024-02-1910-17-02",
+    "Meeting_Date": "02/22/2024",
+    "Meeting_Time": "11:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Audit Committee of the City of Tulsa (AUDIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 873,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27737,
     "Meeting_Event_ID": 43749,
     "File_Nme": "Agenda-TPC-2024-02-22_2024-02-16_16-17-02",
@@ -232,57 +245,5 @@
     "Return_Message": "",
     "boardID": 860,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27729,
-    "Meeting_Event_ID": 43742,
-    "File_Nme": "February 20 2024 Deferred Compensation Board Regular Meeting Agenda (002)_2024-02-16_10-37-03",
-    "Meeting_Date": "02/20/2024",
-    "Meeting_Time": "2:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Deferred Compensation Board",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 949,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27738,
-    "Meeting_Event_ID": 43750,
-    "File_Nme": "02202024 GTAIAC Agenda_2024-02-16_16-24-02",
-    "Meeting_Date": "02/20/2024",
-    "Meeting_Time": "6:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Greater Tulsa Area Indian Affairs Commission (IAC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 867,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27728,
-    "Meeting_Event_ID": 43741,
-    "File_Nme": "TARE Focus Committee regular meeting notice and agenda 02-20-2024_2024-02-16_08-22-03",
-    "Meeting_Date": "02/20/2024",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27728,
-    "Meeting_Event_ID": 43741,
-    "File_Nme": "TARE Focus Committee regular meeting notice and agenda 02-20-2024_2024-02-16_08-22-03",
-    "Meeting_Date": "02/20/2024",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 327
   }
 ]
