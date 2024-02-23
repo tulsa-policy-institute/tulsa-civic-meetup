@@ -52,6 +52,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27752,
+    "Meeting_Event_ID": 43763,
+    "File_Nme": "2024-2-28 TPC Meeting Cancellation_2024-02-22_07-56-02",
+    "Meeting_Date": "02/28/2024",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Transportation Policy Committee (TPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1007,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27751,
     "Meeting_Event_ID": 43762,
     "File_Nme": "2024-02-27-BOA-Agenda_2024-02-21_12-47-02",
@@ -62,6 +75,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27754,
+    "Meeting_Event_ID": 43765,
+    "File_Nme": "TARE Full Board Regular Notice and Agenda 02-27-2024_2024-02-22_14-02-02",
+    "Meeting_Date": "02/27/2024",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27755,
+    "Meeting_Event_ID": 43766,
+    "File_Nme": "TARE Full Board Regular Notice and Agenda",
+    "Meeting_Date": "02/27/2024",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
     "subCommitteeID": 0
   }
 ]
