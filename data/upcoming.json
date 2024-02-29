@@ -65,6 +65,58 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27782,
+    "Meeting_Event_ID": 43791,
+    "File_Nme": "2024-03-06_2024-02-28_14-05-02",
+    "Meeting_Date": "03/06/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27779,
+    "Meeting_Event_ID": 43788,
+    "File_Nme": "Board Meeting Cancellation - March 5 2024_2024-02-28_09-30-02",
+    "Meeting_Date": "03/05/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Gilcrease Museum Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 960,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27781,
+    "Meeting_Event_ID": 43790,
+    "File_Nme": "TPACT Finance Committee 03.04.24 agenda_2024-02-28_12-35-02",
+    "Meeting_Date": "03/04/2024",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27781,
+    "Meeting_Event_ID": 43790,
+    "File_Nme": "TPACT Finance Committee 03.04.24 agenda_2024-02-28_12-35-02",
+    "Meeting_Date": "03/04/2024",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 274
+  },
+  {
     "Agenda_ID": 27774,
     "Meeting_Event_ID": 43783,
     "File_Nme": "March 1 2024 CTAG Meeting Notice and Agenda (002)_2024-02-27_11-15-02",
@@ -75,6 +127,45 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 947,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27780,
+    "Meeting_Event_ID": 43789,
+    "File_Nme": "Board Governance Agenda March 01 2024_2024-02-28_11-49-01",
+    "Meeting_Date": "03/01/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Board Governance and Nominating Committee (BGNC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27780,
+    "Meeting_Event_ID": 43789,
+    "File_Nme": "Board Governance Agenda March 01 2024_2024-02-28_11-49-01",
+    "Meeting_Date": "03/01/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Board Governance and Nominating Committee (BGNC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 304
+  },
+  {
+    "Agenda_ID": 27783,
+    "Meeting_Event_ID": 43738,
+    "File_Nme": "03012024 TWC Agenda 002_2024-02-28_15-50-02",
+    "Meeting_Date": "03/01/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Women's Commission (TWC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 874,
     "subCommitteeID": 0
   },
   {
@@ -89,57 +180,5 @@
     "Return_Message": "",
     "boardID": 874,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27778,
-    "Meeting_Event_ID": 43787,
-    "File_Nme": "Special Meeting Agenda_2024-02-27_15-12-02",
-    "Meeting_Date": "02/29/2024",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Route 66 Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1080,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27776,
-    "Meeting_Event_ID": 43785,
-    "File_Nme": "SSA Agenda 02-29-2024_2024-02-27_14-51-02",
-    "Meeting_Date": "02/29/2024",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27777,
-    "Meeting_Event_ID": 43786,
-    "File_Nme": "Executive Agenda February 29, 2024_2024-02-27_14-06-02_2024-02-27_14-52-02",
-    "Meeting_Date": "02/29/2024",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Executive Committee ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27777,
-    "Meeting_Event_ID": 43786,
-    "File_Nme": "Executive Agenda February 29, 2024_2024-02-27_14-06-02_2024-02-27_14-52-02",
-    "Meeting_Date": "02/29/2024",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Executive Committee ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 302
   }
 ]
