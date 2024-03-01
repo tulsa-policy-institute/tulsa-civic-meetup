@@ -104,6 +104,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27784,
+    "Meeting_Event_ID": 43792,
+    "File_Nme": "TPACT Full Trust Meeting Agenda_2024-02-29_15-41-02",
+    "Meeting_Date": "03/04/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27781,
     "Meeting_Event_ID": 43790,
     "File_Nme": "TPACT Finance Committee 03.04.24 agenda_2024-02-28_12-35-02",
@@ -115,70 +128,5 @@
     "Return_Message": "",
     "boardID": 895,
     "subCommitteeID": 274
-  },
-  {
-    "Agenda_ID": 27774,
-    "Meeting_Event_ID": 43783,
-    "File_Nme": "March 1 2024 CTAG Meeting Notice and Agenda (002)_2024-02-27_11-15-02",
-    "Meeting_Date": "03/01/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 947,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27780,
-    "Meeting_Event_ID": 43789,
-    "File_Nme": "Board Governance Agenda March 01 2024_2024-02-28_11-49-01",
-    "Meeting_Date": "03/01/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Board Governance and Nominating Committee (BGNC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27780,
-    "Meeting_Event_ID": 43789,
-    "File_Nme": "Board Governance Agenda March 01 2024_2024-02-28_11-49-01",
-    "Meeting_Date": "03/01/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Board Governance and Nominating Committee (BGNC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 304
-  },
-  {
-    "Agenda_ID": 27783,
-    "Meeting_Event_ID": 43738,
-    "File_Nme": "03012024 TWC Agenda 002_2024-02-28_15-50-02",
-    "Meeting_Date": "03/01/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Women's Commission (TWC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 874,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27723,
-    "Meeting_Event_ID": 43738,
-    "File_Nme": "03012024 TWC Notice of Location Change_2024-02-15_12-43-02",
-    "Meeting_Date": "03/01/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Women's Commission (TWC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 874,
-    "subCommitteeID": 0
   }
 ]
