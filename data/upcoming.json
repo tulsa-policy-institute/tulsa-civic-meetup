@@ -284,57 +284,5 @@
     "Return_Message": "",
     "boardID": 877,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27788,
-    "Meeting_Event_ID": 43796,
-    "File_Nme": "TPACT Full Trust Meeting March 4, 2024 Agenda_2024-03-01_13-52-02",
-    "Meeting_Date": "03/04/2024",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27781,
-    "Meeting_Event_ID": 43790,
-    "File_Nme": "TPACT Finance Committee 03.04.24 agenda_2024-02-28_12-35-02",
-    "Meeting_Date": "03/04/2024",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27784,
-    "Meeting_Event_ID": 43792,
-    "File_Nme": "TPACT Full Trust Meeting Agenda_2024-02-29_15-41-02",
-    "Meeting_Date": "03/04/2024",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27781,
-    "Meeting_Event_ID": 43790,
-    "File_Nme": "TPACT Finance Committee 03.04.24 agenda_2024-02-28_12-35-02",
-    "Meeting_Date": "03/04/2024",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Finance Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 274
   }
 ]
