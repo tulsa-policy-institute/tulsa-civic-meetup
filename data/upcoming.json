@@ -13,6 +13,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27802,
+    "Meeting_Event_ID": 43808,
+    "File_Nme": "AC AGENDA March 2024_2024-03-04_16-57-02",
+    "Meeting_Date": "03/11/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 882,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27746,
     "Meeting_Event_ID": 43757,
     "File_Nme": "SP  Board Meeting 3.11.24_2024-02-20_13-30-03",
@@ -39,6 +52,19 @@
     "subCommitteeID": 328
   },
   {
+    "Agenda_ID": 27800,
+    "Meeting_Event_ID": 43806,
+    "File_Nme": "2024-03-08 Tulsas Gathering Place LLC 688_2024-03-04_15-24-02",
+    "Meeting_Date": "03/08/2024",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa's Gathering Place LLC",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 931,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27745,
     "Meeting_Event_ID": 43756,
     "File_Nme": "March 2024 DRC Agenda-Revised_2024-02-20_13-34-03",
@@ -52,9 +78,48 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27798,
+    "Meeting_Event_ID": 43805,
+    "File_Nme": "PPI Cancellation Notice_03.07.2024_2024-03-04_09-23-02",
+    "Meeting_Date": "03/07/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27798,
+    "Meeting_Event_ID": 43805,
+    "File_Nme": "PPI Cancellation Notice_03.07.2024_2024-03-04_09-23-02",
+    "Meeting_Date": "03/07/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 284
+  },
+  {
     "Agenda_ID": 27790,
     "Meeting_Event_ID": 43798,
     "File_Nme": "Agenda-HPPS-2024-03-07_2024-03-01_15-04-01",
+    "Meeting_Date": "03/07/2024",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27799,
+    "Meeting_Event_ID": 43798,
+    "File_Nme": "Agenda-HPPS-2024-03-07 AMENDED_2024-03-04_13-54-02",
     "Meeting_Date": "03/07/2024",
     "Meeting_Time": "11:00AM",
     "Meeting_Type": "Regular",
@@ -78,6 +143,32 @@
     "subCommitteeID": 285
   },
   {
+    "Agenda_ID": 27799,
+    "Meeting_Event_ID": 43798,
+    "File_Nme": "Agenda-HPPS-2024-03-07 AMENDED_2024-03-04_13-54-02",
+    "Meeting_Date": "03/07/2024",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
+    "Agenda_ID": 27789,
+    "Meeting_Event_ID": 43797,
+    "File_Nme": "03062024 AAC Agenda_2024-03-01_14-06-01",
+    "Meeting_Date": "03/06/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": " Asian Affairs Commission (AAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1102,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27768,
     "Meeting_Event_ID": 43779,
     "File_Nme": "3-6-2024 Agenda_2024-02-26_09-46-02",
@@ -91,19 +182,6 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 27789,
-    "Meeting_Event_ID": 43797,
-    "File_Nme": "03062024 AAC Agenda_2024-03-01_14-06-01",
-    "Meeting_Date": "03/06/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Greater Tulsa Area Asian Affairs Commission (AAC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1102,
-    "subCommitteeID": 0
-  },
-  {
     "Agenda_ID": 27787,
     "Meeting_Event_ID": 43795,
     "File_Nme": "March_2024_MCB_AGENDA_2024-03-01_11-49-02",
@@ -114,6 +192,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 979,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27801,
+    "Meeting_Event_ID": 43807,
+    "File_Nme": "03 06 24 PCSSC Agenda_2024-03-04_16-41-02",
+    "Meeting_Date": "03/06/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
     "subCommitteeID": 0
   },
   {
@@ -234,55 +325,16 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 27779,
-    "Meeting_Event_ID": 43788,
-    "File_Nme": "Board Meeting Cancellation - March 5 2024_2024-02-28_09-30-02",
-    "Meeting_Date": "03/05/2024",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Gilcrease Museum Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 960,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27786,
-    "Meeting_Event_ID": 43794,
-    "File_Nme": "3-5-24 MERP Board Meeting Agenda_2024-03-01_10-48-01",
-    "Meeting_Date": "03/05/2024",
+    "Agenda_ID": 27797,
+    "Meeting_Event_ID": 43791,
+    "File_Nme": "2024-03-06 Amended_2024-03-04_08-58-02",
+    "Meeting_Date": "03/06/2024",
     "Meeting_Time": "1:00PM",
     "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27786,
-    "Meeting_Event_ID": 43794,
-    "File_Nme": "3-5-24 MERP Board Meeting Agenda_2024-03-01_10-48-01",
-    "Meeting_Date": "03/05/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
-  },
-  {
-    "Agenda_ID": 27785,
-    "Meeting_Event_ID": 43793,
-    "File_Nme": "PB Agenda 03-05-2024_2024-03-01_10-47-02",
-    "Meeting_Date": "03/05/2024",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Parks and Recreation Board (PRB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 877,
+    "boardID": 892,
     "subCommitteeID": 0
   }
 ]
