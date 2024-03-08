@@ -26,6 +26,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27811,
+    "Meeting_Event_ID": 43817,
+    "File_Nme": "Regular Meeting Agenda CSC 3-14-24_2024-03-07_12-06-02",
+    "Meeting_Date": "03/14/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27805,
     "Meeting_Event_ID": 43811,
     "File_Nme": "2024-03-12-BOA-Agenda_2024-03-06_10-47-02",
@@ -76,6 +89,32 @@
     "Return_Message": "",
     "boardID": 980,
     "subCommitteeID": 244
+  },
+  {
+    "Agenda_ID": 27810,
+    "Meeting_Event_ID": 43816,
+    "File_Nme": "March2024AGENDABoard of Commissioners 1_2024-03-07_10-37-02",
+    "Meeting_Date": "03/14/2024",
+    "Meeting_Time": "10:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Housing Authority (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27810,
+    "Meeting_Event_ID": 43816,
+    "File_Nme": "March2024AGENDABoard of Commissioners 1_2024-03-07_10-37-02",
+    "Meeting_Date": "03/14/2024",
+    "Meeting_Time": "10:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Housing Authority (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
   },
   {
     "Agenda_ID": 27806,
@@ -89,6 +128,58 @@
     "Return_Message": "",
     "boardID": 858,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27813,
+    "Meeting_Event_ID": 43819,
+    "File_Nme": "INCOG Executive Committee Special Meeting_2024-03-07_14-51-02",
+    "Meeting_Date": "03/12/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27812,
+    "Meeting_Event_ID": 43818,
+    "File_Nme": "INCOG Board of Directors_2024-03-07_14-23-02",
+    "Meeting_Date": "03/12/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27813,
+    "Meeting_Event_ID": 43819,
+    "File_Nme": "INCOG Executive Committee Special Meeting_2024-03-07_14-51-02",
+    "Meeting_Date": "03/12/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 311
+  },
+  {
+    "Agenda_ID": 27812,
+    "Meeting_Event_ID": 43818,
+    "File_Nme": "INCOG Board of Directors_2024-03-07_14-23-02",
+    "Meeting_Date": "03/12/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 311
   },
   {
     "Agenda_ID": 27808,
@@ -141,31 +232,5 @@
     "Return_Message": "",
     "boardID": 875,
     "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 27803,
-    "Meeting_Event_ID": 43809,
-    "File_Nme": "2024-03-08 Tulsas Gathering Place LLC _2024-03-05_08-18-02",
-    "Meeting_Date": "03/08/2024",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa's Gathering Place LLC",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 931,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27800,
-    "Meeting_Event_ID": 43806,
-    "File_Nme": "2024-03-08 Tulsas Gathering Place LLC 688_2024-03-04_15-24-02",
-    "Meeting_Date": "03/08/2024",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa's Gathering Place LLC",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 931,
-    "subCommitteeID": 0
   }
 ]
