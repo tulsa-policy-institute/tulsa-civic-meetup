@@ -65,6 +65,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27862,
+    "Meeting_Event_ID": 43864,
+    "File_Nme": "Agenda-HPPS-2024-03-21_2024-03-15_14-14-03",
+    "Meeting_Date": "03/21/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27862,
+    "Meeting_Event_ID": 43864,
+    "File_Nme": "Agenda-HPPS-2024-03-21_2024-03-15_14-14-03",
+    "Meeting_Date": "03/21/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
     "Agenda_ID": 27844,
     "Meeting_Event_ID": 43846,
     "File_Nme": "CITY PA NOTICE MTG TIME CHANGE - MARCH 2024_2024-03-11_15-36-03",
@@ -75,6 +101,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27861,
+    "Meeting_Event_ID": 43863,
+    "File_Nme": "March 2024 PMB meeting agenda_2024-03-15_08-29-02",
+    "Meeting_Date": "03/20/2024",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Prisoner Medical Billing Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1036,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27863,
+    "Meeting_Event_ID": 43865,
+    "File_Nme": "March 20 2024 TTC Agenda_2024-03-15_14-41-02",
+    "Meeting_Date": "03/20/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Transportation Technical Committee (TTC) - (INCOG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1008,
     "subCommitteeID": 0
   },
   {
@@ -117,9 +169,35 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27864,
+    "Meeting_Event_ID": 43866,
+    "File_Nme": "Focus Committee Meeting03-19-2024_2024-03-15_15-36-01",
+    "Meeting_Date": "03/19/2024",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27859,
     "Meeting_Event_ID": 43861,
     "File_Nme": "TARE  Focus Committee Regular Meeting Notice and Agenda for 03-19-2024_2024-03-14_16-52-03",
+    "Meeting_Date": "03/19/2024",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 327
+  },
+  {
+    "Agenda_ID": 27864,
+    "Meeting_Event_ID": 43866,
+    "File_Nme": "Focus Committee Meeting03-19-2024_2024-03-15_15-36-01",
     "Meeting_Date": "03/19/2024",
     "Meeting_Time": "2:30PM",
     "Meeting_Type": "Regular",
