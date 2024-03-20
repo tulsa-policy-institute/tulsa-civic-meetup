@@ -91,6 +91,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27878,
+    "Meeting_Event_ID": 43878,
+    "File_Nme": "SSA Agenda 03-21-2024_2024-03-19_15-30-02",
+    "Meeting_Date": "03/21/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27775,
     "Meeting_Event_ID": 43784,
     "File_Nme": "Notice Library Commission - March 2024_2024-02-27_14-40-02",
@@ -179,97 +192,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 860,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27868,
-    "Meeting_Event_ID": 43869,
-    "File_Nme": "March 20 2024 TTC Agenda - Addendum_2024-03-18_11-31-01",
-    "Meeting_Date": "03/20/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Technical Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27868,
-    "Meeting_Event_ID": 43869,
-    "File_Nme": "March 20 2024 TTC Agenda - Addendum_2024-03-18_11-31-01",
-    "Meeting_Date": "03/20/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Technical Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 255
-  },
-  {
-    "Agenda_ID": 27861,
-    "Meeting_Event_ID": 43863,
-    "File_Nme": "March 2024 PMB meeting agenda_2024-03-15_08-29-02",
-    "Meeting_Date": "03/20/2024",
-    "Meeting_Time": "2:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Prisoner Medical Billing Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1036,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27873,
-    "Meeting_Event_ID": 43874,
-    "File_Nme": "03 20 24 PCSSC Agenda_2024-03-18_15-02-01",
-    "Meeting_Date": "03/20/2024",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Professional Consulting Services Selection Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 990,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27863,
-    "Meeting_Event_ID": 43865,
-    "File_Nme": "March 20 2024 TTC Agenda_2024-03-15_14-41-02",
-    "Meeting_Date": "03/20/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Transportation Technical Committee (TTC) - (INCOG)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1008,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27858,
-    "Meeting_Event_ID": 43860,
-    "File_Nme": "03.20.24 March Tri-County Council on Aging Regular Meeting_2024-03-14_12-00-02",
-    "Meeting_Date": "03/20/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tri-County Council on Aging ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1009,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27857,
-    "Meeting_Event_ID": 43859,
-    "File_Nme": "2024-03-20_2024-03-14_08-07-02",
-    "Meeting_Date": "03/20/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 892,
     "subCommitteeID": 0
   }
 ]
