@@ -63,5 +63,18 @@
     "Return_Message": "",
     "boardID": 858,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27880,
+    "Meeting_Event_ID": 43880,
+    "File_Nme": "Full Board Regular Meeting Notice and Agenda 03-26-2024_2024-03-21_14-35-02",
+    "Meeting_Date": "03/26/2024",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 885,
+    "subCommitteeID": 0
   }
 ]
