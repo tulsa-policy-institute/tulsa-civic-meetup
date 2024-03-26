@@ -52,6 +52,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27897,
+    "Meeting_Event_ID": 43897,
+    "File_Nme": "03.28.24 Audit Cancellation Notice_2024-03-25_09-29-01",
+    "Meeting_Date": "03/28/2024",
+    "Meeting_Time": "11:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Audit Committee of the City of Tulsa (AUDIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 873,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27891,
     "Meeting_Event_ID": 43891,
     "File_Nme": "Agenda-TPC-2024-03-28_2024-03-22_14-33-01",
@@ -63,6 +76,32 @@
     "Return_Message": "",
     "boardID": 878,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27898,
+    "Meeting_Event_ID": 43898,
+    "File_Nme": "EMSA_2024-03-25_15-02-01",
+    "Meeting_Date": "03/27/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Emergency Medical Services Authority (EMSA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 864,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27898,
+    "Meeting_Event_ID": 43898,
+    "File_Nme": "EMSA_2024-03-25_15-02-01",
+    "Meeting_Date": "03/27/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Emergency Medical Services Authority (EMSA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 864,
+    "subCommitteeID": 310
   },
   {
     "Agenda_ID": 27885,
@@ -270,97 +309,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 930,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27879,
-    "Meeting_Event_ID": 43879,
-    "File_Nme": "2024-03-26-BOA-Agenda_2024-03-20_12-41-01",
-    "Meeting_Date": "03/26/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27888,
-    "Meeting_Event_ID": 43888,
-    "File_Nme": "Agenda LDARC 03-26-2024_2024-03-22_11-23-02",
-    "Meeting_Date": "03/26/2024",
-    "Meeting_Time": "3:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Local Development Act Review Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 973,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27889,
-    "Meeting_Event_ID": 43889,
-    "File_Nme": "MTTA Board Meeting Agenda 3.26.24_2024-03-22_13-45-01",
-    "Meeting_Date": "03/26/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27889,
-    "Meeting_Event_ID": 43889,
-    "File_Nme": "MTTA Board Meeting Agenda 3.26.24_2024-03-22_13-45-01",
-    "Meeting_Date": "03/26/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 27881,
-    "Meeting_Event_ID": 43881,
-    "File_Nme": "Agenda 03-26-24_2024-03-22_08-17-01",
-    "Meeting_Date": "03/26/2024",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Sales Tax Overview Committee (STOC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 880,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27880,
-    "Meeting_Event_ID": 43880,
-    "File_Nme": "Full Board Regular Meeting Notice and Agenda 03-26-2024_2024-03-21_14-35-02",
-    "Meeting_Date": "03/26/2024",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27887,
-    "Meeting_Event_ID": 43887,
-    "File_Nme": "Full Board Regular Meeting Notice and Agenda 03-26-2024(2)_2024-03-22_10-45-01",
-    "Meeting_Date": "03/26/2024",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
     "subCommitteeID": 0
   }
 ]
