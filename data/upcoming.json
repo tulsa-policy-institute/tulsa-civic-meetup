@@ -39,9 +39,61 @@
     "subCommitteeID": 335
   },
   {
+    "Agenda_ID": 27924,
+    "Meeting_Event_ID": 43923,
+    "File_Nme": "AC AGENDA April 2024_2024-04-01_14-47-01",
+    "Meeting_Date": "04/08/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 882,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27917,
+    "Meeting_Event_ID": 43917,
+    "File_Nme": "April 5 2024 CTAG Meeting Notice and Agenda_2024-04-01_11-12-01",
+    "Meeting_Date": "04/05/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 947,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27809,
     "Meeting_Event_ID": 43815,
     "File_Nme": "04052024 TWC Notice of Location Change_2024-03-06_14-00-02",
+    "Meeting_Date": "04/05/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Women's Commission (TWC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27920,
+    "Meeting_Event_ID": 43920,
+    "File_Nme": "04052024 TWC Agenda_2024-04-01_14-19-01",
+    "Meeting_Date": "04/05/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Women's Commission (TWC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27921,
+    "Meeting_Event_ID": 43921,
+    "File_Nme": "04052024 TWC Agenda_2024-04-01_14-27-01",
     "Meeting_Date": "04/05/2024",
     "Meeting_Time": "12:00PM",
     "Meeting_Type": "Regular",
@@ -91,6 +143,58 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27915,
+    "Meeting_Event_ID": 43915,
+    "File_Nme": "Agenda-HPPS-2024-04-04_2024-04-01_09-39-01",
+    "Meeting_Date": "04/04/2024",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27915,
+    "Meeting_Event_ID": 43915,
+    "File_Nme": "Agenda-HPPS-2024-04-04_2024-04-01_09-39-01",
+    "Meeting_Date": "04/04/2024",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
+    "Agenda_ID": 27923,
+    "Meeting_Event_ID": 43922,
+    "File_Nme": "2024-04-04 Tulsa Stadium Trust - Regular Meeting Agenda(1187008.1)_2024-04-01_14-36-01",
+    "Meeting_Date": "04/04/2024",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 897,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 27922,
+    "Meeting_Event_ID": 43922,
+    "File_Nme": "2024-04-04 Tulsa Stadium Trust - Regular Meeting Notice(1187009.1)_2024-04-01_14-36-01",
+    "Meeting_Date": "04/04/2024",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Stadium Trust (TST)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 897,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27912,
     "Meeting_Event_ID": 43912,
     "File_Nme": "4-3-2024 Agenda_2024-03-28_13-36-01",
@@ -104,6 +208,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 27919,
+    "Meeting_Event_ID": 43919,
+    "File_Nme": "04 03 24 PCSSC Agenda_2024-04-01_13-20-02",
+    "Meeting_Date": "04/03/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27908,
     "Meeting_Event_ID": 43908,
     "File_Nme": "2024-04-03_2024-03-27_10-00-02",
@@ -114,32 +231,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 892,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27909,
-    "Meeting_Event_ID": 43909,
-    "File_Nme": "Agenda - Board of Trustees Meeting - April 2 2024_2024-03-28_09-02-01",
-    "Meeting_Date": "04/02/2024",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Gilcrease Museum Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 960,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27913,
-    "Meeting_Event_ID": 43913,
-    "File_Nme": "PB Agenda 04-02-2024_2024-03-28_14-57-01",
-    "Meeting_Date": "04/02/2024",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Parks and Recreation Board (PRB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 877,
     "subCommitteeID": 0
   }
 ]
