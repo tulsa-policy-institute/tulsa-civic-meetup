@@ -13,6 +13,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28027,
+    "Meeting_Event_ID": 44022,
+    "File_Nme": "05212024 GTAIAC Notice of Location Change_2024-04-25_16-08-01",
+    "Meeting_Date": "05/21/2024",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Greater Tulsa Area Indian Affairs Commission (IAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 867,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28005,
     "Meeting_Event_ID": 44001,
     "File_Nme": "05092024 GTAHLAC Notice of Location Change_2024-04-17_13-59-02",
