@@ -39,6 +39,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28050,
+    "Meeting_Event_ID": 44045,
+    "File_Nme": "Regular Meeting Agenda CSC 5-9-24_2024-05-01_16-41-01",
+    "Meeting_Date": "05/09/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28005,
     "Meeting_Event_ID": 44001,
     "File_Nme": "05092024 GTAHLAC Notice of Location Change_2024-04-17_13-59-02",
@@ -62,6 +75,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 872,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28047,
+    "Meeting_Event_ID": 44042,
+    "File_Nme": "Agenda May 9, 2024 TUL_2024-05-01_13-36-01",
+    "Meeting_Date": "05/09/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
     "subCommitteeID": 0
   },
   {
@@ -143,6 +169,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28049,
+    "Meeting_Event_ID": 44044,
+    "File_Nme": "2024 05 03 Special Specification Mtg Agenda_2024-05-01_14-36-01",
+    "Meeting_Date": "05/03/2024",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Specification Review Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1002,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28048,
+    "Meeting_Event_ID": 44043,
+    "File_Nme": "2024 05 03 Special Specification Mtg Agenda_2024-05-01_14-05-01",
+    "Meeting_Date": "05/03/2024",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Specification Review Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1002,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 27997,
     "Meeting_Event_ID": 43994,
     "File_Nme": "05032024 TWC Notice of Location Change_2024-04-15_11-49-01",
@@ -167,83 +219,5 @@
     "Return_Message": "",
     "boardID": 874,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 27957,
-    "Meeting_Event_ID": 43956,
-    "File_Nme": "May 2024 DRC Agenda_2024-04-08_08-50-01",
-    "Meeting_Date": "05/02/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Disability Review Committee (DRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 950,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28045,
-    "Meeting_Event_ID": 44040,
-    "File_Nme": "SSA Agenda 05-02-2024(1)_2024-04-30_13-30-01",
-    "Meeting_Date": "05/02/2024",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28037,
-    "Meeting_Event_ID": 44032,
-    "File_Nme": "PPI_Agenda_5022024_2024-04-29_11-44-01",
-    "Meeting_Date": "05/02/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28037,
-    "Meeting_Event_ID": 44032,
-    "File_Nme": "PPI_Agenda_5022024_2024-04-29_11-44-01",
-    "Meeting_Date": "05/02/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 284
-  },
-  {
-    "Agenda_ID": 28038,
-    "Meeting_Event_ID": 44033,
-    "File_Nme": "Agenda-HPPS-2024-05-02-CANCELED_2024-04-29_11-44-01",
-    "Meeting_Date": "05/02/2024",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28038,
-    "Meeting_Event_ID": 44033,
-    "File_Nme": "Agenda-HPPS-2024-05-02-CANCELED_2024-04-29_11-44-01",
-    "Meeting_Date": "05/02/2024",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 285
   }
 ]
