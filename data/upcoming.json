@@ -39,6 +39,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28105,
+    "Meeting_Event_ID": 44098,
+    "File_Nme": "May 16, 2024 TAEMA - LEPC Meeting_2024-05-13_15-25-02",
+    "Meeting_Date": "05/16/2024",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Local Emergency Planning Committee (LEPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1082,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28086,
     "Meeting_Event_ID": 44079,
     "File_Nme": "NOTICE OF CANCELLATION_051624_2024-05-09_12-32-01",
@@ -65,6 +78,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28101,
+    "Meeting_Event_ID": 44094,
+    "File_Nme": "Agenda-HPPS-2024-05-16_2024-05-13_09-00-01",
+    "Meeting_Date": "05/16/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28101,
+    "Meeting_Event_ID": 44094,
+    "File_Nme": "Agenda-HPPS-2024-05-16_2024-05-13_09-00-01",
+    "Meeting_Date": "05/16/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
+    "Agenda_ID": 28104,
+    "Meeting_Event_ID": 44097,
+    "File_Nme": "PORT MTG NOTICE-AGENDA MAY 2024_2024-05-13_14-02-01",
+    "Meeting_Date": "05/16/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa-Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28089,
     "Meeting_Event_ID": 44082,
     "File_Nme": "May 2024 PMB Regular meeting agenda_2024-05-10_08-01-01",
@@ -75,6 +127,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 1036,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28100,
+    "Meeting_Event_ID": 44093,
+    "File_Nme": "May 15 2024 TTC Amended Agenda_2024-05-13_09-29-02",
+    "Meeting_Date": "05/15/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Transportation Technical Committee (TTC) - (INCOG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1008,
     "subCommitteeID": 0
   },
   {
@@ -169,6 +234,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28103,
+    "Meeting_Event_ID": 44096,
+    "File_Nme": "2024-05-15 5PM Addendum_2024-05-13_15-25-01",
+    "Meeting_Date": "05/15/2024",
+    "Meeting_Time": "5:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28095,
     "Meeting_Event_ID": 44088,
     "File_Nme": "2024-05-15 BUD SP_2024-05-10_15-49-01",
@@ -221,55 +299,16 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 28082,
-    "Meeting_Event_ID": 44076,
-    "File_Nme": "2024-05-14-BOA-Agenda_2024-05-08_11-32-01",
-    "Meeting_Date": "05/14/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
+    "Agenda_ID": 28102,
+    "Meeting_Event_ID": 44095,
+    "File_Nme": "Agenda-Preservation Awards-TPC-2024_2024-05-13_12-22-02",
+    "Meeting_Date": "05/15/2024",
+    "Meeting_Time": "5:30PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Preservation Commission",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28070,
-    "Meeting_Event_ID": 44064,
-    "File_Nme": "INCOG Board of Directors Cancellation_2024-05-06_15-35-01",
-    "Meeting_Date": "05/14/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28070,
-    "Meeting_Event_ID": 44064,
-    "File_Nme": "INCOG Board of Directors Cancellation_2024-05-06_15-35-01",
-    "Meeting_Date": "05/14/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 311
-  },
-  {
-    "Agenda_ID": 28092,
-    "Meeting_Event_ID": 44085,
-    "File_Nme": "5-14-24 Agenda_2024-05-10_14-53-01",
-    "Meeting_Date": "05/14/2024",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Route 66 Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1080,
+    "boardID": 878,
     "subCommitteeID": 0
   }
 ]
