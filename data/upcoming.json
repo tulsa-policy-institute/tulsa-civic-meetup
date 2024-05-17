@@ -37,18 +37,5 @@
     "Return_Message": "",
     "boardID": 867,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28108,
-    "Meeting_Event_ID": 44101,
-    "File_Nme": "May 17, 2024 CTAG Meeting Notice and Agenda_2024-05-14_15-00-02",
-    "Meeting_Date": "05/17/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 947,
-    "subCommitteeID": 0
   }
 ]
