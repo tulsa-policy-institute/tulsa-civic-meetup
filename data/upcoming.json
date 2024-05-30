@@ -1,5 +1,44 @@
 [
   {
+    "Agenda_ID": 28156,
+    "Meeting_Event_ID": 44149,
+    "File_Nme": "06262024  Notice of Location Change Operations Committee 2_2024-05-29_14-47-01",
+    "Meeting_Date": "06/26/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Operations Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28157,
+    "Meeting_Event_ID": 44150,
+    "File_Nme": "06262024 Notice of Location change FR 2_2024-05-29_14-47-02",
+    "Meeting_Date": "06/26/2024",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28158,
+    "Meeting_Event_ID": 44151,
+    "File_Nme": "06262026 Notice of Location Change TMUA  2_2024-05-29_14-48-01",
+    "Meeting_Date": "06/26/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28146,
     "Meeting_Event_ID": 44139,
     "File_Nme": "06262024   Notice of Location change FR_2024-05-23_11-17-02",
@@ -39,6 +78,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28157,
+    "Meeting_Event_ID": 44150,
+    "File_Nme": "06262024 Notice of Location change FR 2_2024-05-29_14-47-02",
+    "Meeting_Date": "06/26/2024",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 271
+  },
+  {
     "Agenda_ID": 28146,
     "Meeting_Event_ID": 44139,
     "File_Nme": "06262024   Notice of Location change FR_2024-05-23_11-17-02",
@@ -50,6 +102,19 @@
     "Return_Message": "",
     "boardID": 893,
     "subCommitteeID": 271
+  },
+  {
+    "Agenda_ID": 28156,
+    "Meeting_Event_ID": 44149,
+    "File_Nme": "06262024  Notice of Location Change Operations Committee 2_2024-05-29_14-47-01",
+    "Meeting_Date": "06/26/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Operations Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 272
   },
   {
     "Agenda_ID": 28147,
@@ -65,6 +130,19 @@
     "subCommitteeID": 272
   },
   {
+    "Agenda_ID": 28159,
+    "Meeting_Event_ID": 44152,
+    "File_Nme": "06262026 Notice of Location Change TUB  2_2024-05-29_14-48-01",
+    "Meeting_Date": "06/26/2024",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Utility Board (TUB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 930,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28149,
     "Meeting_Event_ID": 44142,
     "File_Nme": "06262024  Notice of Location Change TUB_2024-05-23_11-17-03",
@@ -75,6 +153,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 930,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28154,
+    "Meeting_Event_ID": 44147,
+    "File_Nme": "Notice of Regular Library Commission Meeting - June 2024_2024-05-28_15-20-02",
+    "Meeting_Date": "06/20/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City-County Library Commission (TCCLC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 887,
     "subCommitteeID": 0
   },
   {
@@ -117,42 +208,16 @@
     "subCommitteeID": 266
   },
   {
-    "Agenda_ID": 28153,
-    "Meeting_Event_ID": 44146,
-    "File_Nme": "May 29 2024 TPC Meeting Notice and Agenda_2024-05-24_10-20-01",
-    "Meeting_Date": "05/29/2024",
-    "Meeting_Time": "10:30AM",
+    "Agenda_ID": 28161,
+    "Meeting_Event_ID": 44154,
+    "File_Nme": "2024-06-05_2024-05-29_16-50-01",
+    "Meeting_Date": "06/05/2024",
+    "Meeting_Time": "1:00PM",
     "Meeting_Type": "Regular",
-    "Board_Name": "Transportation Policy Committee (TPC)",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 1007,
+    "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28139,
-    "Meeting_Event_ID": 44132,
-    "File_Nme": "TPACT Board Governance Agenda May 29, 2024_2024-05-22_10-14-01",
-    "Meeting_Date": "05/29/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Board Governance and Nominating Committee (BGNC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28139,
-    "Meeting_Event_ID": 44132,
-    "File_Nme": "TPACT Board Governance Agenda May 29, 2024_2024-05-22_10-14-01",
-    "Meeting_Date": "05/29/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Board Governance and Nominating Committee (BGNC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 304
   }
 ]
