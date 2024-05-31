@@ -169,6 +169,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28164,
+    "Meeting_Event_ID": 44157,
+    "File_Nme": "June HUD CDC Meeting_2024-05-30_16-19-01",
+    "Meeting_Date": "06/13/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Community Development Committee (HUD)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 868,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28055,
     "Meeting_Event_ID": 44050,
     "File_Nme": "June 2024 DRC Agenda_2024-05-03_08-18-01",
@@ -218,6 +231,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28163,
+    "Meeting_Event_ID": 44156,
+    "File_Nme": "Board Meeting Cancellation - June 4 2024_2024-05-30_14-39-01",
+    "Meeting_Date": "06/04/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Gilcrease Museum Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 960,
     "subCommitteeID": 0
   }
 ]
