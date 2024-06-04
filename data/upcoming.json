@@ -182,6 +182,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28177,
+    "Meeting_Event_ID": 44170,
+    "File_Nme": "TAEO_Notice of Special Meeting 06.07.24_2024-06-03_13-01-01",
+    "Meeting_Date": "06/07/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 891,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28171,
     "Meeting_Event_ID": 44164,
     "File_Nme": "2024-06-07 Tulsas Gathering Place LLC - Cancellation Notice 1198053.2_2024-05-31_16-23-01",
@@ -234,6 +247,32 @@
     "subCommitteeID": 311
   },
   {
+    "Agenda_ID": 28178,
+    "Meeting_Event_ID": 44171,
+    "File_Nme": "PPI_Agenda_06062024_2024-06-03_14-08-01",
+    "Meeting_Date": "06/06/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28178,
+    "Meeting_Event_ID": 44171,
+    "File_Nme": "PPI_Agenda_06062024_2024-06-03_14-08-01",
+    "Meeting_Date": "06/06/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 284
+  },
+  {
     "Agenda_ID": 28167,
     "Meeting_Event_ID": 44160,
     "File_Nme": "6-5-2024 Cancellation_2024-05-31_10-36-01",
@@ -244,6 +283,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 948,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28179,
+    "Meeting_Event_ID": 44172,
+    "File_Nme": "06 05 24 PCSSC Agenda_2024-06-03_15-11-01",
+    "Meeting_Date": "06/05/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
     "subCommitteeID": 0
   },
   {
@@ -387,97 +439,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 892,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28169,
-    "Meeting_Event_ID": 44162,
-    "File_Nme": "06042024 AAC Agenda_2024-05-31_14-56-01",
-    "Meeting_Date": "06/04/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Asian Affairs Commission (AAC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1102,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28163,
-    "Meeting_Event_ID": 44156,
-    "File_Nme": "Board Meeting Cancellation - June 4 2024_2024-05-30_14-39-01",
-    "Meeting_Date": "06/04/2024",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Gilcrease Museum Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 960,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28166,
-    "Meeting_Event_ID": 44159,
-    "File_Nme": "6-4-24 MERP Board Meeting Agenda_2024-05-31_10-29-01",
-    "Meeting_Date": "06/04/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28168,
-    "Meeting_Event_ID": 44161,
-    "File_Nme": "6-4-24 MERP Board Meeting Amended Agenda_2024-05-31_13-13-01",
-    "Meeting_Date": "06/04/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28166,
-    "Meeting_Event_ID": 44159,
-    "File_Nme": "6-4-24 MERP Board Meeting Agenda_2024-05-31_10-29-01",
-    "Meeting_Date": "06/04/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
-  },
-  {
-    "Agenda_ID": 28168,
-    "Meeting_Event_ID": 44161,
-    "File_Nme": "6-4-24 MERP Board Meeting Amended Agenda_2024-05-31_13-13-01",
-    "Meeting_Date": "06/04/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
-  },
-  {
-    "Agenda_ID": 28170,
-    "Meeting_Event_ID": 44163,
-    "File_Nme": "PRB Cancellation Notice_06.04.2024_2024-05-31_15-59-01",
-    "Meeting_Date": "06/04/2024",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Parks and Recreation Board (PRB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 877,
     "subCommitteeID": 0
   }
 ]
