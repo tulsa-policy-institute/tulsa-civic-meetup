@@ -1,5 +1,18 @@
 [
   {
+    "Agenda_ID": 28193,
+    "Meeting_Event_ID": 44186,
+    "File_Nme": "2024-6-26 TPC Meeting Cancellation_2024-06-05_13-58-02",
+    "Meeting_Date": "06/26/2024",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Transportation Policy Committee (TPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1007,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28156,
     "Meeting_Event_ID": 44149,
     "File_Nme": "06262024  Notice of Location Change Operations Committee 2_2024-05-29_14-47-01",
@@ -169,6 +182,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28192,
+    "Meeting_Event_ID": 44185,
+    "File_Nme": "2024-06-19 TTC Meeting Cancellation Notice_2024-06-05_13-58-02",
+    "Meeting_Date": "06/19/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Transportation Technical Committee (TTC) - (INCOG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1008,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28164,
     "Meeting_Event_ID": 44157,
     "File_Nme": "June HUD CDC Meeting_2024-05-30_16-19-01",
@@ -221,6 +247,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28191,
+    "Meeting_Event_ID": 44184,
+    "File_Nme": "AWC June 2024 agenda_2024-06-05_10-26-01",
+    "Meeting_Date": "06/10/2024",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Animal Welfare Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1095,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28182,
     "Meeting_Event_ID": 44175,
     "File_Nme": "June 7, 2024 CTAG Meeting Notice and Agenda_2024-06-04_10-44-01",
@@ -270,123 +309,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 931,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28189,
-    "Meeting_Event_ID": 44182,
-    "File_Nme": "June 6 2024 Deferred Compensation Regular Board Meeting - Canceled_2024-06-04_16-06-01",
-    "Meeting_Date": "06/06/2024",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Deferred Compensation Board",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 949,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28055,
-    "Meeting_Event_ID": 44050,
-    "File_Nme": "June 2024 DRC Agenda_2024-05-03_08-18-01",
-    "Meeting_Date": "06/06/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Disability Review Committee (DRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 950,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28165,
-    "Meeting_Event_ID": 44158,
-    "File_Nme": "INCOG Executive Committee Special Meeting Notice and Agenda - June 6 2024_2024-05-31_09-21-01",
-    "Meeting_Date": "06/06/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28165,
-    "Meeting_Event_ID": 44158,
-    "File_Nme": "INCOG Executive Committee Special Meeting Notice and Agenda - June 6 2024_2024-05-31_09-21-01",
-    "Meeting_Date": "06/06/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Indian Nation Council of Governments (INCOG) - Board of Directors",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 871,
-    "subCommitteeID": 311
-  },
-  {
-    "Agenda_ID": 28187,
-    "Meeting_Event_ID": 44180,
-    "File_Nme": "SSA Agenda 06-06-2024_2024-06-04_15-27-02",
-    "Meeting_Date": "06/06/2024",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28178,
-    "Meeting_Event_ID": 44171,
-    "File_Nme": "PPI_Agenda_06062024_2024-06-03_14-08-01",
-    "Meeting_Date": "06/06/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28178,
-    "Meeting_Event_ID": 44171,
-    "File_Nme": "PPI_Agenda_06062024_2024-06-03_14-08-01",
-    "Meeting_Date": "06/06/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 284
-  },
-  {
-    "Agenda_ID": 28185,
-    "Meeting_Event_ID": 44178,
-    "File_Nme": "2024-06-06 Tulsa Stadium Trust - Regular Meeting Agenda(1187875.3)_2024-06-04_14-57-02",
-    "Meeting_Date": "06/06/2024",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Stadium Trust (TST)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 897,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28186,
-    "Meeting_Event_ID": 44179,
-    "File_Nme": "2024-06-06 Tulsa Stadium Trust - Regular Meeting Notice(1187877.2)_2024-06-04_14-57-02",
-    "Meeting_Date": "06/06/2024",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Stadium Trust (TST)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 897,
     "subCommitteeID": 0
   }
 ]
