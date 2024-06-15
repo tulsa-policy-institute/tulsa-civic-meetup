@@ -247,6 +247,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28237,
+    "Meeting_Event_ID": 44228,
+    "File_Nme": "06182024 GTAIAC Agenda_2024-06-14_15-40-01",
+    "Meeting_Date": "06/18/2024",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Greater Tulsa Area Indian Affairs Commission (IAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 867,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28234,
+    "Meeting_Event_ID": 44225,
+    "File_Nme": "SDHMAB Agenda 06182024_2024-06-14_08-41-02",
+    "Meeting_Date": "06/18/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28236,
+    "Meeting_Event_ID": 44227,
+    "File_Nme": "SDHMAB Amended Agenda 06182024 3_2024-06-14_14-40-01",
+    "Meeting_Date": "06/18/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28225,
     "Meeting_Event_ID": 44216,
     "File_Nme": "TAEO_Notice of Special Meeting 06.18.24_2024-06-11_10-32-01",
@@ -283,6 +322,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 891,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28235,
+    "Meeting_Event_ID": 44226,
+    "File_Nme": "06172024 HRC Agenda_2024-06-14_13-11-02",
+    "Meeting_Date": "06/17/2024",
+    "Meeting_Time": "4:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Human Rights Commission (HRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 870,
     "subCommitteeID": 0
   }
 ]
