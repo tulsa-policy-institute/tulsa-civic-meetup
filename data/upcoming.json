@@ -221,6 +221,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28240,
+    "Meeting_Event_ID": 44231,
+    "File_Nme": "NOTICE-AGENDA_062024_2024-06-17_14-15-01",
+    "Meeting_Date": "06/20/2024",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "River Parks Authority (RPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 879,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28154,
     "Meeting_Event_ID": 44147,
     "File_Nme": "Notice of Regular Library Commission Meeting - June 2024_2024-05-28_15-20-02",
@@ -234,6 +247,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28238,
+    "Meeting_Event_ID": 44229,
+    "File_Nme": "Agenda-HPPS-2024-06-20_2024-06-17_08-29-02",
+    "Meeting_Date": "06/20/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28238,
+    "Meeting_Event_ID": 44229,
+    "File_Nme": "Agenda-HPPS-2024-06-20_2024-06-17_08-29-02",
+    "Meeting_Date": "06/20/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
+    "Agenda_ID": 28241,
+    "Meeting_Event_ID": 44232,
+    "File_Nme": "PORT MTG NOTICE-AGENDA JUNE 2024_2024-06-17_15-12-02",
+    "Meeting_Date": "06/20/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa-Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28192,
     "Meeting_Event_ID": 44185,
     "File_Nme": "2024-06-19 TTC Meeting Cancellation Notice_2024-06-05_13-58-02",
@@ -244,84 +296,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 1008,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28237,
-    "Meeting_Event_ID": 44228,
-    "File_Nme": "06182024 GTAIAC Agenda_2024-06-14_15-40-01",
-    "Meeting_Date": "06/18/2024",
-    "Meeting_Time": "6:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Greater Tulsa Area Indian Affairs Commission (IAC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 867,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28234,
-    "Meeting_Event_ID": 44225,
-    "File_Nme": "SDHMAB Agenda 06182024_2024-06-14_08-41-02",
-    "Meeting_Date": "06/18/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28236,
-    "Meeting_Event_ID": 44227,
-    "File_Nme": "SDHMAB Amended Agenda 06182024 3_2024-06-14_14-40-01",
-    "Meeting_Date": "06/18/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28225,
-    "Meeting_Event_ID": 44216,
-    "File_Nme": "TAEO_Notice of Special Meeting 06.18.24_2024-06-11_10-32-01",
-    "Meeting_Date": "06/18/2024",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 891,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28229,
-    "Meeting_Event_ID": 44220,
-    "File_Nme": "TAEO_Agenda 06.18.24_2024-06-12_13-32-01",
-    "Meeting_Date": "06/18/2024",
-    "Meeting_Time": "8:15AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 891,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28230,
-    "Meeting_Event_ID": 44221,
-    "File_Nme": "TAEO_Agenda 06.18.24_2024-06-12_15-45-01",
-    "Meeting_Date": "06/18/2024",
-    "Meeting_Time": "8:15AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 891,
     "subCommitteeID": 0
   }
 ]
