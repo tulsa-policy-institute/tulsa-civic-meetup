@@ -65,6 +65,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28248,
+    "Meeting_Event_ID": 44239,
+    "File_Nme": "2024-06-26-TMAPC-Agenda_2024-06-18_15-39-01",
+    "Meeting_Date": "06/26/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28156,
     "Meeting_Event_ID": 44149,
     "File_Nme": "06262024  Notice of Location Change Operations Committee 2_2024-05-29_14-47-01",
@@ -221,6 +234,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28242,
+    "Meeting_Event_ID": 44233,
+    "File_Nme": "2024-06-25-BOA-Agenda_2024-06-18_08-18-02",
+    "Meeting_Date": "06/25/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Board of Adjustment (BOA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28247,
+    "Meeting_Event_ID": 44238,
+    "File_Nme": "BOA cancellation 06.20.2024_2024-06-18_15-39-02",
+    "Meeting_Date": "06/20/2024",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Board of Appeals",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28240,
     "Meeting_Event_ID": 44231,
     "File_Nme": "NOTICE-AGENDA_062024_2024-06-17_14-15-01",
@@ -231,6 +270,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 879,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28246,
+    "Meeting_Event_ID": 44237,
+    "File_Nme": "SSA Agenda 06-20-2024_2024-06-18_15-38-01",
+    "Meeting_Date": "06/20/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
     "subCommitteeID": 0
   },
   {
@@ -245,6 +297,32 @@
     "Return_Message": "",
     "boardID": 887,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28245,
+    "Meeting_Event_ID": 44236,
+    "File_Nme": "TPACT Executive Agenda June 20, 2024_2024-06-18_10-43-01",
+    "Meeting_Date": "06/20/2024",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Executive Committee ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28245,
+    "Meeting_Event_ID": 44236,
+    "File_Nme": "TPACT Executive Agenda June 20, 2024_2024-06-18_10-43-01",
+    "Meeting_Date": "06/20/2024",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Executive Committee ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 895,
+    "subCommitteeID": 302
   },
   {
     "Agenda_ID": 28238,
@@ -273,6 +351,19 @@
     "subCommitteeID": 285
   },
   {
+    "Agenda_ID": 28244,
+    "Meeting_Event_ID": 44235,
+    "File_Nme": "FA Agenda June 20, 2024_2024-06-18_09-13-02",
+    "Meeting_Date": "06/20/2024",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28241,
     "Meeting_Event_ID": 44232,
     "File_Nme": "PORT MTG NOTICE-AGENDA JUNE 2024_2024-06-17_15-12-02",
@@ -283,19 +374,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 860,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28192,
-    "Meeting_Event_ID": 44185,
-    "File_Nme": "2024-06-19 TTC Meeting Cancellation Notice_2024-06-05_13-58-02",
-    "Meeting_Date": "06/19/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Transportation Technical Committee (TTC) - (INCOG)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1008,
     "subCommitteeID": 0
   }
 ]
