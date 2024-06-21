@@ -52,6 +52,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28255,
+    "Meeting_Event_ID": 44244,
+    "File_Nme": "Agenda June 28, 2024 TUL_2024-06-20_12-07-02",
+    "Meeting_Date": "06/28/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust - Friends of the M.E.T.",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 959,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28251,
+    "Meeting_Event_ID": 44241,
+    "File_Nme": "TAEO_Notice to Cancel 06.27.24_2024-06-20_09-37-02",
+    "Meeting_Date": "06/27/2024",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 891,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28253,
+    "Meeting_Event_ID": 44242,
+    "File_Nme": "TDA_Notice to Cancel 6.27.24_2024-06-20_11-06-01",
+    "Meeting_Date": "06/27/2024",
+    "Meeting_Time": "9:15AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Development Authority (TDA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 889,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28193,
     "Meeting_Event_ID": 44186,
     "File_Nme": "2024-6-26 TPC Meeting Cancellation_2024-06-05_13-58-02",
@@ -111,6 +150,19 @@
     "Meeting_Time": "9:00AM",
     "Meeting_Type": "Regular",
     "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28250,
+    "Meeting_Event_ID": 44240,
+    "File_Nme": "06262024 Ops Cancellation_2024-06-20_08-47-01",
+    "Meeting_Date": "06/26/2024",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Operations Committee",
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 893,
@@ -195,6 +247,19 @@
     "subCommitteeID": 272
   },
   {
+    "Agenda_ID": 28250,
+    "Meeting_Event_ID": 44240,
+    "File_Nme": "06262024 Ops Cancellation_2024-06-20_08-47-01",
+    "Meeting_Date": "06/26/2024",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Operations Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 272
+  },
+  {
     "Agenda_ID": 28147,
     "Meeting_Event_ID": 44140,
     "File_Nme": "06262024  Notice of Location Change Operations Committee_2024-05-23_11-17-02",
@@ -244,6 +309,45 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28256,
+    "Meeting_Event_ID": 44245,
+    "File_Nme": "MTTA Board Meeting Agenda 6.25.24 -packet_2024-06-20_14-39-01",
+    "Meeting_Date": "06/25/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 875,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28256,
+    "Meeting_Event_ID": 44245,
+    "File_Nme": "MTTA Board Meeting Agenda 6.25.24 -packet_2024-06-20_14-39-01",
+    "Meeting_Date": "06/25/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 875,
+    "subCommitteeID": 328
+  },
+  {
+    "Agenda_ID": 28254,
+    "Meeting_Event_ID": 44243,
+    "File_Nme": "06 24 24 PCSSC Agenda_2024-06-20_11-04-01",
+    "Meeting_Date": "06/24/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
     "subCommitteeID": 0
   }
 ]
