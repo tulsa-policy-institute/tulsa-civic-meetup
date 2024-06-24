@@ -583,18 +583,5 @@
     "Return_Message": "",
     "boardID": 885,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28254,
-    "Meeting_Event_ID": 44243,
-    "File_Nme": "06 24 24 PCSSC Agenda_2024-06-20_11-04-01",
-    "Meeting_Date": "06/24/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Professional Consulting Services Selection Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 990,
-    "subCommitteeID": 0
   }
 ]
