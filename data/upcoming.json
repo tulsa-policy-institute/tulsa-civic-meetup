@@ -1,5 +1,18 @@
 [
   {
+    "Agenda_ID": 28288,
+    "Meeting_Event_ID": 44274,
+    "File_Nme": "LEPC 2025 Mtgs_2024-06-28_13-42-01",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Local Emergency Planning Committee (LEPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1082,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28233,
     "Meeting_Event_ID": 44224,
     "File_Nme": "DECEMBER LOCATION CHANGE STORMWATER DRAINAGE AND_2024-06-13_16-26-01",
@@ -52,6 +65,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28286,
+    "Meeting_Event_ID": 44272,
+    "File_Nme": "BOA Agenda 07.18.24_2024-06-28_08-17-02",
+    "Meeting_Date": "07/18/2024",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Board of Appeals",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28207,
     "Meeting_Event_ID": 44200,
     "File_Nme": "July 2024 Agenda-meeting cancellation_2024-06-07_10-39-02",
@@ -88,6 +114,45 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 960,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28287,
+    "Meeting_Event_ID": 44273,
+    "File_Nme": "7-2-24 MERP Board Meeting Agenda_2024-06-28_09-09-02",
+    "Meeting_Date": "07/02/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28287,
+    "Meeting_Event_ID": 44273,
+    "File_Nme": "7-2-24 MERP Board Meeting Agenda_2024-06-28_09-09-02",
+    "Meeting_Date": "07/02/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 326
+  },
+  {
+    "Agenda_ID": 28289,
+    "Meeting_Event_ID": 44275,
+    "File_Nme": "PB Agenda 07-02-2024_2024-06-28_13-50-02",
+    "Meeting_Date": "07/02/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Parks and Recreation Board (PRB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 877,
     "subCommitteeID": 0
   },
   {
