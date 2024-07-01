@@ -154,31 +154,5 @@
     "Return_Message": "",
     "boardID": 877,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28278,
-    "Meeting_Event_ID": 44264,
-    "File_Nme": "MTTA Board Special Meeting Agenda 7.1.24_2024-06-25_12-09-02",
-    "Meeting_Date": "07/01/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28278,
-    "Meeting_Event_ID": 44264,
-    "File_Nme": "MTTA Board Special Meeting Agenda 7.1.24_2024-06-25_12-09-02",
-    "Meeting_Date": "07/01/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 328
   }
 ]
