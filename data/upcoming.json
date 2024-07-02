@@ -78,6 +78,58 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28293,
+    "Meeting_Event_ID": 44279,
+    "File_Nme": "07.12.2024 TCCA Resource Allocation Agenda Special Meeting_2024-07-01_11-32-02",
+    "Meeting_Date": "07/12/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tri-County Council on Aging  - Resource Allocation Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28293,
+    "Meeting_Event_ID": 44279,
+    "File_Nme": "07.12.2024 TCCA Resource Allocation Agenda Special Meeting_2024-07-01_11-32-02",
+    "Meeting_Date": "07/12/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tri-County Council on Aging  - Resource Allocation Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 249
+  },
+  {
+    "Agenda_ID": 28294,
+    "Meeting_Event_ID": 44280,
+    "File_Nme": "Agenda July 11 2024 TUL_2024-07-01_13-18-02",
+    "Meeting_Date": "07/11/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28294,
+    "Meeting_Event_ID": 44280,
+    "File_Nme": "Agenda July 11 2024 TUL_2024-07-01_13-18-02",
+    "Meeting_Date": "07/11/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 244
+  },
+  {
     "Agenda_ID": 28207,
     "Meeting_Event_ID": 44200,
     "File_Nme": "July 2024 Agenda-meeting cancellation_2024-06-07_10-39-02",
@@ -88,6 +140,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28291,
+    "Meeting_Event_ID": 44277,
+    "File_Nme": "AC AGENDA July 2024_2024-07-01_09-07-02",
+    "Meeting_Date": "07/08/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 882,
     "subCommitteeID": 0
   },
   {
@@ -104,55 +169,29 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 28284,
-    "Meeting_Event_ID": 44270,
-    "File_Nme": "Agenda - Board of Trustees Meeting - July 2 2024_2024-06-26_14-41-02",
-    "Meeting_Date": "07/02/2024",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Gilcrease Museum Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 960,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28287,
-    "Meeting_Event_ID": 44273,
-    "File_Nme": "7-2-24 MERP Board Meeting Agenda_2024-06-28_09-09-02",
-    "Meeting_Date": "07/02/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28287,
-    "Meeting_Event_ID": 44273,
-    "File_Nme": "7-2-24 MERP Board Meeting Agenda_2024-06-28_09-09-02",
-    "Meeting_Date": "07/02/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
-  },
-  {
-    "Agenda_ID": 28289,
-    "Meeting_Event_ID": 44275,
-    "File_Nme": "PB Agenda 07-02-2024_2024-06-28_13-50-02",
-    "Meeting_Date": "07/02/2024",
+    "Agenda_ID": 28290,
+    "Meeting_Event_ID": 44276,
+    "File_Nme": "July_2024_MCB_AGENDA_2024-07-01_08-23-02",
+    "Meeting_Date": "07/03/2024",
     "Meeting_Time": "9:00AM",
     "Meeting_Type": "Regular",
-    "Board_Name": "Parks and Recreation Board (PRB)",
+    "Board_Name": "Medical Control Board (MCB)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 877,
+    "boardID": 979,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28292,
+    "Meeting_Event_ID": 44278,
+    "File_Nme": "07 03 24 PCSSC Agenda_2024-07-01_09-45-02",
+    "Meeting_Date": "07/03/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
     "subCommitteeID": 0
   }
 ]
