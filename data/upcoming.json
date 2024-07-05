@@ -401,18 +401,5 @@
     "Return_Message": "",
     "boardID": 891,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28257,
-    "Meeting_Event_ID": 44246,
-    "File_Nme": "July 5, 2024 CTAG Notice to Cancel Meeting_2024-06-21_09-23-02",
-    "Meeting_Date": "07/05/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 947,
-    "subCommitteeID": 0
   }
 ]
