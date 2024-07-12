@@ -156,6 +156,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28342,
+    "Meeting_Event_ID": 44322,
+    "File_Nme": "July 2024 PMB Regular meeting agenda_2024-07-11_15-24-02",
+    "Meeting_Date": "07/17/2024",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Prisoner Medical Billing Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1036,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28338,
     "Meeting_Event_ID": 44318,
     "File_Nme": "07.17.24 July Tri-County Council on Aging Regular Meeting_2024-07-09_16-35-02",
@@ -179,58 +192,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 892,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28293,
-    "Meeting_Event_ID": 44279,
-    "File_Nme": "07.12.2024 TCCA Resource Allocation Agenda Special Meeting_2024-07-01_11-32-02",
-    "Meeting_Date": "07/12/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tri-County Council on Aging  - Resource Allocation Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1009,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28293,
-    "Meeting_Event_ID": 44279,
-    "File_Nme": "07.12.2024 TCCA Resource Allocation Agenda Special Meeting_2024-07-01_11-32-02",
-    "Meeting_Date": "07/12/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tri-County Council on Aging  - Resource Allocation Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1009,
-    "subCommitteeID": 249
-  },
-  {
-    "Agenda_ID": 28340,
-    "Meeting_Event_ID": 44320,
-    "File_Nme": "TAEO_Agenda 07.12.24_2024-07-10_08-57-02",
-    "Meeting_Date": "07/12/2024",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 891,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28339,
-    "Meeting_Event_ID": 44319,
-    "File_Nme": "TAEO_Notice of Special Meeting 07.12.24_2024-07-10_08-26-02",
-    "Meeting_Date": "07/12/2024",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for Economic Opportunity (TAEO) ",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 891,
     "subCommitteeID": 0
   }
 ]
