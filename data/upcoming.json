@@ -65,6 +65,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28345,
+    "Meeting_Event_ID": 44325,
+    "File_Nme": "8-7-24 DRC Meeting Agenda_2024-07-12_09-27-03",
+    "Meeting_Date": "08/07/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Disability Review Committee (DRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28344,
+    "Meeting_Event_ID": 44324,
+    "File_Nme": "8-1-24 DRC Meeting Cancelation_2024-07-12_09-27-02",
+    "Meeting_Date": "08/01/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Disability Review Committee (DRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28336,
     "Meeting_Event_ID": 44316,
     "File_Nme": "2024-07-30 Notice TPFA Special Meeting_2024-07-09_13-21-02",
@@ -117,6 +143,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28343,
+    "Meeting_Event_ID": 44323,
+    "File_Nme": "TWC Retreat Agenda July 19, 2024_2024-07-12_08-22-03",
+    "Meeting_Date": "07/19/2024",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Women's Commission (TWC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28286,
     "Meeting_Event_ID": 44272,
     "File_Nme": "BOA Agenda 07.18.24_2024-06-28_08-17-02",
@@ -156,6 +195,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28349,
+    "Meeting_Event_ID": 44329,
+    "File_Nme": "Agenda-HPPS-2024-07-18_2024-07-12_15-04-02",
+    "Meeting_Date": "07/18/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28349,
+    "Meeting_Event_ID": 44329,
+    "File_Nme": "Agenda-HPPS-2024-07-18_2024-07-12_15-04-02",
+    "Meeting_Date": "07/18/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
     "Agenda_ID": 28342,
     "Meeting_Event_ID": 44322,
     "File_Nme": "July 2024 PMB Regular meeting agenda_2024-07-11_15-24-02",
@@ -166,6 +231,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 1036,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28347,
+    "Meeting_Event_ID": 44327,
+    "File_Nme": "July 17 2024 TTC Agenda_2024-07-12_13-56-02",
+    "Meeting_Date": "07/17/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Transportation Technical Committee (TTC) - (INCOG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1008,
     "subCommitteeID": 0
   },
   {
@@ -182,6 +260,123 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28351,
+    "Meeting_Event_ID": 44331,
+    "File_Nme": "2024-07-17 UED_2024-07-12_16-51-02",
+    "Meeting_Date": "07/17/2024",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Urban And Economic Development Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28348,
+    "Meeting_Event_ID": 44328,
+    "File_Nme": "2024-07-17 Special Meeting_2024-07-12_16-43-02",
+    "Meeting_Date": "07/17/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28350,
+    "Meeting_Event_ID": 44330,
+    "File_Nme": "2024-07-17 4PM_2024-07-12_16-51-02",
+    "Meeting_Date": "07/17/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28352,
+    "Meeting_Event_ID": 44332,
+    "File_Nme": "2024-07-17 5PM_2024-07-12_16-51-02",
+    "Meeting_Date": "07/17/2024",
+    "Meeting_Time": "5:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28353,
+    "Meeting_Event_ID": 44333,
+    "File_Nme": "2024-07-17 BUD SP_2024-07-12_16-51-02",
+    "Meeting_Date": "07/17/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa City Council - Budget and Special Projects Committee Meeting",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28354,
+    "Meeting_Event_ID": 44334,
+    "File_Nme": "2024-07-17 PW_2024-07-12_16-51-02",
+    "Meeting_Date": "07/17/2024",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Public Works Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28353,
+    "Meeting_Event_ID": 44333,
+    "File_Nme": "2024-07-17 BUD SP_2024-07-12_16-51-02",
+    "Meeting_Date": "07/17/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa City Council - Budget and Special Projects Committee Meeting",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 257
+  },
+  {
+    "Agenda_ID": 28354,
+    "Meeting_Event_ID": 44334,
+    "File_Nme": "2024-07-17 PW_2024-07-12_16-51-02",
+    "Meeting_Date": "07/17/2024",
+    "Meeting_Time": "2:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Public Works Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 263
+  },
+  {
+    "Agenda_ID": 28351,
+    "Meeting_Event_ID": 44331,
+    "File_Nme": "2024-07-17 UED_2024-07-12_16-51-02",
+    "Meeting_Date": "07/17/2024",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council - Urban And Economic Development Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 265
+  },
+  {
     "Agenda_ID": 28341,
     "Meeting_Event_ID": 44321,
     "File_Nme": "2024-07-17-TMAPC-Agenda_2024-07-10_14-13-02",
@@ -192,6 +387,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28346,
+    "Meeting_Event_ID": 44326,
+    "File_Nme": "SDHMAB Agenda 07162024_2024-07-12_09-46-02",
+    "Meeting_Date": "07/16/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
     "subCommitteeID": 0
   }
 ]
