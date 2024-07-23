@@ -52,6 +52,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28390,
+    "Meeting_Event_ID": 44366,
+    "File_Nme": "BOA Agenda - 08.15.24_2024-07-22_15-40-02",
+    "Meeting_Date": "08/15/2024",
+    "Meeting_Time": "3:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Board of Appeals",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28332,
     "Meeting_Event_ID": 44312,
     "File_Nme": "Tulsa Route 66 Commission AMENDED 2024 Annual Meeting Schedule_2024-07-09_10-23-02",
@@ -68,6 +81,19 @@
     "Agenda_ID": 28345,
     "Meeting_Event_ID": 44325,
     "File_Nme": "8-7-24 DRC Meeting Agenda_2024-07-12_09-27-03",
+    "Meeting_Date": "08/07/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Disability Review Committee (DRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28384,
+    "Meeting_Event_ID": 44325,
+    "File_Nme": "Updated August 7, 2024 DRC Agenda_2024-07-22_10-20-01",
     "Meeting_Date": "08/07/2024",
     "Meeting_Time": "1:30PM",
     "Meeting_Type": "Regular",
@@ -117,6 +143,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28383,
+    "Meeting_Event_ID": 44361,
+    "File_Nme": "07.25.24 Audit Cancellation Notice_2024-07-22_10-13-02",
+    "Meeting_Date": "07/25/2024",
+    "Meeting_Time": "11:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Audit Committee of the City of Tulsa (AUDIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 873,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28388,
+    "Meeting_Event_ID": 44364,
+    "File_Nme": "Agenda-TPC-2024-07-25_2024-07-22_12-51-02",
+    "Meeting_Date": "07/25/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28334,
     "Meeting_Event_ID": 44314,
     "File_Nme": "2024-07-25 Cancellation Notice TPFA Regular Meeting_2024-07-09_11-18-02",
@@ -133,6 +185,32 @@
     "Agenda_ID": 28331,
     "Meeting_Event_ID": 44310,
     "File_Nme": "City FA 2024 Special Mtg Notice 7.25.24_2024-07-09_10-19-02",
+    "Meeting_Date": "07/25/2024",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28387,
+    "Meeting_Event_ID": 44363,
+    "File_Nme": "Ports 07.22.24_2024-07-22_11-25-02",
+    "Meeting_Date": "07/25/2024",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28386,
+    "Meeting_Event_ID": 44363,
+    "File_Nme": "FA Special Meeting Notice  Agenda_2024-07-22_11-18-01",
     "Meeting_Date": "07/25/2024",
     "Meeting_Time": "8:00AM",
     "Meeting_Type": "Special",
@@ -166,6 +244,45 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28382,
+    "Meeting_Event_ID": 44360,
+    "File_Nme": "EMSA Board of Trustees Meeting Agenda_2024-07-22_09-22-02",
+    "Meeting_Date": "07/24/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Emergency Medical Services Authority (EMSA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 864,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28382,
+    "Meeting_Event_ID": 44360,
+    "File_Nme": "EMSA Board of Trustees Meeting Agenda_2024-07-22_09-22-02",
+    "Meeting_Date": "07/24/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Emergency Medical Services Authority (EMSA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 864,
+    "subCommitteeID": 310
+  },
+  {
+    "Agenda_ID": 28389,
+    "Meeting_Event_ID": 44365,
+    "File_Nme": "2024-07-24 5PM Addendum_2024-07-22_15-15-01",
+    "Meeting_Date": "07/24/2024",
+    "Meeting_Time": "5:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
     "subCommitteeID": 0
   },
   {
@@ -312,6 +429,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28381,
+    "Meeting_Event_ID": 44347,
+    "File_Nme": "07242024 AMENDED TMUA Agenda_2024-07-22_08-18-02",
+    "Meeting_Date": "07/24/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28365,
     "Meeting_Event_ID": 44345,
     "File_Nme": "07242024 FR Agenda_2024-07-19_09-09-02",
@@ -338,6 +468,19 @@
     "subCommitteeID": 272
   },
   {
+    "Agenda_ID": 28380,
+    "Meeting_Event_ID": 44348,
+    "File_Nme": "07242024 AMENDED TUB Agenda_2024-07-22_08-18-02",
+    "Meeting_Date": "07/24/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Utility Board (TUB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 930,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28368,
     "Meeting_Event_ID": 44348,
     "File_Nme": "07242024 TUB Agenda_2024-07-19_09-09-02",
@@ -349,70 +492,5 @@
     "Return_Message": "",
     "boardID": 930,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28363,
-    "Meeting_Event_ID": 44343,
-    "File_Nme": "MTTA Board Meeting Agenda 7.23.24 _2024-07-19_08-11-02",
-    "Meeting_Date": "07/23/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28363,
-    "Meeting_Event_ID": 44343,
-    "File_Nme": "MTTA Board Meeting Agenda 7.23.24 _2024-07-19_08-11-02",
-    "Meeting_Date": "07/23/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 328
-  },
-  {
-    "Agenda_ID": 28362,
-    "Meeting_Event_ID": 44342,
-    "File_Nme": "Agenda 07-23-24_2024-07-19_08-31-02",
-    "Meeting_Date": "07/23/2024",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Sales Tax Overview Committee (STOC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 880,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28379,
-    "Meeting_Event_ID": 44359,
-    "File_Nme": "TARE Focus Committee Meeting notice and agenda 07-23-2024_2024-07-19_15-07-02",
-    "Meeting_Date": "07/23/2024",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28379,
-    "Meeting_Event_ID": 44359,
-    "File_Nme": "TARE Focus Committee Meeting notice and agenda 07-23-2024_2024-07-19_15-07-02",
-    "Meeting_Date": "07/23/2024",
-    "Meeting_Time": "2:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Authority for The Recovery of Energy (TARE) - Focus Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 885,
-    "subCommitteeID": 327
   }
 ]
