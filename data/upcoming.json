@@ -91,6 +91,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28407,
+    "Meeting_Event_ID": 44383,
+    "File_Nme": "Cancelation Notice CSC 8-8-24_2024-07-29_14-22-02",
+    "Meeting_Date": "08/08/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28405,
+    "Meeting_Event_ID": 44381,
+    "File_Nme": "0 Agenda August 8, 2024 TUL_2024-07-29_10-06-01",
+    "Meeting_Date": "08/08/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28405,
+    "Meeting_Event_ID": 44381,
+    "File_Nme": "0 Agenda August 8, 2024 TUL_2024-07-29_10-06-01",
+    "Meeting_Date": "08/08/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 244
+  },
+  {
     "Agenda_ID": 28345,
     "Meeting_Event_ID": 44325,
     "File_Nme": "8-7-24 DRC Meeting Agenda_2024-07-12_09-27-03",
@@ -234,6 +273,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28408,
+    "Meeting_Event_ID": 44384,
+    "File_Nme": "2024-07-31 5PM Addendum_2024-07-29_16-50-02",
+    "Meeting_Date": "07/31/2024",
+    "Meeting_Time": "5:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28401,
     "Meeting_Event_ID": 44377,
     "File_Nme": "2024-07-31 5PM_2024-07-26_16-24-02",
@@ -297,18 +349,5 @@
     "Return_Message": "",
     "boardID": 899,
     "subCommitteeID": 265
-  },
-  {
-    "Agenda_ID": 28336,
-    "Meeting_Event_ID": 44316,
-    "File_Nme": "2024-07-30 Notice TPFA Special Meeting_2024-07-09_13-21-02",
-    "Meeting_Date": "07/30/2024",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Tulsa Public Facilities Authority (TPFA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 896,
-    "subCommitteeID": 0
   }
 ]
