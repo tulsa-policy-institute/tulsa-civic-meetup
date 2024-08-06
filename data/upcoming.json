@@ -143,6 +143,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28433,
+    "Meeting_Event_ID": 44406,
+    "File_Nme": "AWC August 2024 agenda_2024-08-05_12-56-02",
+    "Meeting_Date": "08/12/2024",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Animal Welfare Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1095,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28407,
     "Meeting_Event_ID": 44383,
     "File_Nme": "Cancelation Notice CSC 8-8-24_2024-07-29_14-22-02",
@@ -153,6 +166,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28431,
+    "Meeting_Event_ID": 44404,
+    "File_Nme": "August CDC Cancel_2024-08-05_09-01-02",
+    "Meeting_Date": "08/08/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Community Development Committee (HUD)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 868,
     "subCommitteeID": 0
   },
   {
@@ -195,6 +221,45 @@
     "subCommitteeID": 244
   },
   {
+    "Agenda_ID": 28435,
+    "Meeting_Event_ID": 44408,
+    "File_Nme": "2024-08-08_TAA Meeting Agenda_Final_2024-08-05_16-13-02",
+    "Meeting_Date": "08/08/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Airport Authority (TAA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 884,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28434,
+    "Meeting_Event_ID": 44407,
+    "File_Nme": "2024-08-08_TAIT Meeting Agenda_Final_2024-08-05_16-13-03",
+    "Meeting_Date": "08/08/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa Airports Improvement Trust (TAIT)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1012,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28432,
+    "Meeting_Event_ID": 44405,
+    "File_Nme": "Agenda-TPC-2024-08-08_2024-08-05_11-22-03",
+    "Meeting_Date": "08/08/2024",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28345,
     "Meeting_Event_ID": 44325,
     "File_Nme": "8-7-24 DRC Meeting Agenda_2024-07-12_09-27-03",
@@ -218,6 +283,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28436,
+    "Meeting_Event_ID": 44409,
+    "File_Nme": "08 07 2024 Agenda - PCSSC_2024-08-05_16-29-56",
+    "Meeting_Date": "08/07/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
     "subCommitteeID": 0
   },
   {
@@ -351,55 +429,16 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 28422,
-    "Meeting_Event_ID": 44396,
-    "File_Nme": "8-6-24 MERP Special Board Meeting Agenda_2024-08-01_12-41-02",
-    "Meeting_Date": "08/06/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28418,
-    "Meeting_Event_ID": 44392,
-    "File_Nme": "8-6-24 MERP Regular Meeting - CANCELED_2024-08-01_09-03-02",
-    "Meeting_Date": "08/06/2024",
+    "Agenda_ID": 28430,
+    "Meeting_Event_ID": 44391,
+    "File_Nme": "2024-08-07-Amended_2024-08-05_08-42-03",
+    "Meeting_Date": "08/07/2024",
     "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Municipal Employee Retirement Board (MERP)",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 876,
+    "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28419,
-    "Meeting_Event_ID": 44393,
-    "File_Nme": "8-6-24 MERP SPECIAL MEETING NOTICE_2024-08-01_09-03-02",
-    "Meeting_Date": "08/06/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Municipal Employee Retirement Board (MERP)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28422,
-    "Meeting_Event_ID": 44396,
-    "File_Nme": "8-6-24 MERP Special Board Meeting Agenda_2024-08-01_12-41-02",
-    "Meeting_Date": "08/06/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
   }
 ]
