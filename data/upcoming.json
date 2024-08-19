@@ -375,18 +375,5 @@
     "Return_Message": "",
     "boardID": 895,
     "subCommitteeID": 304
-  },
-  {
-    "Agenda_ID": 28475,
-    "Meeting_Event_ID": 44445,
-    "File_Nme": "08192024 HRC Agenda_2024-08-16_09-31-02",
-    "Meeting_Date": "08/19/2024",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Human Rights Commission (HRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 870,
-    "subCommitteeID": 0
   }
 ]
