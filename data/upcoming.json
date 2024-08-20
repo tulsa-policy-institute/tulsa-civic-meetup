@@ -130,6 +130,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28490,
+    "Meeting_Event_ID": 44459,
+    "File_Nme": "08 21 2024 Agenda - PCSSC_2024-08-19_15-44-03",
+    "Meeting_Date": "08/21/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Professional Consulting Services Selection Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 990,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28477,
     "Meeting_Event_ID": 44447,
     "File_Nme": "2024-08-21 TTC Meeting Cancellation Notice_2024-08-16_09-49-02",
@@ -310,70 +323,5 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28476,
-    "Meeting_Event_ID": 44446,
-    "File_Nme": "August 20 2024 Regular Meeting Agenda_2024-08-16_09-49-02",
-    "Meeting_Date": "08/20/2024",
-    "Meeting_Time": "2:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Deferred Compensation Board",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 949,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28471,
-    "Meeting_Event_ID": 44442,
-    "File_Nme": "SDHMAB Agenda 08202024_2024-08-14_12-33-02",
-    "Meeting_Date": "08/20/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28473,
-    "Meeting_Event_ID": 44443,
-    "File_Nme": "SDHMAB Agenda 08202024 Amended_2024-08-15_08-17-02",
-    "Meeting_Date": "08/20/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28481,
-    "Meeting_Event_ID": 44451,
-    "File_Nme": "TPACT Board Governance Agenda August 20, 2024_2024-08-16_13-53-02",
-    "Meeting_Date": "08/20/2024",
-    "Meeting_Time": "11:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Board Governance and Nominating Committee (BGNC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28481,
-    "Meeting_Event_ID": 44451,
-    "File_Nme": "TPACT Board Governance Agenda August 20, 2024_2024-08-16_13-53-02",
-    "Meeting_Date": "08/20/2024",
-    "Meeting_Time": "11:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Board Governance and Nominating Committee (BGNC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 304
   }
 ]
