@@ -130,6 +130,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28515,
+    "Meeting_Event_ID": 44483,
+    "File_Nme": "EMSABOTMeetingAgenda_2024-08-26_10-28-02",
+    "Meeting_Date": "08/28/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Emergency Medical Services Authority (EMSA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 864,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28515,
+    "Meeting_Event_ID": 44483,
+    "File_Nme": "EMSABOTMeetingAgenda_2024-08-26_10-28-02",
+    "Meeting_Date": "08/28/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Emergency Medical Services Authority (EMSA) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 864,
+    "subCommitteeID": 310
+  },
+  {
     "Agenda_ID": 28508,
     "Meeting_Event_ID": 44477,
     "File_Nme": "2024-8-28 TPC Meeting Cancellation_2024-08-23_10-57-03",
@@ -322,45 +348,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 930,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28493,
-    "Meeting_Event_ID": 44462,
-    "File_Nme": "2024-08-27-BOA-Agenda_2024-08-20_13-31-02",
-    "Meeting_Date": "08/27/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Board of Adjustment (BOA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 858,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28500,
-    "Meeting_Event_ID": 44469,
-    "File_Nme": "MTTA Board Meeting Agenda 8.27.24 _2024-08-21_11-20-02",
-    "Meeting_Date": "08/27/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 875,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28502,
-    "Meeting_Event_ID": 44471,
-    "File_Nme": "Agenda 08-27-24_2024-08-22_11-11-02",
-    "Meeting_Date": "08/27/2024",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Sales Tax Overview Committee (STOC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 880,
     "subCommitteeID": 0
   }
 ]
