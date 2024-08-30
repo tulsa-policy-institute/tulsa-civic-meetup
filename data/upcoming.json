@@ -91,6 +91,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28525,
+    "Meeting_Event_ID": 44492,
+    "File_Nme": "9-18-24 MERP SPECIAL MEETING NOTICE_2024-08-29_11-29-02",
+    "Meeting_Date": "09/18/2024",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Municipal Employee Retirement Board (MERP)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28501,
     "Meeting_Event_ID": 44470,
     "File_Nme": "Regional 911 Board Notice of Location Change 9.11.24_2024-08-22_09-35-02",
@@ -114,6 +127,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28522,
+    "Meeting_Event_ID": 44489,
+    "File_Nme": "9-5-24 MERP SPECIAL MEETING AMENDED NOTICE - CANCELED_2024-08-29_08-04-02",
+    "Meeting_Date": "09/05/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Municipal Employee Retirement Board (MERP)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
     "subCommitteeID": 0
   },
   {
@@ -143,6 +169,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28523,
+    "Meeting_Event_ID": 44490,
+    "File_Nme": "September_2024_MCB_AGENDA_2024-08-29_10-31-02",
+    "Meeting_Date": "09/04/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Medical Control Board (MCB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 979,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28520,
     "Meeting_Event_ID": 44487,
     "File_Nme": "09 04 2024 Agenda - PCSSC_2024-08-28_12-16-02",
@@ -167,5 +206,44 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28524,
+    "Meeting_Event_ID": 44491,
+    "File_Nme": "09032024 AAC Agenda_2024-08-29_10-47-02",
+    "Meeting_Date": "09/03/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Asian Affairs Commission (AAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1102,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28526,
+    "Meeting_Event_ID": 44493,
+    "File_Nme": "9-3-24 MERP Board Regular Meeting Agenda_2024-08-29_11-29-03",
+    "Meeting_Date": "09/03/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28526,
+    "Meeting_Event_ID": 44493,
+    "File_Nme": "9-3-24 MERP Board Regular Meeting Agenda_2024-08-29_11-29-03",
+    "Meeting_Date": "09/03/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 326
   }
 ]
