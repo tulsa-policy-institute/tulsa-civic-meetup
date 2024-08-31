@@ -117,6 +117,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28528,
+    "Meeting_Event_ID": 44495,
+    "File_Nme": "09062024 TWC Agenda_2024-08-30_13-29-02",
+    "Meeting_Date": "09/06/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Women's Commission (TWC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28450,
     "Meeting_Event_ID": 44421,
     "File_Nme": "9-5-24 DRC Agenda_2024-08-08_12-19-02",
@@ -167,6 +180,58 @@
     "Return_Message": "",
     "boardID": 876,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28527,
+    "Meeting_Event_ID": 44494,
+    "File_Nme": "PPI Agenda 09052024_2024-08-30_11-09-02",
+    "Meeting_Date": "09/05/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28527,
+    "Meeting_Event_ID": 44494,
+    "File_Nme": "PPI Agenda 09052024_2024-08-30_11-09-02",
+    "Meeting_Date": "09/05/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 284
+  },
+  {
+    "Agenda_ID": 28529,
+    "Meeting_Event_ID": 44496,
+    "File_Nme": "Agenda-HPPS-2024-09-05_2024-08-30_15-53-02",
+    "Meeting_Date": "09/05/2024",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28529,
+    "Meeting_Event_ID": 44496,
+    "File_Nme": "Agenda-HPPS-2024-09-05_2024-08-30_15-53-02",
+    "Meeting_Date": "09/05/2024",
+    "Meeting_Time": "11:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
   },
   {
     "Agenda_ID": 28523,
