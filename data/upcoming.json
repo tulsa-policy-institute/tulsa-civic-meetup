@@ -271,44 +271,5 @@
     "Return_Message": "",
     "boardID": 892,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28524,
-    "Meeting_Event_ID": 44491,
-    "File_Nme": "09032024 AAC Agenda_2024-08-29_10-47-02",
-    "Meeting_Date": "09/03/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Asian Affairs Commission (AAC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1102,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28526,
-    "Meeting_Event_ID": 44493,
-    "File_Nme": "9-3-24 MERP Board Regular Meeting Agenda_2024-08-29_11-29-03",
-    "Meeting_Date": "09/03/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28526,
-    "Meeting_Event_ID": 44493,
-    "File_Nme": "9-3-24 MERP Board Regular Meeting Agenda_2024-08-29_11-29-03",
-    "Meeting_Date": "09/03/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Municipal Employee Retirement Board (MERP) - Board of Trustees",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 876,
-    "subCommitteeID": 326
   }
 ]
