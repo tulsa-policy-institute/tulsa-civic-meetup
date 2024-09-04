@@ -78,6 +78,84 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28534,
+    "Meeting_Event_ID": 44500,
+    "File_Nme": "09252024 Change of Location TMUA_2024-09-03_12-51-02",
+    "Meeting_Date": "09/25/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28535,
+    "Meeting_Event_ID": 44501,
+    "File_Nme": "09252024 Change of Location Ops_2024-09-03_12-51-02",
+    "Meeting_Date": "09/25/2024",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Operations Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28536,
+    "Meeting_Event_ID": 44502,
+    "File_Nme": "09252024 Change of Location FR_2024-09-03_12-51-02",
+    "Meeting_Date": "09/25/2024",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28536,
+    "Meeting_Event_ID": 44502,
+    "File_Nme": "09252024 Change of Location FR_2024-09-03_12-51-02",
+    "Meeting_Date": "09/25/2024",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Finance and Revenue Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 271
+  },
+  {
+    "Agenda_ID": 28535,
+    "Meeting_Event_ID": 44501,
+    "File_Nme": "09252024 Change of Location Ops_2024-09-03_12-51-02",
+    "Meeting_Date": "09/25/2024",
+    "Meeting_Time": "9:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA) - Operations Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 893,
+    "subCommitteeID": 272
+  },
+  {
+    "Agenda_ID": 28533,
+    "Meeting_Event_ID": 44499,
+    "File_Nme": "09252024 Change of Location TUB_2024-09-03_12-51-02",
+    "Meeting_Date": "09/25/2024",
+    "Meeting_Time": "9:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Utility Board (TUB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 930,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28480,
     "Meeting_Event_ID": 44450,
     "File_Nme": "08202024 GTAIAC Agenda_2024-08-16_12-59-03",
@@ -88,6 +166,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 867,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28540,
+    "Meeting_Event_ID": 44506,
+    "File_Nme": "CITY PA NOTICE MTG TIME CHANGE - SEPTEMBER 2024_2024-09-03_15-25-02",
+    "Meeting_Date": "09/19/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa-Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
     "subCommitteeID": 0
   },
   {
@@ -104,6 +195,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28531,
+    "Meeting_Event_ID": 44498,
+    "File_Nme": "Agenda September 12, 2024 TULSA_2024-09-03_10-12-02",
+    "Meeting_Date": "09/12/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28531,
+    "Meeting_Event_ID": 44498,
+    "File_Nme": "Agenda September 12, 2024 TULSA_2024-09-03_10-12-02",
+    "Meeting_Date": "09/12/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Metropolitan Environmental Trust (MET) - Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 980,
+    "subCommitteeID": 244
+  },
+  {
     "Agenda_ID": 28501,
     "Meeting_Event_ID": 44470,
     "File_Nme": "Regional 911 Board Notice of Location Change 9.11.24_2024-08-22_09-35-02",
@@ -117,6 +234,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28537,
+    "Meeting_Event_ID": 44503,
+    "File_Nme": "Agenda - Board of Trustees Meeting - September 10 2024_2024-09-03_13-29-03",
+    "Meeting_Date": "09/10/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Gilcrease Museum Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 960,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28538,
+    "Meeting_Event_ID": 44504,
+    "File_Nme": "9.6.2024 CTAG Meeting Notice and Agenda_2024-09-03_13-09-02",
+    "Meeting_Date": "09/06/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 947,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28528,
     "Meeting_Event_ID": 44495,
     "File_Nme": "09062024 TWC Agenda_2024-08-30_13-29-02",
@@ -127,6 +270,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28541,
+    "Meeting_Event_ID": 44507,
+    "File_Nme": "notice_2024-09-03_15-51-02",
+    "Meeting_Date": "09/06/2024",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa's Gathering Place LLC",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 931,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28542,
+    "Meeting_Event_ID": 44507,
+    "File_Nme": "agenda_2024-09-03_15-51-02",
+    "Meeting_Date": "09/06/2024",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa's Gathering Place LLC",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 931,
     "subCommitteeID": 0
   },
   {
@@ -182,6 +351,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28539,
+    "Meeting_Event_ID": 44505,
+    "File_Nme": "SSA Agenda 09-05-2024_2024-09-03_14-34-02",
+    "Meeting_Date": "09/05/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1003,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28527,
     "Meeting_Event_ID": 44494,
     "File_Nme": "PPI Agenda 09052024_2024-08-30_11-09-02",
@@ -232,44 +414,5 @@
     "Return_Message": "",
     "boardID": 878,
     "subCommitteeID": 285
-  },
-  {
-    "Agenda_ID": 28523,
-    "Meeting_Event_ID": 44490,
-    "File_Nme": "September_2024_MCB_AGENDA_2024-08-29_10-31-02",
-    "Meeting_Date": "09/04/2024",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Medical Control Board (MCB)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 979,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28520,
-    "Meeting_Event_ID": 44487,
-    "File_Nme": "09 04 2024 Agenda - PCSSC_2024-08-28_12-16-02",
-    "Meeting_Date": "09/04/2024",
-    "Meeting_Time": "9:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Professional Consulting Services Selection Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 990,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28521,
-    "Meeting_Event_ID": 44488,
-    "File_Nme": "2024-09-04_2024-08-28_16-13-02",
-    "Meeting_Date": "09/04/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 892,
-    "subCommitteeID": 0
   }
 ]
