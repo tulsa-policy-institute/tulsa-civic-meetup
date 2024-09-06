@@ -195,6 +195,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28546,
+    "Meeting_Event_ID": 44511,
+    "File_Nme": "Cancelation Notice 9-12-2024_2024-09-05_13-05-02",
+    "Meeting_Date": "09/12/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28531,
     "Meeting_Event_ID": 44498,
     "File_Nme": "Agenda September 12, 2024 TULSA_2024-09-03_10-12-02",
@@ -299,55 +312,16 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 28538,
-    "Meeting_Event_ID": 44504,
-    "File_Nme": "9.6.2024 CTAG Meeting Notice and Agenda_2024-09-03_13-09-02",
-    "Meeting_Date": "09/06/2024",
-    "Meeting_Time": "10:00AM",
+    "Agenda_ID": 28547,
+    "Meeting_Event_ID": 44512,
+    "File_Nme": "AC AGENDA September 2024_2024-09-05_14-45-02",
+    "Meeting_Date": "09/09/2024",
+    "Meeting_Time": "4:00PM",
     "Meeting_Type": "Regular",
-    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
+    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 947,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28528,
-    "Meeting_Event_ID": 44495,
-    "File_Nme": "09062024 TWC Agenda_2024-08-30_13-29-02",
-    "Meeting_Date": "09/06/2024",
-    "Meeting_Time": "12:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Women's Commission (TWC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 874,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28541,
-    "Meeting_Event_ID": 44507,
-    "File_Nme": "notice_2024-09-03_15-51-02",
-    "Meeting_Date": "09/06/2024",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa's Gathering Place LLC",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 931,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28542,
-    "Meeting_Event_ID": 44507,
-    "File_Nme": "agenda_2024-09-03_15-51-02",
-    "Meeting_Date": "09/06/2024",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa's Gathering Place LLC",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 931,
+    "boardID": 882,
     "subCommitteeID": 0
   }
 ]
