@@ -117,6 +117,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28624,
+    "Meeting_Event_ID": 44581,
+    "File_Nme": "10-29-24 MERP SPECIAL MEETING NOTICE_2024-09-19_09-35-02",
+    "Meeting_Date": "10/29/2024",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Municipal Employee Retirement Board (MERP)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 876,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28609,
     "Meeting_Event_ID": 44569,
     "File_Nme": "NOTICE OF CANCELLATION_102424_2024-09-16_13-10-02",
@@ -297,5 +310,44 @@
     "Return_Message": "",
     "boardID": 858,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28625,
+    "Meeting_Event_ID": 44582,
+    "File_Nme": "SDHMAB Agenda 09242024_2024-09-19_13-31-02",
+    "Meeting_Date": "09/24/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 881,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28626,
+    "Meeting_Event_ID": 44583,
+    "File_Nme": "Tribal Nations Relations Committee Agenda September 24th_2024-09-19_15-39-02",
+    "Meeting_Date": "09/24/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa City Council - Tribal Relations Committee ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28626,
+    "Meeting_Event_ID": 44583,
+    "File_Nme": "Tribal Nations Relations Committee Agenda September 24th_2024-09-19_15-39-02",
+    "Meeting_Date": "09/24/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Tulsa City Council - Tribal Relations Committee ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
+    "subCommitteeID": 334
   }
 ]
