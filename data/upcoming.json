@@ -416,6 +416,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28671,
+    "Meeting_Event_ID": 44627,
+    "File_Nme": "10-2-2024 Agenda_2024-09-26_13-55-02",
+    "Meeting_Date": "10/02/2024",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Contractors Prequalification Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 948,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28673,
+    "Meeting_Event_ID": 44629,
+    "File_Nme": "10-2-2024 Cancellation_2024-09-26_14-10-02",
+    "Meeting_Date": "10/02/2024",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Contractors Prequalification Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 948,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28670,
+    "Meeting_Event_ID": 44626,
+    "File_Nme": "NOTICE-AGENDA_100224S_2024-09-26_13-11-01",
+    "Meeting_Date": "10/02/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "River Parks Authority (RPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 879,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28598,
     "Meeting_Event_ID": 44558,
     "File_Nme": "October 2 2024 Tulsa Food Advisory Reg Meeting Notice Agenda_2024-09-13_15-58-02",
@@ -440,6 +479,45 @@
     "Return_Message": "",
     "boardID": 886,
     "subCommitteeID": 266
+  },
+  {
+    "Agenda_ID": 28668,
+    "Meeting_Event_ID": 44624,
+    "File_Nme": "2024-10-02_2024-09-25_16-43-01",
+    "Meeting_Date": "10/02/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28672,
+    "Meeting_Event_ID": 44628,
+    "File_Nme": "10012024 AAC Agenda_2024-09-26_13-45-01",
+    "Meeting_Date": "10/01/2024",
+    "Meeting_Time": "12:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Asian Affairs Commission (AAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1102,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28669,
+    "Meeting_Event_ID": 44625,
+    "File_Nme": "Board Meeting Cancellation - Oct 1 2024_2024-09-26_09-28-02",
+    "Meeting_Date": "10/01/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Gilcrease Museum Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 960,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 28666,
