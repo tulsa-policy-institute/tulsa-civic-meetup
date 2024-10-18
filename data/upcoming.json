@@ -2130,31 +2130,5 @@
     "Return_Message": "",
     "boardID": 870,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28761,
-    "Meeting_Event_ID": 44714,
-    "File_Nme": "10.18.24 BAC Agenda (1)_2024-10-15_09-14-03",
-    "Meeting_Date": "10/18/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Beyond Apology Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1103,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28733,
-    "Meeting_Event_ID": 44688,
-    "File_Nme": "10.18.24 BAC Agenda_2024-10-09_10-57-02",
-    "Meeting_Date": "10/18/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Beyond Apology Commission",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1103,
-    "subCommitteeID": 0
   }
 ]
