@@ -2104,31 +2104,5 @@
     "Return_Message": "",
     "boardID": 880,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28767,
-    "Meeting_Event_ID": 44719,
-    "File_Nme": "AC AGENDA October 2024 (BBR draft 10-16-24)_2024-10-16_09-49-03",
-    "Meeting_Date": "10/21/2024",
-    "Meeting_Time": "4:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 882,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28766,
-    "Meeting_Event_ID": 44718,
-    "File_Nme": "10212024 HRC Agenda_2024-10-16_08-15-01",
-    "Meeting_Date": "10/21/2024",
-    "Meeting_Time": "3:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Human Rights Commission (HRC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 870,
-    "subCommitteeID": 0
   }
 ]
