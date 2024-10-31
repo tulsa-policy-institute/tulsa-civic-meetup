@@ -2314,6 +2314,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28821,
+    "Meeting_Event_ID": 44774,
+    "File_Nme": "2024-11-06-TMAPC Agenda_2024-10-30_16-30-02",
+    "Meeting_Date": "11/06/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28622,
     "Meeting_Event_ID": 44579,
     "File_Nme": "11052024 AAC Location Change_2024-09-18_11-00-02",
@@ -2353,6 +2366,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28819,
+    "Meeting_Event_ID": 44772,
+    "File_Nme": "Agenda - Board of Trustees Meeting - Nov 5 2024_2024-10-30_14-37-02",
+    "Meeting_Date": "11/05/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Gilcrease Museum Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 960,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28734,
     "Meeting_Event_ID": 44689,
     "File_Nme": "11.1.24 BAC Special Meeting Notice_2024-10-09_10-57-02",
@@ -2379,6 +2405,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28820,
+    "Meeting_Event_ID": 44773,
+    "File_Nme": "November 1, 2024 CTAG Meeting Notice and Agenda_2024-10-30_14-39-02",
+    "Meeting_Date": "11/01/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 947,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28793,
     "Meeting_Event_ID": 44744,
     "File_Nme": "11012024 TWC Agenda_2024-10-24_11-35-02",
@@ -2389,32 +2428,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 874,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28817,
-    "Meeting_Event_ID": 44770,
-    "File_Nme": "SSA Agenda 10-31-2024 1_2024-10-29_14-48-02",
-    "Meeting_Date": "10/31/2024",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28818,
-    "Meeting_Event_ID": 44771,
-    "File_Nme": "SSA Agenda 10-31-2024 1_2024-10-29_15-30-02",
-    "Meeting_Date": "10/31/2024",
-    "Meeting_Time": "8:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
     "subCommitteeID": 0
   }
 ]
