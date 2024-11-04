@@ -2754,31 +2754,5 @@
     "Return_Message": "",
     "boardID": 877,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28827,
-    "Meeting_Event_ID": 44781,
-    "File_Nme": "TPACT Audit Committee 11-4-24 agenda_2024-10-31_16-41-02",
-    "Meeting_Date": "11/04/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Audit Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28827,
-    "Meeting_Event_ID": 44781,
-    "File_Nme": "TPACT Audit Committee 11-4-24 agenda_2024-10-31_16-41-02",
-    "Meeting_Date": "11/04/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Performing Arts Center Trust (TPACT) - Audit Committee",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 895,
-    "subCommitteeID": 305
   }
 ]
