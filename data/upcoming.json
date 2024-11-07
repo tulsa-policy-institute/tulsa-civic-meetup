@@ -13,6 +13,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28863,
+    "Meeting_Event_ID": 44814,
+    "File_Nme": "BOA Annual Schedule 2025_2024-11-06_09-40-03",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Board of Appeals",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 859,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28707,
     "Meeting_Event_ID": 44662,
     "File_Nme": "CTAG 2025 Meeting Schedule_2024-10-04_14-58-02",
@@ -23,6 +36,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 947,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28859,
+    "Meeting_Event_ID": 44810,
+    "File_Nme": "HUD CDC 2025 Calendar_2024-11-06_09-03-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Community Development Committee (HUD)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 868,
     "subCommitteeID": 0
   },
   {
@@ -49,6 +75,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 934,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28858,
+    "Meeting_Event_ID": 44809,
+    "File_Nme": "2025 EAC Regular Meeting Schedule_2024-11-06_08-42-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Ethics Advisory Committee (EAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 865,
     "subCommitteeID": 0
   },
   {
@@ -206,6 +245,58 @@
     "Return_Message": "",
     "boardID": 1082,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28857,
+    "Meeting_Event_ID": 44808,
+    "File_Nme": "2025 BOARD MTGS Calendar_2024-11-06_07-56-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 875,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28857,
+    "Meeting_Event_ID": 44808,
+    "File_Nme": "2025 BOARD MTGS Calendar_2024-11-06_07-56-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 875,
+    "subCommitteeID": 328
+  },
+  {
+    "Agenda_ID": 28857,
+    "Meeting_Event_ID": 44808,
+    "File_Nme": "2025 BOARD MTGS Calendar_2024-11-06_07-56-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 875,
+    "subCommitteeID": 247
+  },
+  {
+    "Agenda_ID": 28857,
+    "Meeting_Event_ID": 44808,
+    "File_Nme": "2025 BOARD MTGS Calendar_2024-11-06_07-56-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Metropolitan Tulsa Transit  Authority (MTTA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 875,
+    "subCommitteeID": 248
   },
   {
     "Agenda_ID": 28649,
@@ -466,6 +557,58 @@
     "Return_Message": "",
     "boardID": 881,
     "subCommitteeID": 278
+  },
+  {
+    "Agenda_ID": 28866,
+    "Meeting_Event_ID": 44817,
+    "File_Nme": "2025 FAC Meeting Schedule_2024-11-06_16-32-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH) - Food Advisory Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28866,
+    "Meeting_Event_ID": 44817,
+    "File_Nme": "2025 FAC Meeting Schedule_2024-11-06_16-32-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa City-County Board of Health (TCCBOH) - Food Advisory Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 886,
+    "subCommitteeID": 266
+  },
+  {
+    "Agenda_ID": 28861,
+    "Meeting_Event_ID": 44812,
+    "File_Nme": "2025 Tulsa County Criminal Justice Authority 2025 Meeting Schedule Stamped_2024-11-06_09-04-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa County Criminal Justice Authority (TCCJA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1100,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28860,
+    "Meeting_Event_ID": 44811,
+    "File_Nme": "2025 Meeting Schedules - TCCJA Sales Tax Overview Committee Stamped_2024-11-06_09-04-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa County Criminal Justice Sales Tax Overview Committee (TCCJSTOC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 888,
+    "subCommitteeID": 0
   },
   {
     "Agenda_ID": 28744,
@@ -2301,6 +2444,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28865,
+    "Meeting_Event_ID": 44816,
+    "File_Nme": "Cancelation notice CSC 11-14-24_2024-11-06_11-19-02",
+    "Meeting_Date": "11/14/2024",
+    "Meeting_Time": "1:30PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Civil Service Commission (CSC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28862,
+    "Meeting_Event_ID": 44813,
+    "File_Nme": "November Cancel_2024-11-06_09-09-02",
+    "Meeting_Date": "11/14/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Canceled",
+    "Board_Name": "Community Development Committee (HUD)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 868,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28813,
     "Meeting_Event_ID": 44766,
     "File_Nme": "Housing Partners of Tulsa, Inc Cancellation Notice 11.14.24_2024-10-28_14-29-02",
@@ -2418,6 +2587,32 @@
     "subCommitteeID": 333
   },
   {
+    "Agenda_ID": 28864,
+    "Meeting_Event_ID": 44815,
+    "File_Nme": "2024-11-12-BOA-Agenda_2024-11-06_10-15-02",
+    "Meeting_Date": "11/12/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Board of Adjustment (BOA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28856,
+    "Meeting_Event_ID": 44807,
+    "File_Nme": "11122024 GTAAAC Agenda_2024-11-06_07-53-02",
+    "Meeting_Date": "11/12/2024",
+    "Meeting_Time": "6:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Greater Tulsa Area African-American Affairs Commission (GTAAAAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1085,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28735,
     "Meeting_Event_ID": 44690,
     "File_Nme": "11.8.24 BAC Special Meeting Notice_2024-10-09_10-57-02",
@@ -2431,81 +2626,16 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 28704,
-    "Meeting_Event_ID": 44659,
-    "File_Nme": "Nov 7, 2024 DRC Agenda_2024-10-04_10-08-01",
-    "Meeting_Date": "11/07/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Disability Review Committee (DRC)",
+    "Agenda_ID": 28855,
+    "Meeting_Event_ID": 44690,
+    "File_Nme": "11.8.24 BAC Agenda_2024-11-06_07-52-02",
+    "Meeting_Date": "11/08/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Beyond Apology Commission (BAC)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 950,
+    "boardID": 1103,
     "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28854,
-    "Meeting_Event_ID": 44806,
-    "File_Nme": "SSA Agenda 11-07-2024_2024-11-05_15-08-02",
-    "Meeting_Date": "11/07/2024",
-    "Meeting_Time": "8:30AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Standards Specifications & Awards Committee (SSA)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1003,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28842,
-    "Meeting_Event_ID": 44796,
-    "File_Nme": "PPI Cancellation Notice_02.01.2024_2024-11-04_09-36-02",
-    "Meeting_Date": "11/07/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28842,
-    "Meeting_Event_ID": 44796,
-    "File_Nme": "PPI Cancellation Notice_02.01.2024_2024-11-04_09-36-02",
-    "Meeting_Date": "11/07/2024",
-    "Meeting_Time": "1:30PM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Stormwater Drainage Hazard Mitigation Advisory Board (SDHMAB) - Program for Public Information",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 881,
-    "subCommitteeID": 284
-  },
-  {
-    "Agenda_ID": 28845,
-    "Meeting_Event_ID": 44799,
-    "File_Nme": "Agenda-HPPS-2024-11-07_2024-11-04_12-04-02",
-    "Meeting_Date": "11/07/2024",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28845,
-    "Meeting_Event_ID": 44799,
-    "File_Nme": "Agenda-HPPS-2024-11-07_2024-11-04_12-04-02",
-    "Meeting_Date": "11/07/2024",
-    "Meeting_Time": "11:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 878,
-    "subCommitteeID": 285
   }
 ]
