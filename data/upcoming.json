@@ -2392,6 +2392,45 @@
     "subCommitteeID": 275
   },
   {
+    "Agenda_ID": 28904,
+    "Meeting_Event_ID": 44853,
+    "File_Nme": "TPC 2025 Meeting Schedule_2024-11-14_09-24-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28904,
+    "Meeting_Event_ID": 44853,
+    "File_Nme": "TPC 2025 Meeting Schedule_2024-11-14_09-24-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 277
+  },
+  {
+    "Agenda_ID": 28904,
+    "Meeting_Event_ID": 44853,
+    "File_Nme": "TPC 2025 Meeting Schedule_2024-11-14_09-24-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Preservation Commission - Historic Preservation Permit",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 878,
+    "subCommitteeID": 285
+  },
+  {
     "Agenda_ID": 28772,
     "Meeting_Event_ID": 44724,
     "File_Nme": "2025 TUB YEARLY SCHEDULE_2024-10-16_12-29-05",
@@ -2457,6 +2496,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28908,
+    "Meeting_Event_ID": 44856,
+    "File_Nme": "City FA 2024 Special Mtg Notice 11.21.24_2024-11-14_15-13-03",
+    "Meeting_Date": "11/21/2024",
+    "Meeting_Time": "8:00AM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28901,
+    "Meeting_Event_ID": 44850,
+    "File_Nme": "11.20.2024 November Tri-County Council on Aging Regular Meeting Agenda_2024-11-14_08-31-02",
+    "Meeting_Date": "11/20/2024",
+    "Meeting_Time": "10:00AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tri-County Council on Aging ",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1009,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28900,
     "Meeting_Event_ID": 44849,
     "File_Nme": "11-20-2024-Regular TMAPC Agenda_2024-11-13_16-32-02",
@@ -2480,6 +2545,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28906,
+    "Meeting_Event_ID": 44855,
+    "File_Nme": "November 19 2024 Regular Meeting Agenda_2024-11-14_11-15-02",
+    "Meeting_Date": "11/19/2024",
+    "Meeting_Time": "2:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Deferred Compensation Board",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 949,
     "subCommitteeID": 0
   },
   {
@@ -2535,6 +2613,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28905,
+    "Meeting_Event_ID": 44854,
+    "File_Nme": "AC AGENDA November 2024_2024-11-14_10-05-02",
+    "Meeting_Date": "11/18/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 882,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28907,
+    "Meeting_Event_ID": 44854,
+    "File_Nme": "AC AGENDA November 2024_2024-11-14_11-27-02",
+    "Meeting_Date": "11/18/2024",
+    "Meeting_Time": "4:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Arts Commission of City of Tulsa (ARTS)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 882,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28621,
     "Meeting_Event_ID": 44578,
     "File_Nme": "11182024 HRC Location Change_2024-09-18_11-00-02",
@@ -2587,29 +2691,29 @@
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 28736,
-    "Meeting_Event_ID": 44691,
-    "File_Nme": "11.15.24 BAC Special Meeting Notice_2024-10-09_10-57-02",
-    "Meeting_Date": "11/15/2024",
-    "Meeting_Time": "1:00PM",
+    "Agenda_ID": 28903,
+    "Meeting_Event_ID": 44852,
+    "File_Nme": "Spavinaw Special Meeting 11162024 TMUA_2024-11-14_09-05-02",
+    "Meeting_Date": "11/16/2024",
+    "Meeting_Time": "10:00AM",
     "Meeting_Type": "Special",
-    "Board_Name": "Beyond Apology Commission (BAC)",
+    "Board_Name": "Tulsa Metropolitan Utility Authority (TMUA)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 1103,
+    "boardID": 893,
     "subCommitteeID": 0
   },
   {
-    "Agenda_ID": 28897,
-    "Meeting_Event_ID": 44846,
-    "File_Nme": "11.15.24 BAC Agenda_2024-11-13_14-10-02",
-    "Meeting_Date": "11/15/2024",
-    "Meeting_Time": "1:00PM",
+    "Agenda_ID": 28902,
+    "Meeting_Event_ID": 44851,
+    "File_Nme": "Spavinaw Special Meeting 11162024  TUB_2024-11-14_09-05-02",
+    "Meeting_Date": "11/16/2024",
+    "Meeting_Time": "10:00AM",
     "Meeting_Type": "Special",
-    "Board_Name": "Beyond Apology Commission (BAC)",
+    "Board_Name": "Tulsa Utility Board (TUB)",
     "Return_Code": 0,
     "Return_Message": "",
-    "boardID": 1103,
+    "boardID": 930,
     "subCommitteeID": 0
   }
 ]
