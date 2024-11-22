@@ -26,6 +26,32 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28947,
+    "Meeting_Event_ID": 44888,
+    "File_Nme": "BOA-Meeting-Dates_2024-11-21_11-09-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Board of Adjustment (BOA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 858,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28947,
+    "Meeting_Event_ID": 44888,
+    "File_Nme": "BOA-Meeting-Dates_2024-11-21_11-09-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Board of Adjustment (BOA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 858,
+    "subCommitteeID": 282
+  },
+  {
     "Agenda_ID": 28863,
     "Meeting_Event_ID": 44814,
     "File_Nme": "BOA Annual Schedule 2025_2024-11-06_09-40-03",
@@ -2662,32 +2688,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 950,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28939,
-    "Meeting_Event_ID": 44881,
-    "File_Nme": "11.22.24 BAC Agenda_2024-11-19_16-53-02",
-    "Meeting_Date": "11/22/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Beyond Apology Commission (BAC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1103,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28732,
-    "Meeting_Event_ID": 44687,
-    "File_Nme": "11.22.24 BAC Special Meeting Notice_2024-10-09_08-02-02",
-    "Meeting_Date": "11/22/2024",
-    "Meeting_Time": "1:00PM",
-    "Meeting_Type": "Special",
-    "Board_Name": "Beyond Apology Commission (BAC)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 1103,
     "subCommitteeID": 0
   }
 ]
