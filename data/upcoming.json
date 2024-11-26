@@ -65,6 +65,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28956,
+    "Meeting_Event_ID": 44896,
+    "File_Nme": "2025 BAC Meeting Schedule_2024-11-25_14-21-01",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Beyond Apology Commission (BAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1103,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28947,
     "Meeting_Event_ID": 44888,
     "File_Nme": "BOA-Meeting-Dates_2024-11-21_11-09-02",
@@ -104,6 +117,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28957,
+    "Meeting_Event_ID": 44897,
+    "File_Nme": "CITY OF TULSA ANNUAL NOTICE 2025_2024-11-25_15-32-01",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "City of Tulsa-Rogers County Port Authority (COTRCPA)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 860,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28869,
     "Meeting_Event_ID": 44820,
     "File_Nme": "CSC 2025 Meeting Dates_2024-11-07_14-16-02",
@@ -140,6 +166,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 868,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28952,
+    "Meeting_Event_ID": 44892,
+    "File_Nme": "2025 Contractors Prequalification Committee Schedule_2024-11-25_11-34-01",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Contractors Prequalification Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 948,
     "subCommitteeID": 0
   },
   {
@@ -367,6 +406,19 @@
     "Agenda_ID": 28288,
     "Meeting_Event_ID": 44274,
     "File_Nme": "LEPC 2025 Mtgs_2024-06-28_13-42-01",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Local Emergency Planning Committee (LEPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1082,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28958,
+    "Meeting_Event_ID": 44274,
+    "File_Nme": "Updated 2025 Meeting Schedules - TAEMA - LEPC_2024-11-25_15-33-01",
     "Meeting_Date": "01/01/2025",
     "Meeting_Time": "",
     "Meeting_Type": "Annual",
@@ -2766,6 +2818,32 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28955,
+    "Meeting_Event_ID": 44895,
+    "File_Nme": "Agenda - Board of Trustees Meeting - December 3 2024_2024-11-25_14-20-02",
+    "Meeting_Date": "12/03/2024",
+    "Meeting_Time": "8:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Gilcrease Museum Board of Trustees",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 960,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28953,
+    "Meeting_Event_ID": 44893,
+    "File_Nme": "2024-12-02 Special Meeting_2024-11-25_11-54-01",
+    "Meeting_Date": "12/02/2024",
+    "Meeting_Time": "2:45PM",
+    "Meeting_Type": "Special",
+    "Board_Name": "Tulsa City Council",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 899,
     "subCommitteeID": 0
   }
 ]
