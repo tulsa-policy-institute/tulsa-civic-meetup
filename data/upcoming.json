@@ -52,6 +52,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28960,
+    "Meeting_Event_ID": 44899,
+    "File_Nme": "2025 AAC Meeting Schedule_2024-11-26_11-40-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Asian Affairs Commission (AAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1102,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28503,
     "Meeting_Event_ID": 44472,
     "File_Nme": "2025 Annual Meeting Schedule - 4th Thursday with exception_2024-08-22_13-48-02",
@@ -247,6 +260,45 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28961,
+    "Meeting_Event_ID": 44900,
+    "File_Nme": "2025 GTAAAAC Meeting Schedule_2024-11-26_11-40-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Greater Tulsa Area African-American Affairs Commission (GTAAAAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1085,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28962,
+    "Meeting_Event_ID": 44901,
+    "File_Nme": "2025 GTAHLAC Meeting Schedule_2024-11-26_11-40-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Greater Tulsa Area Hispanic-Latinx Affairs Commission (GTAHLAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 866,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28963,
+    "Meeting_Event_ID": 44902,
+    "File_Nme": "2025 GTAIAC Meeting Schedule_2024-11-26_11-40-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Greater Tulsa Area Indian Affairs Commission (GTAIAC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 867,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28742,
     "Meeting_Event_ID": 44697,
     "File_Nme": "RESOLUTION 12 MEETING DATES 2025 approved_2024-10-10_16-45-02",
@@ -258,6 +310,32 @@
     "Return_Message": "",
     "boardID": 967,
     "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28964,
+    "Meeting_Event_ID": 44903,
+    "File_Nme": "2025 HRC Meeting Schedule_2024-11-26_11-40-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Human Rights Commission (HRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 870,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28964,
+    "Meeting_Event_ID": 44903,
+    "File_Nme": "2025 HRC Meeting Schedule_2024-11-26_11-40-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Human Rights Commission (HRC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 870,
+    "subCommitteeID": 237
   },
   {
     "Agenda_ID": 28690,
@@ -2769,6 +2847,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 28965,
+    "Meeting_Event_ID": 44904,
+    "File_Nme": "2025 TWC Meeting Schedule_2024-11-26_11-40-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa Women's Commission (TWC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 874,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28233,
     "Meeting_Event_ID": 44224,
     "File_Nme": "DECEMBER LOCATION CHANGE STORMWATER DRAINAGE AND_2024-06-13_16-26-01",
@@ -2818,6 +2909,45 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 950,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28966,
+    "Meeting_Event_ID": 44905,
+    "File_Nme": "December 4 2024 TPC Meeting Notice and Agenda_2024-11-26_11-54-01",
+    "Meeting_Date": "12/04/2024",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 28966,
+    "Meeting_Event_ID": 44905,
+    "File_Nme": "December 4 2024 TPC Meeting Notice and Agenda_2024-11-26_11-54-01",
+    "Meeting_Date": "12/04/2024",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Indian Nation Council of Governments (INCOG) - Transportation Policy Committee",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 871,
+    "subCommitteeID": 254
+  },
+  {
+    "Agenda_ID": 28959,
+    "Meeting_Event_ID": 44898,
+    "File_Nme": "2024-12-04-TMAPC-Agenda_2024-11-26_10-15-01",
+    "Meeting_Date": "12/04/2024",
+    "Meeting_Time": "1:00PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Metropolitan Area Planning Commission (TMAPC)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 892,
     "subCommitteeID": 0
   },
   {
