@@ -3185,6 +3185,19 @@
     "subCommitteeID": 0
   },
   {
+    "Agenda_ID": 29014,
+    "Meeting_Event_ID": 44947,
+    "File_Nme": "CITY FA 2025 MTG DATES_2024-12-05_14-16-02",
+    "Meeting_Date": "01/01/2025",
+    "Meeting_Time": "",
+    "Meeting_Type": "Annual",
+    "Board_Name": "Tulsa's Port of Catoosa Facilities Authority",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 1076,
+    "subCommitteeID": 0
+  },
+  {
     "Agenda_ID": 28233,
     "Meeting_Event_ID": 44224,
     "File_Nme": "DECEMBER LOCATION CHANGE STORMWATER DRAINAGE AND_2024-06-13_16-26-01",
@@ -3208,6 +3221,19 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 861,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 29016,
+    "Meeting_Event_ID": 44948,
+    "File_Nme": "IDAB  Agenda 12-12-2024_2024-12-05_16-33-01",
+    "Meeting_Date": "12/12/2024",
+    "Meeting_Time": "3:30PM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Infrastructure Development Advisory Board (IDAB)",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 872,
     "subCommitteeID": 0
   },
   {
@@ -3235,6 +3261,58 @@
     "Return_Message": "",
     "boardID": 980,
     "subCommitteeID": 244
+  },
+  {
+    "Agenda_ID": 29013,
+    "Meeting_Event_ID": 44946,
+    "File_Nme": "12.12.24 Agenda _2024-12-05_14-16-01",
+    "Meeting_Date": "12/12/2024",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Housing Authority (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 29015,
+    "Meeting_Event_ID": 44946,
+    "File_Nme": "Meeting Notice_2024-12-05_14-16-02",
+    "Meeting_Date": "12/12/2024",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Housing Authority (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 0
+  },
+  {
+    "Agenda_ID": 29013,
+    "Meeting_Event_ID": 44946,
+    "File_Nme": "12.12.24 Agenda _2024-12-05_14-16-01",
+    "Meeting_Date": "12/12/2024",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Housing Authority (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
+  },
+  {
+    "Agenda_ID": 29015,
+    "Meeting_Event_ID": 44946,
+    "File_Nme": "Meeting Notice_2024-12-05_14-16-02",
+    "Meeting_Date": "12/12/2024",
+    "Meeting_Time": "10:30AM",
+    "Meeting_Type": "Regular",
+    "Board_Name": "Tulsa Housing Authority (THA) - Board of Commissioners",
+    "Return_Code": 0,
+    "Return_Message": "",
+    "boardID": 869,
+    "subCommitteeID": 308
   },
   {
     "Agenda_ID": 28950,
@@ -3338,32 +3416,6 @@
     "Return_Code": 0,
     "Return_Message": "",
     "boardID": 895,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28990,
-    "Meeting_Event_ID": 44924,
-    "File_Nme": "December 6, 2024 CTAG Meeting Notice and Agenda_2024-12-03_09-34-01",
-    "Meeting_Date": "12/06/2024",
-    "Meeting_Time": "10:00AM",
-    "Meeting_Type": "Regular",
-    "Board_Name": "Coalition of Tulsa Area Governments (CTAG)",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 947,
-    "subCommitteeID": 0
-  },
-  {
-    "Agenda_ID": 28987,
-    "Meeting_Event_ID": 44923,
-    "File_Nme": "Gathering",
-    "Meeting_Date": "12/06/2024",
-    "Meeting_Time": "8:00AM",
-    "Meeting_Type": "Canceled",
-    "Board_Name": "Tulsa's Gathering Place LLC",
-    "Return_Code": 0,
-    "Return_Message": "",
-    "boardID": 931,
     "subCommitteeID": 0
   }
 ]
